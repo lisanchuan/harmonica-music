@@ -1,29 +1,67 @@
 #!/usr/bin/env python3
+"""
+白熊音乐 → harmonica-music 数据同步脚本
+
+支持两种运行方式：
+  1. 本地运行（通过 docker exec 实时查询）
+  2. Docker 容器内运行（直连 /app/data/db.db）
+
+用法：
+    python3 sync_white_bear.py --limit 50
+    python3 sync_white_bear.py --keyword 尤克里里
+    python3 sync_white_bear.py --all          # 不过滤关键词
+    python3 sync_white_bear.py --docker        # 在宿主机通过 docker exec 查询
+"""
 from __future__ import annotations
-"""白熊音乐 → harmonica-music 数据同步脚本"""
 import argparse
 import json
 import os
 import sqlite3
+import subprocess
 from datetime import datetime
-from typing import Dict, List
+from typing import Dict, List, Optional
 
-WE_MP_RSS_DB = "/tmp/we-mp-rss.db"
+# ====== 配置 ======
+CONTAINER_NAME = "we-mp-rss"          # Docker 容器名
+DB_PATH_IN_CONTAINER = "/app/data/db.db"
 OUTPUT_FILE = "/Users/lisanchuan1/Documents/code/ai code/harmonica-music/data/wechat_songs.json"
 WHITE_BEAR_MP_ID = "MP_WXS_3273006200"
 WHITE_BEAR_NAME = "白熊音乐"
 INSTRUMENT = "ukulele"
+
+# 默认关键词（OR 逻辑）
 DEFAULT_KEYWORDS = ["尤克里里", "ukulele", "Ukulele", "琴", "和弦", "弹唱", "指弹"]
 
 
 def parse_timestamp(ts: int) -> str:
+    if not ts:
+        return ""
     return datetime.fromtimestamp(ts).strftime("%Y-%m-%d %H:%M")
+
+
+def clean_html(raw_html: str) -> str:
+    """去掉 <!DOCTYPE>, <head>, 保留 <body> 或 <section> 主体内容"""
+    import re
+    if not raw_html:
+        return ""
+    html = raw_html.strip()
+    # 去掉 <!DOCTYPE>
+    html = re.sub(r'^<!DOCTYPE[^>]*>\s*', '', html, flags=re.IGNORECASE)
+    # 去掉 <head>...</head>
+    html = re.sub(r'<head[^>]*>.*?</head>', '', html, flags=re.DOTALL | re.IGNORECASE)
+    # 只保留 <body> 内部（如果有）
+    body_match = re.search(r'<body[^>]*>(.*)</body>', html, flags=re.DOTALL | re.IGNORECASE)
+    if body_match:
+        html = body_match.group(1)
+    return html.strip()
 
 
 def article_to_song(article: Dict) -> Dict:
     article_id = article["id"]
     resource_id = f"wb_{article_id}"
-    content = article.get("content_html") or ""
+    # 优先用 content_html（提取后的正文），其次 content_html，其次 content
+    content = article.get("content_html") or article.get("content") or ""
+    content = clean_html(content)
     summary = article.get("description") or ""
     return {
         "resource_id": resource_id,
@@ -38,7 +76,7 @@ def article_to_song(article: Dict) -> Dict:
         "summary": summary.strip(),
         "content": content,
         "external_url": article.get("url") or "",
-        "published_at": parse_timestamp(article["publish_time"]) if article.get("publish_time") else "",
+        "published_at": parse_timestamp(article.get("publish_time")),
         "instrument": INSTRUMENT,
         "style": ["pop"],
     }
@@ -66,45 +104,67 @@ def save_songs(file_path: str, songs: List[Dict]):
     print(f"Written {len(songs)} songs to {file_path}")
 
 
-def sync(db_path: str, output_path: str, keywords: List[str], limit: int = None, offset: int = 0):
-    print(f"Reading DB: {db_path}")
+def query_db(sql: str, params: tuple = ()) -> List[Dict]:
+    """通过 docker exec 查询容器内数据库"""
+    cmd = [
+        "docker", "exec", CONTAINER_NAME,
+        "python3", "-c",
+        f"import sqlite3,json; conn=sqlite3.connect('{DB_PATH_IN_CONTAINER}'); conn.row_factory=sqlite3.Row; c=conn.cursor(); rows=c.execute({repr(sql)},{params}).fetchall(); print(json.dumps([dict(r) for r in rows]))"
+    ]
+    result = subprocess.run(cmd, capture_output=True, text=True, timeout=30)
+    if result.returncode != 0:
+        raise RuntimeError(f"docker exec failed: {result.stderr}")
+    return json.loads(result.stdout.strip())
+
+
+def sync(keywords: List[str], limit: Optional[int] = None):
+    print(f"Fetching from container: {CONTAINER_NAME}")
     print(f"Keywords: {keywords if keywords else 'none'}")
+    print(f"MP_ID: {WHITE_BEAR_MP_ID}")
 
-    conn = sqlite3.connect(db_path)
-    conn.row_factory = sqlite3.Row
-    cursor = conn.cursor()
-
-    cursor.execute("SELECT COUNT(*) FROM articles WHERE mp_id = ?", (WHITE_BEAR_MP_ID,))
-    total = cursor.fetchone()[0]
+    # 1. 查询总数
+    total_rows = query_db(
+        "SELECT COUNT(*) as cnt FROM articles WHERE mp_id=?",
+        (WHITE_BEAR_MP_ID,)
+    )
+    total = total_rows[0]["cnt"] if total_rows else 0
     print(f"Total articles for {WHITE_BEAR_NAME}: {total}")
 
-    cursor.execute(
-        "SELECT id, mp_id, title, pic_url, url, description, content_html, publish_time "
-        "FROM articles WHERE mp_id = ? ORDER BY publish_time DESC LIMIT ? OFFSET ?",
-        (WHITE_BEAR_MP_ID, limit if limit else 999999, offset),
+    # 2. 查询文章列表（带 content）
+    limit_clause = f"LIMIT {limit}" if limit else ""
+    rows = query_db(
+        f"""
+        SELECT id, mp_id, title, pic_url, url, description,
+               content, content_html, publish_time
+        FROM articles
+        WHERE mp_id=?
+        ORDER BY publish_time DESC
+        {limit_clause}
+        """,
+        (WHITE_BEAR_MP_ID,)
     )
 
+    # 3. 过滤 & 转换
     songs: List[Dict] = []
     skipped = 0
-    for row in cursor.fetchall():
-        article = dict(row)
-        title = article.get("title", "")
-        desc = article.get("description", "")
+    for row in rows:
+        title = row.get("title", "")
+        desc = row.get("description", "")
         if not filter_by_keywords(title, desc, keywords):
             skipped += 1
             continue
-        songs.append(article_to_song(article))
+        songs.append(article_to_song(row))
 
-    conn.close()
     print(f"Converted: {len(songs)} (skipped {skipped})")
 
-    existing = {s["resource_id"]: s for s in load_existing(output_path)}
+    # 4. 合并已有数据（去重）
+    existing = {s["resource_id"]: s for s in load_existing(OUTPUT_FILE)}
     for song in songs:
         existing[song["resource_id"]] = song
 
     merged = list(existing.values())
     merged.sort(key=lambda s: s.get("published_at", ""), reverse=True)
-    save_songs(output_path, merged)
+    save_songs(OUTPUT_FILE, merged)
 
 
 def main():
@@ -115,7 +175,7 @@ def main():
     args = parser.parse_args()
 
     keywords = [] if args.all else (args.keyword or DEFAULT_KEYWORDS)
-    sync(WE_MP_RSS_DB, OUTPUT_FILE, keywords, limit=args.limit)
+    sync(keywords, limit=args.limit)
 
 
 if __name__ == "__main__":
