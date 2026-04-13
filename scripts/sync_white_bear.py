@@ -253,13 +253,28 @@ def extract_song_names_from_content(content: str) -> list[str]:
 
 
 def match_score(song_name: str, bili_title: str) -> float:
-    """计算歌曲名与B站标题的匹配得分 (0-1)"""
+    """计算歌曲名与B站标题的匹配得分 (0-1)
+
+    优先级：
+    1. 歌名完整出现在〈〉/《》括号中 → 1.0+（精确歌名匹配）
+    2. 歌名是B站标题的子串 → 0.9（子串匹配）
+    3. 基于词的 Jaccard/word_bonus → max(jaccard, word_bonus*0.8)
+    """
     song_n = normalize_for_match(song_name)
     bili_n = normalize_for_match(bili_title)
     if not song_n or not bili_n:
         return 0.0
+
+    # 优先：歌名出现在 bilibili 标题的括号中（精确歌名匹配）
+    # 例如: 〈晴天〉/周杰伦 → 晴天 是歌曲名，不是教学描述
+    bracket_pattern = r'[〈《](' + re.escape(song_n) + r')[〉》]'
+    if re.search(bracket_pattern, bili_title):
+        return 1.0  # 括号精确匹配，最高分
+
+    # 次优先：歌名是标题子串（但不在括号中，可能是标题描述的一部分）
     if song_n in bili_n or bili_n in song_n:
-        return 1.0
+        return 0.9
+
     song_words = set(song_n.split())
     bili_words = set(bili_n.split())
     if not song_words:
@@ -357,7 +372,11 @@ def fetch_bilibili_videos(force: bool = False) -> list[dict]:
         # 策略2: 搜索 API 补充（space API 只返回部分数据）
         print(f"[Bilibili] 策略2: 搜索 API 补充 (space got {len(all_videos)})")
         seen = {v["bvid"] for v in all_videos}
-        for kw in ["白熊音乐Ukulele 弹唱", "白熊音乐Ukulele 尤克里里", "白熊音乐Ukulele 教学"]:
+        for kw in [
+            "白熊音乐Ukulele 弹唱", "白熊音乐Ukulele 尤克里里", "白熊音乐Ukulele 教学",
+            "白熊音乐Ukulele 演示", "白熊音乐ukulele 翻唱", "白熊音乐Ukulele 曲谱",
+            "白熊音乐ukulele cover", "白熊音乐Ukulele 新歌", "白熊音乐ukulele 热门",
+        ]:
             for page in range(1, 4):
                 query = urllib.parse.quote(kw)
                 url = f"https://api.bilibili.com/x/web-interface/search/all/v2?keyword={query}&page={page}&page_size=20"
@@ -391,24 +410,41 @@ def fetch_bilibili_videos(force: bool = False) -> list[dict]:
 def sync_bilibili_videos(bili_videos: list[dict], songs: list[dict]) -> tuple[int, int]:
     """
     用公众号文章标题匹配 B站视频，写入 bilibili_bvid 字段。
-    优先从 content 提取歌名（【《》】括号），再用 article_title兜底。
+    优先从 content 提取歌名（【《》】括号），再从 article_title 提取歌名，最后用 article_title 全文匹配兜底。
     返回 (成功匹配数, 文章总数)
     """
     matched = 0
     for song in songs:
         article_title = song.get("title", "")
         content = song.get("content", "")
-        # 优先从 content 提取真实歌名
-        song_names = extract_song_names_from_content(content)
+
+        # 从 article_title 提取歌名（标题中的〈〉/《》括号）
+        title_song_names = extract_song_names_from_content(article_title)
+
+        # 从 content 提取歌名
+        content_song_names = extract_song_names_from_content(content)
+
+        # 优先从 content 歌名匹配（content 中的歌名更可能是文章主题）
         bvid, matched_title = None, None
-        if song_names:
-            for sn in song_names:
+        if content_song_names:
+            for sn in content_song_names:
                 bvid, matched_title = match_bilibili_video(sn, bili_videos)
                 if bvid:
                     break
-        # 兜底：用 article_title
+
+        # 其次：从 article_title 歌名匹配
+        if not bvid and title_song_names:
+            for sn in title_song_names:
+                if sn in content_song_names:
+                    continue  # 已尝试过
+                bvid, matched_title = match_bilibili_video(sn, bili_videos)
+                if bvid:
+                    break
+
+        # 兜底：用 article_title 全文（降低阈值以减少漏匹配）
         if not bvid:
-            bvid, matched_title = match_bilibili_video(article_title, bili_videos)
+            bvid, matched_title = match_bilibili_video(article_title, bili_videos, threshold=0.30)
+
         if bvid:
             song["bilibili_bvid"] = bvid
             song["_bilibili_matched_title"] = matched_title
@@ -559,7 +595,6 @@ def diagnose_and_fix():
             )
             print("✅ 容器已启动，等待 5 秒...")
             import time
-import random
             time.sleep(5)
         except Exception as e:
             print(f"❌ 启动容器失败: {e}")
@@ -617,7 +652,11 @@ def main():
         matched = 0
         for s in test:
             sns = extract_song_names_from_content(s.get("content", ""))
-            bv, sn = match_bilibili_video(sns, bili_videos)
+            bv, matched_title = None, None
+            for sn in sns:
+                bv, matched_title = match_bilibili_video(sn, bili_videos)
+                if bv:
+                    break
             status = "✅" if bv else "❌"
             if bv: matched += 1
             print(f"{status} {s['title'][:40]}")
