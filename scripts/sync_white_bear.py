@@ -271,24 +271,21 @@ def match_score(song_name: str, bili_title: str) -> float:
     return max(jaccard, word_bonus * 0.8)
 
 
-def match_bilibili_video(song_names: list[str], bili_videos: list[dict], threshold: float = 0.35) -> tuple[Optional[str], Optional[str]]:
+def match_bilibili_video(article_title: str, bili_videos: list[dict], threshold: float = 0.35) -> tuple[Optional[str], Optional[str]]:
     """
-    从歌名列表匹配 B站视频。
-    返回 (bvid, matched_song_name) 或 (None, None)
+    用公众号文章标题匹配 B站视频标题。
+    返回 (bvid, matched_title) 或 (None, None)
     """
-    if not song_names or not bili_videos:
+    if not article_title or not bili_videos:
         return None, None
-    best_bvid, best_song, best_score = None, None, threshold
-    for sn in song_names:
-        if len(sn) < 2:
-            continue
-        for v in bili_videos:
-            score = match_score(sn, v["title"])
-            if score > best_score:
-                best_score = score
-                best_bvid = v["bvid"]
-                best_song = sn
-    return best_bvid, best_song
+    best_bvid, best_title, best_score = None, None, threshold
+    for v in bili_videos:
+        score = match_score(article_title, v["title"])
+        if score > best_score:
+            best_score = score
+            best_bvid = v["bvid"]
+            best_title = v["title"]
+    return best_bvid, best_title
 
 
 def embed_bilibili_iframe(bvid: str) -> str:
@@ -317,14 +314,20 @@ def fetch_bilibili_videos(force: bool = False) -> list[dict]:
 
     all_videos = []
 
-    # 策略1: space API
+    # 策略1: space API（需要 buvid3 cookie 才能过风控）
     print("[Bilibili] 策略1: space API...")
+    buvid3 = "BILI_DESKTOP_SPMA_0.0.0.0"  # 基础 buvid3，不依赖外部 cookie
     for page in range(1, 20):
-        url = f"https://api.bilibili.com/x/space/arc/search?mid={BILI_MID}&pn={page}&ps=30&order=pubdate"
+        # wts 参数防止 CDN 缓存导致 412
+        wts = str(int(time.time()))
+        url = f"https://api.bilibili.com/x/space/arc/search?mid={BILI_MID}&pn={page}&ps=30&order=pubdate&wts={wts}"
         req = urllib.request.Request(url, headers={
             "User-Agent": USER_AGENT,
             "Referer": f"https://space.bilibili.com/{BILI_MID}/video",
-            "Accept-Language": "zh-CN,zh;q=0.9",
+            "Accept": "application/json, text/plain, */*",
+            "Accept-Language": "zh-CN,zh;q=0.9,en;q=0.8",
+            "Origin": "https://space.bilibili.com",
+            "Cookie": f"buvid3={buvid3}",
         })
         try:
             with urllib.request.urlopen(req, timeout=15) as resp:
@@ -332,11 +335,15 @@ def fetch_bilibili_videos(force: bool = False) -> list[dict]:
             if data.get("code") == 0:
                 vlist = data.get("data", {}).get("list", {}).get("vlist", [])
                 if not vlist:
+                    print(f"  page {page}: empty, stop")
                     break
                 for v in vlist:
                     all_videos.append({"bvid": v["bvid"], "title": v["title"]})
                 print(f"  page {page}: +{len(vlist)}, total={len(all_videos)}")
-                time.sleep(2)
+                time.sleep(random.uniform(3, 6))  # 随机间隔降低风控
+            elif data.get("code") == -412:
+                print(f"  page {page}: 412 -> break (space blocked)")
+                break
             else:
                 print(f"  page {page}: code={data.get('code')} {data.get('message','')} -> retry")
                 time.sleep(5)
@@ -346,9 +353,9 @@ def fetch_bilibili_videos(force: bool = False) -> list[dict]:
             time.sleep(5)
             continue
 
-    if len(all_videos) < 20:
-        # 策略2: 搜索 API 兜底
-        print(f"[Bilibili] 策略2: 搜索 API (space got {len(all_videos)})")
+    if len(all_videos) < 50:
+        # 策略2: 搜索 API 补充（space API 只返回部分数据）
+        print(f"[Bilibili] 策略2: 搜索 API 补充 (space got {len(all_videos)})")
         seen = {v["bvid"] for v in all_videos}
         for kw in ["白熊音乐Ukulele 弹唱", "白熊音乐Ukulele 尤克里里", "白熊音乐Ukulele 教学"]:
             for page in range(1, 4):
@@ -363,7 +370,7 @@ def fetch_bilibili_videos(force: bool = False) -> list[dict]:
                         result_data = json.loads(resp.read())
                     if result_data.get("code") == 0:
                         for r in result_data.get("data", {}).get("result", []):
-                            if r.get("data_type") == "video":
+                            if r.get("result_type") == "video":
                                 for item in r.get("data", []):
                                     bv = item.get("bvid", "")
                                     if bv and bv not in seen:
@@ -383,21 +390,28 @@ def fetch_bilibili_videos(force: bool = False) -> list[dict]:
 
 def sync_bilibili_videos(bili_videos: list[dict], songs: list[dict]) -> tuple[int, int]:
     """
-    为 songs 列表中的文章匹配并嵌入 B站视频 iframe。
+    用公众号文章标题匹配 B站视频，写入 bilibili_bvid 字段。
+    优先从 content 提取歌名（【《》】括号），再用 article_title兜底。
     返回 (成功匹配数, 文章总数)
     """
     matched = 0
     for song in songs:
+        article_title = song.get("title", "")
         content = song.get("content", "")
+        # 优先从 content 提取真实歌名
         song_names = extract_song_names_from_content(content)
-        if not song_names:
-            continue
-        bvid, matched_name = match_bilibili_video(song_names, bili_videos)
+        bvid, matched_title = None, None
+        if song_names:
+            for sn in song_names:
+                bvid, matched_title = match_bilibili_video(sn, bili_videos)
+                if bvid:
+                    break
+        # 兜底：用 article_title
+        if not bvid:
+            bvid, matched_title = match_bilibili_video(article_title, bili_videos)
         if bvid:
-            iframe = embed_bilibili_iframe(bvid)
-            song["content"] = content + iframe
-            song["_bilibili_bvid"] = bvid
-            song["_bilibili_matched_song"] = matched_name
+            song["bilibili_bvid"] = bvid
+            song["_bilibili_matched_title"] = matched_title
             matched += 1
     return matched, len(songs)
 
@@ -545,6 +559,7 @@ def diagnose_and_fix():
             )
             print("✅ 容器已启动，等待 5 秒...")
             import time
+import random
             time.sleep(5)
         except Exception as e:
             print(f"❌ 启动容器失败: {e}")
