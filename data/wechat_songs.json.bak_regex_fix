@@ -10,7 +10,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "扎堆翻唱！这首歌到底有什么魔力？！",
-    "content": "<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342222_1_001.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342222_1_002.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342222_1_003.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342222_1_004.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342222_1_005.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342222_1_006.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342222_1_007.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342222_1_008.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342222_1_009.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342222_1_010.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342222_1_011.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342222_1_012.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342222_1_013.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342222_1_014.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342222_1_015.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342222_1_016.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342222_1_017.jpg\"/></p>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342222_1_006.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342222_1_007.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342222_1_008.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "https://mp.weixin.qq.com/s/AztiX_zsXPH_wvntRPNthg",
     "published_at": "2026-04-07 20:37",
     "instrument": "ukulele",
@@ -18,7 +18,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649342222_1_004.jpg"
+      "/images/wb_3273006200-2649342222_1_006.jpg",
+      "/images/wb_3273006200-2649342222_1_007.jpg",
+      "/images/wb_3273006200-2649342222_1_008.jpg"
     ]
   },
   {
@@ -39,13 +41,7 @@
     "style": [
       "pop"
     ],
-    "sheet_images": [
-      "/images/wb_3273006200-2649342214_1_003.jpg",
-      "/images/wb_3273006200-2649342214_1_005.jpg",
-      "/images/wb_3273006200-2649342214_1_006.jpg",
-      "/images/wb_3273006200-2649342214_1_007.jpg",
-      "/images/wb_3273006200-2649342214_1_008.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649342205_1",
@@ -65,12 +61,7 @@
     "style": [
       "pop"
     ],
-    "sheet_images": [
-      "/images/wb_3273006200-2649342205_1_004.jpg",
-      "/images/wb_3273006200-2649342205_1_005.jpg",
-      "/images/wb_3273006200-2649342205_1_006.jpg",
-      "/images/wb_3273006200-2649342205_1_007.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649342197_1",
@@ -83,7 +74,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "全网翻唱！                                              周杰伦新歌                                            〈那天下雨了〉吉他弹唱教学来啦～                                                                                    ...",
-    "content": "<html><body></body></html>",
+    "content": "<html><body><p></p>\n<p>全网翻唱！</p>\n<p>周杰伦新歌 〈那天下雨了〉吉他弹唱教学来啦～</p>\n<p>吉他弹唱教学</p>\n<p>@崔骏ukulele</p>\n<p>之前出的尤克里里弹唱版也附上～</p>\n<p>Ukulele弹唱｜草帽</p>\n<p>/</p>\n<p>● 曲谱在文末~</p>\n<p></p>\n<p>同款琴： 恩雅周同学联名款</p>\n<p>复制到淘宝打开：</p>\n<p>https://e.tb.cn/h.iiUY0pjEWU2zJfL?tk=4G185bNSUb8 CZ356</p>\n<p>周氏情歌+ 〈 晴天 〉 情怀杀，</p>\n<p>让 〈那天下雨了〉 成为周杰伦新专辑中</p>\n<p>第一首破百万收藏的歌曲，</p>\n<p>持续占据多个榜单冠军！</p>\n<p>跨越23年的温柔回信，</p>\n<p>让无数人直呼\"我的青春闭环了\"～</p>\n<p>那天下雨了</p>\n<p>周杰伦</p>\n<p></p>\n<p>○ 〈那天下雨了 〉 由周杰伦作词作曲并演唱，收录在其2026年3月25日发行的专辑《太阳之子》中。</p>\n<p>○ 这 首 歌像是一幅周式纯爱风水彩插画，被雨滴晕染开的水彩颜色，就像年少的暧昧朦胧，错过了就成了未来的浪漫遗 憾。 周杰伦以娓娓道来的 方式演唱，以第一人称声音演出这幅以六张插画组成的故事：「现在式偶遇的男女对望」、「男人内心的浪漫幻想」、「学生时期女孩剪下男孩毕业纪念册的照 片」、「学生时期的书店女孩借书给男孩」、「学生时期女孩为男孩撑伞」、「现在式的女孩老家三人身影」，那些被男孩遗忘的温柔，现在已经太迟。即使是首写遗憾的歌，旋律却美得令人晕眩，纯爱在岁月的滤镜下，在生命的轨迹里即使错过了爱，也未尝不是一种浪漫？</p>\n<p></p>\n<p>细味歌词 lrc</p>\n<p>滑动查看</p>\n<p>车子缓缓的开 你慢慢走来</p>\n<p>我竟然看着你发呆</p>\n<p>你尴尬Say个Hi 没位坐下来</p>\n<p>我想叫旁边的离开</p>\n<p>我车票都还在 心却在窗外</p>\n<p>因为你已下了站台</p>\n<p>远远的看着你点点头车已开</p>\n<p>你一句话我爬窗离开</p>\n<p>你证件掉了出来 我才明白</p>\n<p>是那隔壁班的女孩</p>\n<p>这么多年彼此竟然没认出来</p>\n<p>是你变美还是我变帅</p>\n<p>你经过花就开 离开雨就来</p>\n<p>这里适合谈个恋爱</p>\n<p>如果我要一个梦幻的开场白</p>\n<p>没有比你更美的对白</p>\n<p>雪白的天空等待彩虹出现</p>\n<p>（彩虹出现）</p>\n<p>你我的遇见是谁许的愿</p>\n<p>（谁许的愿）</p>\n<p>黑黑的夜空繁星变得耀眼</p>\n<p>（变得耀眼）</p>\n<p>因为你出现在我身边</p>\n<p>你老家有点远 但我有点闲</p>\n<p>也许能陪你走一圈</p>\n<p>把你的父母都见 吃几口麻酱面</p>\n<p>也许还能打个几圈 （我胡了）</p>\n<p>乡间的麦芽田 害羞的脸</p>\n<p>你提到多年前的暗恋</p>\n<p>你剪下校园毕业册的那一页</p>\n<p>是因为我在照片里面</p>\n<p>雪白的天空等待彩虹出现</p>\n<p>（彩虹出现）</p>\n<p>你我的遇见是谁许的愿</p>\n<p>（谁许的愿）</p>\n<p>黑黑的夜空繁星变得耀眼</p>\n<p>（变得耀眼）</p>\n<p>因为你出现在我身边</p>\n<p>原来多年前在那个书店</p>\n<p>借我课本的是你</p>\n<p>原来看我被雨淋的那天</p>\n<p>帮我撑伞也是你</p>\n<p>翘课的那一天 花落那一天</p>\n<p>教室那间我已看见</p>\n<p>消失的下雨天 我想再淋一遍</p>\n<p>我应该对你唱着晴天</p>\n<p>送你到家门外 我才明白</p>\n<p>原来你早已有人疼爱</p>\n<p>如果回到过去那一个下雨天</p>\n<p>我会为了你把伞撑开</p>\n<p>如果回到过去那一个下雨天</p>\n<p>我绝不再 转身离开</p>\n<p>教学+谱</p>\n<p>Have Ukulele Have FUN!</p>\n<p>Ukulele弹唱教学|@草帽呀</p>\n<p>白熊音乐｜ POLAR BEAR Ukulele</p>\n<p>/</p>\n<p>○ 点开图片保存高清大图</p>\n<p>▼ 弹奏难度 (中等)</p>\n<p>1 尤克里里弹唱 谱(女&amp;男)</p>\n<p></p>\n<p></p>\n<p>2 吉他弹唱 谱(女&amp;男)</p>\n<p>/</p>\n<p>教学用谱</p>\n<p></p>\n<p>/</p>\n<p>吉他弹唱谱</p>\n<p></p>\n<p></p>\n<p></p>\n<p>周杰伦新专辑《太阳之子》曲谱大合集｜戳图直达</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649342044&amp;idx=1&amp;sn=1c0a94cbbec682f03198e6e8714641c1&amp;scene=21#wechat_redirect\"></a></p>\n<p>近百首周杰伦歌曲曲谱大合集｜戳图直达</p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342197_1_012.jpg\"/></p>\n<p>更多Taylor Swift歌单｜戳图</p>\n<p></p>\n<p>微信小店：「白熊音乐」</p>\n<p>购琴点击直达：</p>\n<p></p>\n<p>往期热门内容</p>\n<p></p>\n<p>· 点击图片直达 ·</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341874&amp;idx=1&amp;sn=8cd34f9cda03531d633cd4b88d2cb801&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649342186&amp;idx=1&amp;sn=f773f9cd73477f5b7005c7bd17155dff&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341786&amp;idx=1&amp;sn=783dcae7fc9b701761b225bf91d32eef&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649342167&amp;idx=1&amp;sn=de1346ab68ec5e490bc46472ecc27252&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649342189&amp;idx=1&amp;sn=9ac198d8c41d745db0e2dc260b70f10a&amp;scene=21#wechat_redirect\"></a></p>\n<p>-弹琴给你喜欢的人听-</p>\n<p>LIVE BETTER WITH UKULELE</p>\n<p></p>\n<p></p>\n<p></p><div class=\"bilibili-video\"><iframe allowfullscreen=\"true\" frameborder=\"0\" height=\"500\" scrolling=\"no\" src=\"https://player.bilibili.com/player.html?bvid=BV1WbXUBGEc3\" width=\"100%\"></iframe></div></body></html>",
     "external_url": "https://mp.weixin.qq.com/s/fYNJURLXqELg-czNEVuI9w",
     "published_at": "2026-04-04 20:34",
     "instrument": "guitar",
@@ -93,9 +84,7 @@
     "_bilibili_bvid": "BV1WbXUBGEc3",
     "_bilibili_matched_song": "那天下雨了",
     "sheet_images": [
-      "/images/wb_3273006200-2649342197_1_005.jpg",
-      "/images/wb_3273006200-2649342197_1_007.jpg",
-      "/images/wb_3273006200-2649342197_1_008.jpg"
+      "/images/wb_3273006200-2649342197_1_012.jpg"
     ]
   },
   {
@@ -116,9 +105,7 @@
     "style": [
       "pop"
     ],
-    "sheet_images": [
-      "/images/wb_3273006200-2649342189_1_004.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649342090_1",
@@ -140,9 +127,7 @@
     ],
     "_bilibili_bvid": "BV1WbXUBGEc3",
     "_bilibili_matched_song": "那天下雨了",
-    "sheet_images": [
-      "/images/wb_3273006200-2649342090_1_006.jpg"
-    ],
+    "sheet_images": [],
     "bilibili_bvid": "BV1UPXMBTEdr"
   },
   {
@@ -165,17 +150,7 @@
     ],
     "_bilibili_bvid": "BV1HVQrBjE4m",
     "_bilibili_matched_song": "太阳之子",
-    "sheet_images": [
-      "/images/wb_3273006200-2649342044_1_004.jpg",
-      "/images/wb_3273006200-2649342044_1_007.jpg",
-      "/images/wb_3273006200-2649342044_1_010.jpg",
-      "/images/wb_3273006200-2649342044_1_013.jpg",
-      "/images/wb_3273006200-2649342044_1_016.jpg",
-      "/images/wb_3273006200-2649342044_1_028.jpg",
-      "/images/wb_3273006200-2649342044_1_031.jpg",
-      "/images/wb_3273006200-2649342044_1_034.jpg",
-      "/images/wb_3273006200-2649342044_1_037.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649342014_1",
@@ -188,7 +163,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "周杰伦新歌〈太阳之子〉曲谱来啦！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342014_1_015.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342014_1_017.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p>终于等到了！！</p>\n<p>周杰伦新专辑同名主打歌〈太阳之子〉MV上线啦！！</p>\n<p></p>\n<p>斥资超2000万人民币，</p>\n<p>耗时两年三个月精心打磨，</p>\n<p>联手国际知名视效团队Wētā Workshop倾力制作，</p>\n<p>名画致敬与悬疑叙事交织，</p>\n<p>每一帧都是电影级质感！</p>\n<p></p>\n<p>小白熊这就把曲谱奉上！</p>\n<p>边刷MV边弹起来，</p>\n<p>一起加入这场视听盛宴吧～</p>\n<p>（崔老师已经迫不及待弹起来咯😆）</p>\n<p>吉他前奏演示  @崔骏ukulele</p>\n<p>●\n曲谱在文末~</p>\n<p>太阳之子</p>\n<p>周杰伦</p>\n<p></p>\n<p>○ 〈太阳之子 〉由方文山作词，周杰伦作曲并 演唱，MV于2026年3月24日上线。</p>\n<p>○ 〈太阳之子 〉 的MV在巴黎及台北两地拍摄。从2023年12月开始开会讨论，到2025年1月巴黎教堂开拍，之后进入后期制作；2025年4月，台北搭景拍摄，再继续后制，直到2026年3月，历时两年又三个月，MV才大功告成。</p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p>○ 这支长达6分58秒的MV充满创意巧思，致敬了多幅世界经典名画，并结合精彩的动画与后期制作，将画作美学与影像完美融合。 周杰伦化身警探，穿梭于一幅幅复活的名画之间，追寻隐藏的真相——他在酒馆与梵高对话，在光影与艺术史之间抽丝剥茧。</p>\n<p></p>\n<p></p>\n<p>弹唱谱｜Have Ukulele Have FUN!</p>\n<p>白熊音乐｜ POLAR BEAR Ukulele</p>\n<p>/</p>\n<p>○ 点开图片保存高清大图</p>\n<p>▼ 弹奏难度 (中等)</p>\n<p>1 尤克里里弹唱 谱</p>\n<p></p>\n<p>2 吉他弹唱 谱</p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342014_1_015.jpg\"/></p>\n<p>近百首周杰伦歌曲曲谱大合集｜戳图直达 👇</p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342014_1_016.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342014_1_017.jpg\"/></p>\n<p>微信小店：「白熊音乐」</p>\n<p>购琴点击直达：</p>\n<p></p>\n<p>往期热门内容</p>\n<p></p>\n<p>· 点击图片直达 ·</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341874&amp;idx=1&amp;sn=8cd34f9cda03531d633cd4b88d2cb801&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341886&amp;idx=1&amp;sn=b3950e836bf541678a3c276d123484db&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341786&amp;idx=1&amp;sn=783dcae7fc9b701761b225bf91d32eef&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341683&amp;idx=1&amp;sn=8c6c297206754f6e8e53677edbecb43b&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341690&amp;idx=1&amp;sn=3927be2842576a51e9b108a3e969a536&amp;scene=21#wechat_redirect\"></a></p>\n<p>-弹琴给你喜欢的人听-</p>\n<p>LIVE BETTER WITH UKULELE</p>\n<p></p>\n<p></p>\n<p></p><div class=\"bilibili-video\"><iframe allowfullscreen=\"true\" frameborder=\"0\" height=\"500\" scrolling=\"no\" src=\"https://player.bilibili.com/player.html?bvid=BV1HVQrBjE4m\" width=\"100%\"></iframe></div></body></html>",
     "external_url": "https://mp.weixin.qq.com/s/FfP45TJlo86lvTLCKY1dTA",
     "published_at": "2026-03-24 20:37",
     "instrument": "ukulele",
@@ -198,7 +173,9 @@
     "_bilibili_bvid": "BV1HVQrBjE4m",
     "_bilibili_matched_song": "太阳之子",
     "sheet_images": [
-      "/images/wb_3273006200-2649342014_1_013.jpg"
+      "/images/wb_3273006200-2649342014_1_015.jpg",
+      "/images/wb_3273006200-2649342014_1_016.jpg",
+      "/images/wb_3273006200-2649342014_1_017.jpg"
     ]
   },
   {
@@ -222,7 +199,7 @@
     "_bilibili_bvid": "BV16GApzWE79",
     "_bilibili_matched_song": "My Love",
     "sheet_images": [
-      "/images/wb_3273006200-2649341954_1_009.jpg"
+      "/images/wb_3273006200-2649341954_1_012.jpg"
     ]
   },
   {
@@ -243,15 +220,7 @@
     "style": [
       "pop"
     ],
-    "sheet_images": [
-      "/images/wb_3273006200-2649341931_1_005.jpg",
-      "/images/wb_3273006200-2649341931_1_007.jpg",
-      "/images/wb_3273006200-2649341931_1_008.jpg",
-      "/images/wb_3273006200-2649341931_1_009.jpg",
-      "/images/wb_3273006200-2649341931_1_010.jpg",
-      "/images/wb_3273006200-2649341931_1_011.jpg",
-      "/images/wb_3273006200-2649341931_1_012.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649341919_1",
@@ -273,9 +242,7 @@
     ],
     "_bilibili_bvid": "BV1pXwXzyE7G",
     "_bilibili_matched_song": "锦绣未央",
-    "sheet_images": [
-      "/images/wb_3273006200-2649341919_1_009.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649341886_1",
@@ -288,7 +255,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "💗                              Ukulele弹唱｜草帽                                \\                                  ●                        教学之后更新在B站「白熊音乐ukulele」~                                          ...",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341886_1_008.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341886_1_009.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p>💗</p>\n<p>Ukulele弹唱｜草帽</p>\n<p>\\</p>\n<p>● 教学之后更新在B站「白熊音乐ukulele」~</p>\n<p></p>\n<p>同款琴： 白熊 恩雅联名款 芝芝蓝莓</p>\n<p>复制到淘宝打开：</p>\n<p>https://e.tb.cn/h.7QvBD2GNPDZEC05?tk=iTXLUXH23Ko CZ225</p>\n<p>曾经的冷门宝藏，如今全网翻唱！</p>\n<p>旋律一响，全是青春回忆～</p>\n<p>读心术</p>\n<p>卓文萱</p>\n<p></p>\n<p>○ 〈读心术〉 由小寒作词，谭志华作曲，卓文萱演唱，收录在其2007年11月20日发行的专辑《幸福氧气》中。</p>\n<p>○ 歌曲 采用了轻快流畅的旋律线，编曲融合了钢琴、吉他等乐器，营造出一种既清新又略带伤感的氛围。 卓文萱用细腻的嗓音诠释了歌词中的情感起伏，精准捕捉了恋爱中那种既甜蜜又不安的微妙心情。</p>\n<p></p>\n<p>细味歌词 lrc</p>\n<p>滑动查看</p>\n<p>束一个马尾 束起所有伤悲</p>\n<p>不许有后悔 在我眼前乱飞</p>\n<p>女生的柔美 只有自信能给</p>\n<p>这秒钟不想爱 也不想谁</p>\n<p>将照片撕毁 以为就会OK</p>\n<p>为何有泪水 钻进我枕头内</p>\n<p>上天爱捣鬼 爱将我给连累</p>\n<p></p>\n<p>弹唱谱｜Have Ukulele Have FUN!</p>\n<p>白熊音乐｜ POLAR BEAR Ukulele</p>\n<p>/</p>\n<p>○ 点开图片保存高清大图</p>\n<p>▼ 弹奏难度 (中等)</p>\n<p>1 尤克里里弹唱 谱</p>\n<p></p>\n<p>2 吉他弹唱谱</p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341886_1_008.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341886_1_009.jpg\"/></p>\n<p>微信小店：「白熊音乐」</p>\n<p>购琴点击直达：</p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341886_1_010.jpg\"/></p>\n<p>往期热门内容</p>\n<p></p>\n<p>· 点击图片直达 ·</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341874&amp;idx=1&amp;sn=8cd34f9cda03531d633cd4b88d2cb801&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341759&amp;idx=1&amp;sn=77a3df6b2c19a2aa972e40ed3763b84d&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341786&amp;idx=1&amp;sn=783dcae7fc9b701761b225bf91d32eef&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341683&amp;idx=1&amp;sn=8c6c297206754f6e8e53677edbecb43b&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341690&amp;idx=1&amp;sn=3927be2842576a51e9b108a3e969a536&amp;scene=21#wechat_redirect\"></a></p>\n<p>-弹琴给你喜欢的人听-</p>\n<p>LIVE BETTER WITH UKULELE</p>\n<p></p>\n<p></p>\n<p></p><div class=\"bilibili-video\"><iframe allowfullscreen=\"true\" frameborder=\"0\" height=\"500\" scrolling=\"no\" src=\"https://player.bilibili.com/player.html?bvid=BV18qwXzRE67\" width=\"100%\"></iframe></div></body></html>",
     "external_url": "https://mp.weixin.qq.com/s/wKn5X76ijb4OBFpi1JL6RQ",
     "published_at": "2026-03-14 21:05",
     "instrument": "guitar",
@@ -298,7 +265,9 @@
     "_bilibili_bvid": "BV18qwXzRE67",
     "_bilibili_matched_song": "读心术",
     "sheet_images": [
-      "/images/wb_3273006200-2649341886_1_006.jpg"
+      "/images/wb_3273006200-2649341886_1_008.jpg",
+      "/images/wb_3273006200-2649341886_1_009.jpg",
+      "/images/wb_3273006200-2649341886_1_010.jpg"
     ]
   },
   {
@@ -319,9 +288,7 @@
     "style": [
       "pop"
     ],
-    "sheet_images": [
-      "/images/wb_3273006200-2649341874_2_004.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649341817_1",
@@ -361,10 +328,7 @@
     "style": [
       "pop"
     ],
-    "sheet_images": [
-      "/images/wb_3273006200-2649341809_1_001.jpg",
-      "/images/wb_3273006200-2649341809_1_004.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649341786_1",
@@ -386,9 +350,7 @@
     ],
     "_bilibili_bvid": "BV1GfNMzCE9L",
     "_bilibili_matched_song": "深海少女",
-    "sheet_images": [
-      "/images/wb_3273006200-2649341786_1_008.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649341759_1",
@@ -401,7 +363,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "🌱                              Ukulele弹唱｜草帽                                \\                                  ●                        教学&曲谱在文末~                                                        ...",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341759_1_007.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341759_1_008.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p>🌱</p>\n<p>Ukulele弹唱｜草帽</p>\n<p>\\</p>\n<p>● 教学&amp;曲谱在文末~</p>\n<p></p>\n<p>同款琴： TOM 联名 款 铃兰</p>\n<p>复制到淘宝打开：</p>\n<p>https://e.tb.cn/h.Sjx484aui69a8GH?tk=OA6xfXLVXxw CZ009</p>\n<p>是谁被\"当真了你\"刷屏了？</p>\n<p>短剧 《糟糕，和闺蜜一起穿书后把反派玩儿坏了》 热度破亿，</p>\n<p>主题曲〈探春令〉掀起 翻唱热潮，</p>\n<p>解压又上头，</p>\n<p>真的无法拒绝这份快乐～</p>\n<p>探春令</p>\n<p>陈添祥/刘念/张翅/至春禾</p>\n<p></p>\n<p>○ 〈探春令〉由似鹿ie作词，江宴清作曲，陈添祥、刘念、张翅、至春禾演唱，是短剧《糟糕，和闺蜜一起穿书后把反派玩儿坏了》主题曲，发行于2026年2月14日。</p>\n<p></p>\n<p>○ 短剧《糟糕，和闺蜜一起穿书后把反派玩儿坏了》讲述谭念与闺蜜苏春禾为救彼此穿入小说世界，被系统强制成为炮灰女配，需将反派萧沉渊、裘见青逼成魔王，却意外发现反派实为守护百姓的暗面英雄。面对系统逼迫与外界威胁，她们选择撕毁原有剧本，联手改写结局，将狗血剧情颠覆为沙雕爽文。</p>\n<p>细味歌词 lrc</p>\n<p>滑动查看</p>\n<p>怪今夜的风太撩动心弦</p>\n<p>我才会抑不住想念</p>\n<p>怪今夜的雨学不会体贴</p>\n<p>我才会平添了难眠</p>\n<p>心悦君兮 说给我听</p>\n<p>自作多情 好不讲理</p>\n<p>赶紧藏好你的小秘密</p>\n<p>身无双翼 心有灵犀</p>\n<p>庭院静空相忆</p>\n<p>你是我唯一的谜底</p>\n<p>你就是轻烟路过晕开了人间</p>\n<p>夜夜流光不及你皎洁</p>\n<p>我开启攻略来到有你的世界</p>\n<p>能否填满那一处空缺</p>\n<p>怪春天放走心爱的纸鸢</p>\n<p>我才会孤单地盘旋</p>\n<p>怪翅膀太浅飞不进宫苑</p>\n<p>我才会困守了执念</p>\n<p>心悦君兮 我很爱听</p>\n<p>自作多情 当真了你</p>\n<p>反正爱意注定说不清</p>\n<p>身无双翼 心有灵犀</p>\n<p>几多情说与你</p>\n<p>你是我唯一的谜底</p>\n<p>你就是轻烟路过晕开了人间</p>\n<p>夜夜流光不及你皎洁</p>\n<p>我开启攻略来到有你的世界</p>\n<p>能否填满那一处空缺</p>\n<p>教学+谱</p>\n<p>Have Ukulele Have FUN!</p>\n<p>Ukulele弹唱|@草帽呀</p>\n<p>白熊音乐｜ POLAR BEAR Ukulele</p>\n<p>/</p>\n<p>○ 点开图片保存高清大图</p>\n<p>▼ 弹奏难度 (中等)</p>\n<p>1 尤克里里弹唱 谱</p>\n<p></p>\n<p>2 吉他弹唱谱</p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341759_1_007.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341759_1_008.jpg\"/></p>\n<p>微信小店：「白熊音乐」</p>\n<p>购琴点击直达：</p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341759_1_009.jpg\"/></p>\n<p>往期热门内容</p>\n<p></p>\n<p>· 点击图片直达 ·</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341593&amp;idx=1&amp;sn=59fc9c6783238420fe0bd26545e6fb4f&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341479&amp;idx=1&amp;sn=ae555acd75c7991bb17914d18e9621e5&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340972&amp;idx=1&amp;sn=e648d4c899ad92a10396084806ddc1f4&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341683&amp;idx=1&amp;sn=8c6c297206754f6e8e53677edbecb43b&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341690&amp;idx=1&amp;sn=3927be2842576a51e9b108a3e969a536&amp;scene=21#wechat_redirect\"></a></p>\n<p>-弹琴给你喜欢的人听-</p>\n<p>LIVE BETTER WITH UKULELE</p>\n<p></p>\n<p></p>\n<p></p><div class=\"bilibili-video\"><iframe allowfullscreen=\"true\" frameborder=\"0\" height=\"500\" scrolling=\"no\" src=\"https://player.bilibili.com/player.html?bvid=BV1sqP4z2E1H\" width=\"100%\"></iframe></div></body></html>",
     "external_url": "https://mp.weixin.qq.com/s/Y9IbCyyKfPzLye1qhAS3gg",
     "published_at": "2026-03-06 21:03",
     "instrument": "guitar",
@@ -411,7 +373,9 @@
     "_bilibili_bvid": "BV1sqP4z2E1H",
     "_bilibili_matched_song": "探春令",
     "sheet_images": [
-      "/images/wb_3273006200-2649341759_1_005.jpg"
+      "/images/wb_3273006200-2649341759_1_007.jpg",
+      "/images/wb_3273006200-2649341759_1_008.jpg",
+      "/images/wb_3273006200-2649341759_1_009.jpg"
     ]
   },
   {
@@ -435,9 +399,7 @@
     "_bilibili_bvid": "BV1rNAnznEUW",
     "_bilibili_matched_song": "光辉岁月",
     "sheet_images": [
-      "/images/wb_3273006200-2649341593_1_007.jpg",
-      "/images/wb_3273006200-2649341593_1_010.jpg",
-      "/images/wb_3273006200-2649341593_1_011.jpg"
+      "/images/wb_3273006200-2649341593_1_014.jpg"
     ]
   },
   {
@@ -458,12 +420,7 @@
     "style": [
       "pop"
     ],
-    "sheet_images": [
-      "/images/wb_3273006200-2649341546_1_003.jpg",
-      "/images/wb_3273006200-2649341546_1_004.jpg",
-      "/images/wb_3273006200-2649341546_1_005.jpg",
-      "/images/wb_3273006200-2649341546_1_010.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649341411_1",
@@ -476,7 +433,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "💙                                             Ukulele弹唱教学｜草帽                        /                                   ●                      曲谱在文末~                                                   ...",
-    "content": "<html><body></body></html>",
+    "content": "<html><body><p></p>\n<p>💙</p>\n<p>Ukulele弹唱教学｜草帽</p>\n<p>/</p>\n<p>● 曲谱在文末~</p>\n<p></p>\n<p>同款琴： 白熊 恩雅联名款 芝芝蓝莓</p>\n<p>复制到淘宝打开：</p>\n<p>https://e.tb.cn/h.7QvBD2GNPDZEC05?tk=iTXLUXH23Ko CZ225</p>\n<p>\" 当困难来临的时候</p>\n<p>请你举起你的左手 \"</p>\n<p>谁能拒绝这首温柔又有力量的 〈左手右手 〉 ？</p>\n<p>无论什么时候听 都会被治愈到～</p>\n<p></p>\n<p>左手右手</p>\n<p></p>\n<p></p>\n<p>杨沛宜</p>\n<p></p>\n<p>○ 〈左手右手〉是电影《喜羊羊与灰太狼之虎虎生威》的主题曲；由卢永强作词，吴军作曲，杨沛宜演唱，</p>\n<p>○ 这是电影中美羊羊在绝境中为鼓舞大家唱的歌曲，成为推动剧情转折的重要因素。旋律温暖治愈，歌词简单易懂，传递积极向上的价值观，成为无数儿童的童年记忆。</p>\n<p></p>\n<p>喜羊羊与灰太狼之虎虎生威</p>\n<p></p>\n<p></p>\n<p>○ 《喜羊羊与灰太狼之虎 虎生威》是系列动画电影《喜羊羊与灰太狼》的第二部，该片由赵崇邦执导，于2010年1月29日上映；</p>\n<p></p>\n<p>○ 羊村世代居住的青青草原被野心勃勃的入侵者“虎威太岁”改造成嘉年华主题乐园，为夺回失去的家园，喜羊羊和灰太狼破天荒地开始联手，去到遥远沙漠寻找羊族和狼族的守护神，以求带回“天下无敌”的秘笈。</p>\n<p></p>\n<p>细味歌词 lrc</p>\n<p>滑动查看</p>\n<p>当困难来临的时候</p>\n<p>请你举起你的左手</p>\n<p>左手代表着方向</p>\n<p>它不会向困难低头</p>\n<p>当遇到挫折的时候</p>\n<p>请你举起你的右手</p>\n<p>右手代表着希望</p>\n<p>它不会为挫折发愁</p>\n<p>当左手拍响右手</p>\n<p>我们的步伐就有节奏</p>\n<p>当右手拍响左手</p>\n<p>我们的力量 就有源头</p>\n<p>当你的手拉着我的手</p>\n<p>团结的力量彼此感受</p>\n<p>有方向 有决心 有节奏</p>\n<p>一起牵着手 向前走</p>\n<p>当困难来临的时候</p>\n<p>请你举起你的左手</p>\n<p>左手代表着方向</p>\n<p>它不会向困难低头</p>\n<p>当遇到挫折的时候</p>\n<p>请你举起你的右手</p>\n<p>右手代表着希望</p>\n<p>它不会为挫折发愁</p>\n<p>当左手拍响右手</p>\n<p>我们的步伐就有节奏</p>\n<p>当右手拍响左手</p>\n<p>我们的力量 就有源头</p>\n<p>当你的手拉着我的手</p>\n<p>团结的力量彼此感受</p>\n<p>有方向 有决心 有节奏</p>\n<p>一起牵着手 向前走</p>\n<p>当你的手拉着我的手</p>\n<p>团结的力量彼此感受</p>\n<p>有方向 有决心 有节奏</p>\n<p>一起牵着手 向前走</p>\n<p></p>\n<p>谱｜Have Ukulele Have FUN!</p>\n<p>白熊音乐｜ POLAR BEAR Ukulele</p>\n<p>/</p>\n<p>○ 点开图片保存高清大图</p>\n<p>▼ 弹奏难度 (中等)</p>\n<p>1 尤克里里弹唱 谱</p>\n<p></p>\n<p>2 吉他弹唱 谱</p>\n<p></p>\n<p></p>\n<p>更多Taylor Swift歌单｜戳图</p>\n<p>春节不打烊火热进行中～</p>\n<p>官方立减10%，买一送N！</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341366&amp;idx=2&amp;sn=136ab730aa77f67ba2f0527cf2d8faf9&amp;scene=21#wechat_redirect\"></a></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341411_1_017.jpg\"/></p>\n<p>微信小店：「白熊音乐」</p>\n<p>购琴点击直达：</p>\n<p></p>\n<p>往期热门内容</p>\n<p></p>\n<p>· 点击图片直达 ·</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340907&amp;idx=1&amp;sn=7c5df49c26306bd91065ecdc2c032092&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341236&amp;idx=1&amp;sn=307fde4f0f8dfd94515919d2fb61a061&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340972&amp;idx=1&amp;sn=e648d4c899ad92a10396084806ddc1f4&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341245&amp;idx=1&amp;sn=62d09c63adf71e30455c58289c66d680&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341251&amp;idx=1&amp;sn=873ff8e5f7dcb7de7c429b85f9849f2d&amp;scene=21#wechat_redirect\"></a></p>\n<p>-弹琴给你喜欢的人听-</p>\n<p>LIVE BETTER WITH UKULELE</p>\n<p></p>\n<p></p>\n<p></p><div class=\"bilibili-video\"><iframe allowfullscreen=\"true\" frameborder=\"0\" height=\"500\" scrolling=\"no\" src=\"https://player.bilibili.com/player.html?bvid=BV1BacEzTEsy\" width=\"100%\"></iframe></div></body></html>",
     "external_url": "https://mp.weixin.qq.com/s/IEq6SLDwye5uBM_LE-LRPw",
     "published_at": "2026-02-13 20:35",
     "instrument": "guitar",
@@ -486,7 +443,7 @@
     "_bilibili_bvid": "BV1BacEzTEsy",
     "_bilibili_matched_song": "左手右手",
     "sheet_images": [
-      "/images/wb_3273006200-2649341411_1_012.jpg"
+      "/images/wb_3273006200-2649341411_1_017.jpg"
     ]
   },
   {
@@ -509,10 +466,7 @@
     ],
     "_bilibili_bvid": "BV1UPXMBTEdr",
     "_bilibili_matched_song": "晴天",
-    "sheet_images": [
-      "/images/wb_3273006200-2649341366_1_002.jpg",
-      "/images/wb_3273006200-2649341366_1_003.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649341308_1",
@@ -525,7 +479,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "☁️                                             Ukulele弹唱教学｜草帽                        /                                   ●                      曲谱在文末~                                                  ...",
-    "content": "<html><body></body></html>",
+    "content": "<html><body><p></p>\n<p>☁️</p>\n<p>Ukulele弹唱教学｜草帽</p>\n<p>/</p>\n<p>● 曲谱在文末~</p>\n<p></p>\n<p>同款琴： 白熊 恩雅联名款 芝芝蓝莓</p>\n<p>复制到淘宝打开：</p>\n<p>https://e.tb.cn/h.7QvBD2GNPDZEC05?tk=iTXLUXH23Ko CZ225</p>\n<p>黄子弘凡×Top Barry合唱〈一半一半〉，</p>\n<p>关于爱的拉扯与遗憾都被藏在歌里。</p>\n<p>黄子弘凡调整咬字与唱法，</p>\n<p>搭配Top Barry的慵懒叙事嗓，</p>\n<p>把爆款歌唱出全新质感，</p>\n<p>安静的舞台氛围里，</p>\n<p>心痛顺着旋律蔓延...</p>\n<p></p>\n<p>一半一半</p>\n<p>Top Barry/INDEcompany</p>\n<p></p>\n<p>○ 〈一半一半〉 由Top Barry作词作曲并演唱，发行于2026年1月4日。</p>\n<p>○ 新年伊始，Top Barry带来走心旋律说唱力作。他以叙事感拉满的说唱笔触，精准剖开成年人“一半式”情感矛盾困局。歌词藏着细腻心事与深刻自我剖白，说唱基底与细腻编曲精妙融合，让旋律与情绪完美契合。</p>\n<p>细味歌词 lrc</p>\n<p>滑动查看</p>\n<p>无力感在把眼泪一点一点吞噬</p>\n<p>空旷的街道早没了一点声</p>\n<p>那天回到我们俩熟悉的城市</p>\n<p>马路上关闭的灯有一半熟悉一半生</p>\n<p>酒精让我一半温热一般冷</p>\n<p>可你扮演着成熟</p>\n<p>我一半没感觉一半疼</p>\n<p>就最后变成一半猜忌 一半问</p>\n<p>我可能是自己一半爱你 一半恨</p>\n<p>这离别是我灵感的秤砣</p>\n<p>我内心的痛是</p>\n<p>不对等的沉默</p>\n<p>思念是困住我俩的绳索</p>\n<p>就算血肉模糊</p>\n<p>我也没办法挣脱</p>\n<p>完美的你终于接受</p>\n<p>放过剩下的我走</p>\n<p>我接受这结果</p>\n<p>你画的杰作</p>\n<p>我找不到线索</p>\n<p>像被牵着走</p>\n<p>但是我不想要一半一半</p>\n<p>一半一半</p>\n<p>可我们俩这一段一段</p>\n<p>已断已断</p>\n<p>街上的路灯一盏一盏</p>\n<p>一闪一闪</p>\n<p>眼泪滴在路上一瓣一瓣</p>\n<p>一瓣一瓣</p>\n<p>可是我不想要一半一半</p>\n<p>一半一半</p>\n<p>我深陷在一边喜欢一边离开</p>\n<p>他们问我丢掉了太多遗不遗憾</p>\n<p>一半一半</p>\n<p>在浪漫还有现实之间作斗争</p>\n<p>我是脆弱的 可面对你我不敢疼</p>\n<p>我思来想去谁的对错有可能</p>\n<p>在不完整的马拉松里也只有时间获胜</p>\n<p>一半包扎 一半被留下伤疤</p>\n<p>一半在冷言相对 另一半在不断讲话</p>\n<p>我知道这些矛盾都是爱在拱火</p>\n<p>我想要找到平衡于是对着麦克风说</p>\n<p>Marry</p>\n<p>我知道你在</p>\n<p>我已经习惯了平淡</p>\n<p>我感受不到你的脉络</p>\n<p>可能这是我最大遗憾</p>\n<p>我知道除了痛以外</p>\n<p>以前经历过的幸福那也算</p>\n<p>这个世界没纯粹的恨与爱</p>\n<p>更多的是一半一半</p>\n<p>没机会重来一遍</p>\n<p>没机会让我能多看一眼</p>\n<p>没机会能和你能讨论</p>\n<p>如果我们再勇敢一点</p>\n<p>我想要克服懦弱是我的超能力</p>\n<p>下决心不能回头我是我最大的矛盾体</p>\n<p>后来我继续rap and rap</p>\n<p>我告诉我心不疼</p>\n<p>越来越多的back to back</p>\n<p>你身边也换了位新的人</p>\n<p>思念 断又不断</p>\n<p>我感受到变两半的身体</p>\n<p>一半在恨在念旧</p>\n<p>另一半走向了新的路程</p>\n<p>夜里的眼泪太苦了</p>\n<p>对我来说有点不下酒</p>\n<p>我把上个我放原地</p>\n<p>继续自己往下走</p>\n<p>我问自己</p>\n<p>你给的爱是不是我不想要的那种</p>\n<p>So please don’t calling my phone</p>\n<p>我想要完整的我because i know</p>\n<p>但是我不想要一半一半</p>\n<p>一半一半</p>\n<p>可我们俩这一段一段</p>\n<p>已断已断</p>\n<p>街上的路灯一盏一盏</p>\n<p>一闪一闪</p>\n<p>眼泪滴在路上一瓣一瓣</p>\n<p>一瓣一瓣</p>\n<p>可是我不想要一半一半</p>\n<p>一半一半</p>\n<p>我深陷在一边喜欢一边离开</p>\n<p>他们问我丢掉了太多遗不遗憾</p>\n<p>一半一半</p>\n<p></p>\n<p>谱｜Have Ukulele Have FUN!</p>\n<p>白熊音乐｜ POLAR BEAR Ukulele</p>\n<p>/</p>\n<p>○ 点开图片保存高清大图</p>\n<p>▼ 弹奏难度 (中等)</p>\n<p>1 尤克里里弹唱 谱(男&amp;女)</p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p>2 吉他弹唱 谱(男&amp;女)</p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p>更多Taylor Swift歌单｜戳图</p>\n<p></p>\n<p>微信小店：「白熊音乐」</p>\n<p>购琴点击直达：</p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341308_1_016.jpg\"/></p>\n<p>往期热门内容</p>\n<p></p>\n<p>· 点击图片直达 ·</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340907&amp;idx=1&amp;sn=7c5df49c26306bd91065ecdc2c032092&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341236&amp;idx=1&amp;sn=307fde4f0f8dfd94515919d2fb61a061&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340972&amp;idx=1&amp;sn=e648d4c899ad92a10396084806ddc1f4&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341245&amp;idx=1&amp;sn=62d09c63adf71e30455c58289c66d680&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341251&amp;idx=1&amp;sn=873ff8e5f7dcb7de7c429b85f9849f2d&amp;scene=21#wechat_redirect\"></a></p>\n<p>-弹琴给你喜欢的人听-</p>\n<p>LIVE BETTER WITH UKULELE</p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "https://mp.weixin.qq.com/s/qIotjYA-FQvonMq1VxgY5g",
     "published_at": "2026-02-06 20:34",
     "instrument": "guitar",
@@ -533,7 +487,7 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341308_1_006.jpg"
+      "/images/wb_3273006200-2649341308_1_016.jpg"
     ]
   },
   {
@@ -567,7 +521,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "☔️                                             Ukulele弹唱教学｜草帽                        /                                   ●                      曲谱在文末~                                                  ...",
-    "content": "<html><body></body></html>",
+    "content": "<html><body><p></p>\n<p>☔️</p>\n<p>Ukulele弹唱教学｜草帽</p>\n<p>/</p>\n<p>● 曲谱在文末~</p>\n<p></p>\n<p>同款琴： 白熊 瑞声联名款 星夜蓝鲸</p>\n<p>复制到淘宝打开：</p>\n<p>https://e.tb.cn/h.7X3sqxBJ2xBOq4A?tk=Y8LsfGCrwMW HU926</p>\n<p>〈雨过后的风景 〉 彻底火出圈了，</p>\n<p>深夜都有3w+人同时在听。</p>\n<p>从歌单遗珠到全网刷屏，</p>\n<p>这首关于\"雨过天晴\"的歌，</p>\n<p>终于迎来了自己的晴天～</p>\n<p>雨过后的风景</p>\n<p>蔡诗芸Dizzy Dizzo</p>\n<p></p>\n<p>○ 〈雨过后的风景 〉 由崔惟楷、甘世佳作词，蔡 诗芸作曲并演唱，收录在其2012年3月9日发行的专辑《黑色彩虹 》中。</p>\n<p>○ 这首歌以 \"雨\"为核心意象，描绘了爱情结束后的复杂心境，从痛苦挣扎到逐渐释怀的完整过程。蔡 诗芸：对我来说，〈雨过后的风景〉不只是一首歌，它是我在音乐上面的一个转折，是我那一段不服输日子的缩写。</p>\n<p></p>\n<p>细味歌词 lrc</p>\n<p>滑动查看</p>\n<p>今年的雨季像你的脾气</p>\n<p>这云层的距离比你更靠近</p>\n<p>关於爱情我已失去力气</p>\n<p>某年某月某个星期几</p>\n<p>某时某地你为我淋雨</p>\n<p>关於你的一切还挥之不去</p>\n<p>你给的结局不留情</p>\n<p>(雨就像冰 刺痛我的心)</p>\n<p>这悲伤的雨不肯停</p>\n<p>恨你恨着你 当你带来了分离</p>\n<p>叫我怎能不恨雨</p>\n<p>爱你还爱你 当你带走了回忆</p>\n<p>我却还学不会云淡风轻</p>\n<p>满城的风雨 模糊你离开的背影</p>\n<p>泪淋湿我的心 等待雨过後的风景</p>\n<p>雨中的城市世界都静止</p>\n<p>思念不见天日却拼命掩饰</p>\n<p>因为舍不得你爱恨交织</p>\n<p>云和阳光不过一公尺</p>\n<p>热恋和分手不过一阵子</p>\n<p>情浓淡爱深浅总不懂何时</p>\n<p>你给的结局不留情</p>\n<p>(雨就像冰 刺痛我的心)</p>\n<p>这悲伤的雨不肯停</p>\n<p>恨你恨着你 当你带来了分离</p>\n<p>叫我怎能不恨雨</p>\n<p>爱你还爱你 当你带走了回忆</p>\n<p>我却还学不会云淡风轻</p>\n<p>满城的风雨 模糊你离开的背影</p>\n<p>泪淋湿我的心 等待雨过後的风景</p>\n<p>雨过天晴 雨过後不再想你</p>\n<p>雨过天晴</p>\n<p>雨过天晴 雨过後不再有你</p>\n<p>雨过天晴</p>\n<p>想你想着你 听到花落的声音</p>\n<p>我恨自己不争气</p>\n<p>为你只为你 悄悄埋葬了回忆</p>\n<p>和所有她们与你的消息</p>\n<p>满城的风雨 模糊你离开的背影</p>\n<p>泪淋湿我的心 等待雨过後的风景</p>\n<p>隔着盛大舞台 等待下一集的剧情</p>\n<p></p>\n<p>谱｜Have Ukulele Have FUN!</p>\n<p>白熊音乐｜ POLAR BEAR Ukulele</p>\n<p>/</p>\n<p>○ 点开图片保存高清大图</p>\n<p>▼ 弹奏难度 (中等)</p>\n<p>1 尤克里里弹唱 谱</p>\n<p></p>\n<p>2 吉他弹唱 谱</p>\n<p></p>\n<p></p>\n<p>更多Taylor Swift歌单｜戳图</p>\n<p></p>\n<p>微信小店：「白熊音乐」</p>\n<p>购琴点击直达：</p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341264_1_010.jpg\"/></p>\n<p>往期热门内容</p>\n<p></p>\n<p>· 点击图片直达 ·</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340907&amp;idx=1&amp;sn=7c5df49c26306bd91065ecdc2c032092&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341236&amp;idx=1&amp;sn=307fde4f0f8dfd94515919d2fb61a061&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340972&amp;idx=1&amp;sn=e648d4c899ad92a10396084806ddc1f4&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341245&amp;idx=1&amp;sn=62d09c63adf71e30455c58289c66d680&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341251&amp;idx=1&amp;sn=873ff8e5f7dcb7de7c429b85f9849f2d&amp;scene=21#wechat_redirect\"></a></p>\n<p>-弹琴给你喜欢的人听-</p>\n<p>LIVE BETTER WITH UKULELE</p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "https://mp.weixin.qq.com/s/-INghSzgIABy1MOjhPrbgQ",
     "published_at": "2026-02-03 20:38",
     "instrument": "guitar",
@@ -575,8 +529,7 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341264_1_004.jpg",
-      "/images/wb_3273006200-2649341264_1_006.jpg"
+      "/images/wb_3273006200-2649341264_1_010.jpg"
     ]
   },
   {
@@ -599,10 +552,7 @@
     ],
     "_bilibili_bvid": "BV1UPXMBTEdr",
     "_bilibili_matched_song": "晴天",
-    "sheet_images": [
-      "/images/wb_3273006200-2649341210_1_002.jpg",
-      "/images/wb_3273006200-2649341210_1_003.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649341155_1",
@@ -615,7 +565,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "🍃                                             Ukulele弹唱｜草帽                        /                                   ●                      教学之后更新在B站「白熊音乐ukulele」~                                    ...",
-    "content": "<html><body></body></html>",
+    "content": "<html><body><p></p>\n<p>🍃</p>\n<p>Ukulele弹唱｜草帽</p>\n<p>/</p>\n<p>● 教学之后更新在B站「白熊音乐ukulele」~</p>\n<p></p>\n<p>同款琴： 白熊 瑞声联名款 星海蓝鲸</p>\n<p>复制到淘宝打开：</p>\n<p>https://e.tb.cn/h.SEmFF7qfhEjSriI?tk=Va9dfOAIY9W HU926</p>\n<p>\"不能握的手 从此匿名的朋友\"</p>\n<p>旋律一响，</p>\n<p>直接梦回追《海派甜心》的时光～</p>\n<p>杨丞琳的歌声娓娓道来，</p>\n<p>唱尽青春里最温柔的遗憾...</p>\n<p>匿名的好友</p>\n<p></p>\n<p>杨丞琳</p>\n<p></p>\n<p>○ 〈匿名的好友 〉由李焯雄作词，陈颖见作曲，杨丞琳演唱，收录在其2010年1月1日发行的专辑《雨爱》中，是电视剧《海派甜心》的插曲。</p>\n<p>○ 这首歌旋律舒缓却蕴含爆发力，杨丞琳的声线细腻中带着倔强，将遗憾与眷恋演绎得淋漓尽致。</p>\n<p></p>\n<p>细味歌词 lrc</p>\n<p>滑动查看</p>\n<p>杜松混合茉莉的风 <br/>\n 回忆里被爱 <br/>\n 那股悸动天色好红 <br/>\n 温柔好浓在胸口 <br/>\n 浮现你的面容 <br/>\n 一起活在这城市迷宫 <br/>\n 提起你名字 <br/>\n 心还跳动却没重逢 <br/>\n 只有想碰却又不敢碰的 <br/>\n 那种悸动 <br/>\n 也许我们当时年纪真的太小 <br/>\n 从那懵懵懂懂 <br/>\n 走进各自天空 <br/>\n 该怎么说让彼此选择 <br/>\n 但思念还转动 <br/>\n 不能握的手 <br/>\n 从此匿名的朋友 <br/>\n 其实我的执着依然执着 <br/>\n 与你无关泪自行吸收 <br/>\n 不能握的手 <br/>\n 却比亲人更亲厚 <br/>\n 当所有如果都没有如果 <br/>\n 只有失去的温柔最温柔 <br/>\n 当又一次美梦落空 <br/>\n 回忆里被爱 <br/>\n 那股悸动天色好红 <br/>\n 温柔好浓在胸口 <br/>\n 浮现你的面容 <br/>\n 也许我们当时年纪真的太小 <br/>\n 从那懵懵懂懂 <br/>\n 走进各自天空 <br/>\n 那是什么让彼此选择 <br/>\n 又不仅是尊重 <br/>\n 不能握的手 <br/>\n 从此匿名的朋友 <br/>\n 其实我的执着依然执着 <br/>\n 与你无关泪自行吸收 <br/>\n 不能握的手 <br/>\n 却比亲人更亲厚 <br/>\n 当所有如果都没有如果 <br/>\n 只有失去的温柔最温柔 <br/>\n 不能握的手 <br/>\n 从此匿名的朋友 <br/>\n 其实我的执着依然执着 <br/>\n 却决心和你不再联络 <br/>\n 不能握的手 <br/>\n 却比爱人更长久 <br/>\n 当所有如果都没有如果 <br/>\n 只有失去的拥有最永久</p>\n<p></p>\n<p>谱｜Have Ukulele Have FUN!</p>\n<p>白熊音乐｜ POLAR BEAR Ukulele</p>\n<p>/</p>\n<p>○ 点开图片保存高清大图</p>\n<p>▼ 弹奏难度 (中等)</p>\n<p>1 尤克里里弹唱 谱</p>\n<p></p>\n<p>2 吉他弹唱 谱</p>\n<p></p>\n<p></p>\n<p>更多Taylor Swift歌单｜戳图</p>\n<p></p>\n<p>微信小店：「白熊音乐」</p>\n<p>购琴点击直达：</p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341155_1_011.jpg\"/></p>\n<p>往期热门内容</p>\n<p></p>\n<p>· 点击图片直达 ·</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340907&amp;idx=1&amp;sn=7c5df49c26306bd91065ecdc2c032092&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341029&amp;idx=1&amp;sn=fa0f8fc8745b7a624a2f6c35bb23ea75&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340972&amp;idx=1&amp;sn=e648d4c899ad92a10396084806ddc1f4&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340843&amp;idx=2&amp;sn=e12c3dbb22bf67aa0f6681b6ff55df2d&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340915&amp;idx=1&amp;sn=bd7aed0c1a9b26b6adf2b65e25e53d05&amp;scene=21#wechat_redirect\"></a></p>\n<p>-弹琴给你喜欢的人听-</p>\n<p>LIVE BETTER WITH UKULELE</p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "https://mp.weixin.qq.com/s/Vu4reSfvGIJR8OQD0-k59g",
     "published_at": "2026-01-25 20:48",
     "instrument": "guitar",
@@ -623,7 +573,7 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341155_1_007.jpg"
+      "/images/wb_3273006200-2649341155_1_011.jpg"
     ]
   },
   {
@@ -646,10 +596,7 @@
     ],
     "_bilibili_bvid": "BV1UPXMBTEdr",
     "_bilibili_matched_song": "晴天",
-    "sheet_images": [
-      "/images/wb_3273006200-2649341144_1_002.jpg",
-      "/images/wb_3273006200-2649341144_1_003.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649341132_1",
@@ -671,10 +618,7 @@
     ],
     "_bilibili_bvid": "BV1UPXMBTEdr",
     "_bilibili_matched_song": "晴天",
-    "sheet_images": [
-      "/images/wb_3273006200-2649341132_1_002.jpg",
-      "/images/wb_3273006200-2649341132_1_003.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649341129_2",
@@ -727,7 +671,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "💙💗                                             Ukulele弹唱｜草帽                        /                                   ●                      教学之后更新在B站「白熊音乐ukulele」~                                   ...",
-    "content": "<html><body></body></html>",
+    "content": "<html><body><p></p>\n<p>💙💗</p>\n<p>Ukulele弹唱｜草帽</p>\n<p>/</p>\n<p>● 教学之后更新在B站「白熊音乐ukulele」~</p>\n<p></p>\n<p>同款琴： TODO LOVE系列</p>\n<p>复制到淘宝打开：</p>\n<p>https://e.tb.cn/h.SxFpKp3yC0YOXBl?tk=MKrvfnAIrdi HU293</p>\n<p>\"这一天一天等等等穿了黑夜</p>\n<p>何时才能够飞飞飞到你身边\"</p>\n<p>2026年的第一份浪漫礼物是阿信和言承旭送的～</p>\n<p>这首 〈爱人啊〉真的 有种经济 上行时期的美感，</p>\n<p>越听越爱！</p>\n<p></p>\n<p>爱人啊</p>\n<p>言承旭/五月天阿信</p>\n<p></p>\n<p>○ 〈爱人啊 〉 由五月天阿信、阿火、佳旺、林乐伟 作词作曲，言承旭和阿信演唱，发行于2026年1月4日。</p>\n<p>○ 当恒 星划过伤口，我们一同穿过黑夜。让任性的灵魂，都能被滚烫的泪收服。</p>\n<p>爱人啊，我们的爱没有区别，爱人啊，都在等对的那个人。</p>\n<p></p>\n<p>细味歌词 lrc</p>\n<p>滑动查看</p>\n<p>日子一天一天的过偶尔也会寂寞</p>\n<p>我也想过找个人说</p>\n<p>但我总会给自己留个借口</p>\n<p>借口一个一个剥落反正只是伤口</p>\n<p>那有什么那没什么</p>\n<p>骗自己等待一定会有结果</p>\n<p>这一天一天等等等穿了黑夜</p>\n<p>何时才能够飞飞飞到你身边</p>\n<p>我的爱人啊我的爱人啊</p>\n<p>你到底会在哪</p>\n<p>灵魂一点一点的磨</p>\n<p>磨得晶莹剔透</p>\n<p>滚出眼眶</p>\n<p>滴落胸口</p>\n<p>这颗泪也许是我唯一收获</p>\n<p>这一天一天等等等穿了黑夜</p>\n<p>何时才能够飞飞飞到你身边</p>\n<p>我的爱人啊我的爱人啊</p>\n<p>你到底会在哪</p>\n<p>如果你回回回到我身边</p>\n<p>我会用这一生给你全部的世界</p>\n<p>我会爱你呀我会爱你呀</p>\n<p>这一天一天等等等穿了黑夜</p>\n<p>何时才能够飞飞飞到你身边</p>\n<p>我的爱人啊我的爱人啊</p>\n<p>你到底会在哪</p>\n<p>如果你回回回到我身边</p>\n<p>我会用这一生给你全部的世界</p>\n<p>我会爱你呀我会爱你呀</p>\n<p>你到底会在哪</p>\n<p>我会爱你呀我会爱你呀</p>\n<p>你到底会在哪</p>\n<p>我的爱人啊我的爱人啊</p>\n<p>你到底会在哪</p>\n<p></p>\n<p>谱｜Have Ukulele Have FUN!</p>\n<p>白熊音乐｜ POLAR BEAR Ukulele</p>\n<p>/</p>\n<p>○ 点开图片保存高清大图</p>\n<p>▼ 弹奏难度 (中等)</p>\n<p>1 尤克里里弹唱 谱(女&amp;男)</p>\n<p></p>\n<p></p>\n<p>2 吉他弹唱 谱(女&amp;男)</p>\n<p></p>\n<p></p>\n<p></p>\n<p>更多Taylor Swift歌单｜戳图</p>\n<p>封面cr@圆圆滚滚滚熊猫🥕 侵删</p>\n<p></p>\n<p>微信小店：「白熊音乐」</p>\n<p>购琴点击直达：</p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341029_1_013.jpg\"/></p>\n<p>往期热门内容</p>\n<p></p>\n<p>· 点击图片直达 ·</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340907&amp;idx=1&amp;sn=7c5df49c26306bd91065ecdc2c032092&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340282&amp;idx=1&amp;sn=318907a5a44f52d3ae30224f9ac118b1&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340972&amp;idx=1&amp;sn=e648d4c899ad92a10396084806ddc1f4&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340843&amp;idx=2&amp;sn=e12c3dbb22bf67aa0f6681b6ff55df2d&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340915&amp;idx=1&amp;sn=bd7aed0c1a9b26b6adf2b65e25e53d05&amp;scene=21#wechat_redirect\"></a></p>\n<p>-弹琴给你喜欢的人听-</p>\n<p>LIVE BETTER WITH UKULELE</p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "https://mp.weixin.qq.com/s/I2DXnfupeQNErXvdf8Nigw",
     "published_at": "2026-01-14 20:53",
     "instrument": "guitar",
@@ -735,7 +679,7 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341029_1_007.jpg"
+      "/images/wb_3273006200-2649341029_1_013.jpg"
     ]
   },
   {
@@ -756,11 +700,7 @@
     "style": [
       "pop"
     ],
-    "sheet_images": [
-      "/images/wb_3273006200-2649340972_1_005.jpg",
-      "/images/wb_3273006200-2649340972_1_010.jpg",
-      "/images/wb_3273006200-2649340972_1_011.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649340940_1",
@@ -781,7 +721,7 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649340940_1_008.jpg"
+      "/images/wb_3273006200-2649340940_1_012.jpg"
     ]
   },
   {
@@ -803,8 +743,7 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649340907_1_003.jpg",
-      "/images/wb_3273006200-2649340907_1_005.jpg"
+      "/images/wb_3273006200-2649340907_1_010.jpg"
     ]
   },
   {
@@ -838,7 +777,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "💙                                    Ukulele弹唱教学｜草帽                        /                                               已关注                                    关注                                    ...",
-    "content": "<html><body></body></html>",
+    "content": "<html><body><p></p>\n<p>💙</p>\n<p>Ukulele弹唱教学｜草帽</p>\n<p>/</p>\n<p>\n已关注\n关注\n重播\n分享</p>\n<p>赞</p>\n<p>关闭\n观看更多</p>\n<p>更多</p>\n<p><em>退出全屏</em></p>\n<p><em>切换到竖屏全屏</em> <em>退出全屏</em>  白熊音乐  已关注  分享视频  ，时长 09:44 </p>\n<p>0 / 0</p>\n<p>00:00\n/\n09:44\n切换到横屏模式</p>\n<p>继续播放</p>\n<p>进度条，百分之0</p>\n<p><a href=\"javascript:;\">播放</a>\n00:00\n/\n09:44\n09:44\n<a href=\"javascript:;\">倍速</a></p>\n<p><em>全屏</em>\n倍速播放中\n<a href=\"javascript:;\">0.5倍</a>\n<a href=\"javascript:;\">0.75倍</a>\n<a href=\"javascript:;\">1.0倍</a>\n<a href=\"javascript:;\">1.5倍</a>\n<a href=\"javascript:;\">2.0倍</a>\n<a href=\"javascript:;\">超清</a>\n<a href=\"javascript:;\">流畅</a>\n<a href=\"https://mpvideo.qpic.cn/0b2eyaac4aaacmac2bs56ruvbqgdf3aaalqa.f10002.mp4?dis_k=4832970a6409e8f5880359d3933dc9e1&amp;dis_t=1775623352&amp;play_scene=10120&amp;auth_info=ArTyxpsJOVgYjOqi90kqMlxLISg0BGhNTXpaeSNgH0MkM0w3LwRkN3odPhYOaj0IVg==&amp;auth_key=8d6e9c758cda0318400c45032ac4bb1e&amp;vid=wxv_4330387970747777033&amp;format_id=10002&amp;support_redirect=0&amp;mmversion=false\"></a></p>\n<p>继续观看</p>\n<p>内地第一人！他真的太争气了！</p>\n<p>观看更多\n转载\n,\n内地第一人！他真的太争气了！\n白熊音乐\n已关注</p>\n<p>分享</p>\n<p>点赞</p>\n<p>在看</p>\n<p>已同步到看一看\n<a href=\"javascript:;\">写下你的评论</a></p>\n<p><a href=\"javascript:;\">视频详情</a></p>\n<p>● 曲谱在文末~</p>\n<p></p>\n<p>同款琴： 白熊 瑞声联名款 星海蓝鲸</p>\n<p>复制到淘宝打开：</p>\n<p>https://e.tb.cn/h.SEmFF7qfhEjSriI?tk=Va9dfOAIY9W HU926</p>\n<p>跨年之际，</p>\n<p>周深在香港启德主场馆连开两场演唱会，</p>\n<p>成为首位在此开唱的内地歌手。</p>\n<p>现场五万人座无虚席，</p>\n<p>成龙、刘德华、张学友 等众多艺人送上花篮祝贺 。</p>\n<p>当 〈我只在乎你 〉 的旋律在场馆响起，</p>\n<p>周深用独有的共情力将歌曲娓娓道来，</p>\n<p>引发全场大合唱，</p>\n<p>上演了 一场跨越时光的音乐对话～</p>\n<p></p>\n<p>我只在乎你</p>\n<p>邓丽君</p>\n<p></p>\n<p></p>\n<p>○ 〈我只在乎你 〉是邓丽君演唱的一首歌曲 ，收录在其1987年4月1日发行的同名专辑《我只在乎你》中。</p>\n<p>○ 这首歌有着 优美动人的旋律，以及简单却深刻的歌词，邓丽君用标志性的温柔细腻嗓音，将歌曲中的依恋、坚定与柔情诠释得淋漓尽致，让这首歌成为了华语乐坛永恒的经典。</p>\n<p>细味歌词 lrc</p>\n<p>滑动查看</p>\n<p>如果没有遇见你</p>\n<p>我将会是在哪里</p>\n<p>日子过得怎么样</p>\n<p>人生是否要珍惜</p>\n<p>也许认识某一人</p>\n<p>过着平凡的日子</p>\n<p>不知道会不会</p>\n<p>也有爱情甜如蜜</p>\n<p>任时光匆匆流去</p>\n<p>我只在乎你</p>\n<p>心甘情愿感染你的气息</p>\n<p>人生几何能够得到知己</p>\n<p>失去生命的力量也不可惜</p>\n<p>所以我求求你</p>\n<p>别让我离开你</p>\n<p>除了你 我不能感到</p>\n<p>一丝丝情意</p>\n<p>如果有那么一天</p>\n<p>你说即将要离去</p>\n<p>我会迷失我自己</p>\n<p>走入无边人海里</p>\n<p>不要什么诺言</p>\n<p>只要天天在一起</p>\n<p>我不能只依靠</p>\n<p>片片回忆活下去</p>\n<p>任时光匆匆流去</p>\n<p>我只在乎你</p>\n<p>心甘情愿感染你的气息</p>\n<p>人生几何能够得到知己</p>\n<p>失去生命的力量也不可惜</p>\n<p>所以我求求你</p>\n<p>别让我离开你</p>\n<p>除了你 我不能感到</p>\n<p>一丝丝情意</p>\n<p>任时光匆匆流去</p>\n<p>我只在乎你</p>\n<p>心甘情愿感染你的气息</p>\n<p>人生几何能够得到知己</p>\n<p>失去生命的力量也不可惜</p>\n<p>所以我求求你</p>\n<p>别让我离开你</p>\n<p>除了你 我不能感到</p>\n<p>一丝丝情意</p>\n<p></p>\n<p>谱｜Have Ukulele Have FUN!</p>\n<p>白熊音乐｜ POLAR BEAR Ukulele</p>\n<p>/</p>\n<p>○ 点开图片保存高清大图</p>\n<p>▼ 弹奏难度 (中等)</p>\n<p>1 尤克里里弹唱 谱</p>\n<p></p>\n<p>2 吉他弹唱 谱</p>\n<p></p>\n<p></p>\n<p>更多Taylor Swift歌单｜戳图直达</p>\n<p><img alt=\"IMG_4233.JPG\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649340862_1_011.jpg\"/></p>\n<p></p>\n<p>微信小店：「白熊音乐」</p>\n<p>购琴点击直达：</p>\n<p></p>\n<p>往期热门内容</p>\n<p></p>\n<p>· 点击图片直达 ·</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340542&amp;idx=1&amp;sn=c5ce04ff2e1ff7a1243e5d11300b5f00&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340282&amp;idx=1&amp;sn=318907a5a44f52d3ae30224f9ac118b1&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649339584&amp;idx=1&amp;sn=18339fb52c4be7e52b01f035f6eb42be&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340843&amp;idx=2&amp;sn=e12c3dbb22bf67aa0f6681b6ff55df2d&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340229&amp;idx=1&amp;sn=9d27d4f58d6d6c4c719abd1113699797&amp;scene=21#wechat_redirect\"></a></p>\n<p>-弹琴给你喜欢的人听-</p>\n<p>LIVE BETTER WITH UKULELE</p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "https://mp.weixin.qq.com/s/vfJn47Ke7Q-fdoFy6rGPfw",
     "published_at": "2026-01-06 20:51",
     "instrument": "guitar",
@@ -846,7 +785,7 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649340862_1_006.jpg"
+      "/images/wb_3273006200-2649340862_1_011.jpg"
     ]
   },
   {
@@ -860,7 +799,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "❄️                                             Ukulele弹唱教学｜草帽                        /                                               已关注                                    关注                          ...",
-    "content": "<html><body></body></html>",
+    "content": "<html><body><p></p>\n<p>❄️</p>\n<p>Ukulele弹唱教学｜草帽</p>\n<p>/</p>\n<p>\n已关注\n关注\n重播\n分享</p>\n<p>赞</p>\n<p>关闭\n观看更多</p>\n<p>更多</p>\n<p><em>退出全屏</em></p>\n<p><em>切换到竖屏全屏</em> <em>退出全屏</em>  白熊音乐  已关注  分享视频  ，时长 06:09 </p>\n<p>0 / 0</p>\n<p>00:00\n/\n06:09\n切换到横屏模式</p>\n<p>继续播放</p>\n<p>进度条，百分之0</p>\n<p><a href=\"javascript:;\">播放</a>\n00:00\n/\n06:09\n06:09\n<a href=\"javascript:;\">倍速</a></p>\n<p><em>全屏</em>\n倍速播放中\n<a href=\"javascript:;\">0.5倍</a>\n<a href=\"javascript:;\">0.75倍</a>\n<a href=\"javascript:;\">1.0倍</a>\n<a href=\"javascript:;\">1.5倍</a>\n<a href=\"javascript:;\">2.0倍</a>\n<a href=\"javascript:;\">超清</a>\n<a href=\"javascript:;\">流畅</a>\n<a href=\"https://mpvideo.qpic.cn/0b2eeealcaaaxeao3lc2kbuvaiodweqqbmia.f10002.mp4?dis_k=9c9c5737696b14245d4c3684de8da3bb&amp;dis_t=1775623373&amp;play_scene=10120&amp;auth_info=dLrK1JdhNkRZ99aItncqLXFgbxBMbGtMZnszSH4wGmlSVnM5CW9rKztmAjxPVD0Xew==&amp;auth_key=764554c2362c8eab2abec71237b7cb29&amp;vid=wxv_4327470696554414092&amp;format_id=10002&amp;support_redirect=0&amp;mmversion=false\"></a></p>\n<p>继续观看</p>\n<p>意难平！这扑面而来的BE感真的太痛了！</p>\n<p>观看更多\n转载\n,\n意难平！这扑面而来的BE感真的太痛了！\n白熊音乐\n已关注</p>\n<p>分享</p>\n<p>点赞</p>\n<p>在看</p>\n<p>已同步到看一看\n<a href=\"javascript:;\">写下你的评论</a></p>\n<p><a href=\"javascript:;\">视频详情</a></p>\n<p>● 曲谱在文末~</p>\n<p></p>\n<p>同款琴： TOM 联名 款 铃兰</p>\n<p>复制到淘宝打开：</p>\n<p>https://e.tb.cn/h.Sjx484aui69a8GH?tk=OA6xfXLVXxw CZ009</p>\n<p>\"天怎放你在那一边 多看了我这一眼</p>\n<p>只一眼我便 沦陷 沦陷在你的眉间\"</p>\n<p>美强惨BGM！</p>\n<p>一开口就是满满的BE感...</p>\n<p>这首歌的评论区里 满是润玉的名字。</p>\n<p>本是温润如玉的君子，</p>\n<p>却因丧母之痛、夺妻之恨被迫黑化...</p>\n<p>2026年了依旧是无数人心中的意难平!</p>\n<p></p>\n<p>江</p>\n<p>南</p>\n<p>雪</p>\n<p>礼越</p>\n<p></p>\n<p></p>\n<p>○ 〈江南雪 〉 由晚安 404@热风环流作 词作曲，礼越演唱，发行于 2024年6月1日。</p>\n<p>○ 这是一首颇具东方古典美学意境的古风歌曲，描绘了一段隐忍而深沉的一见钟情与爱而不得的遗憾，被称为\"美强惨又爱而不得黑化男二的专属BGM\"。</p>\n<p>细味歌词 lrc</p>\n<p>滑动查看</p>\n<p>初雪零落的长街</p>\n<p>风偶尔卷过你眉睫</p>\n<p>寒梅与温酒酌闲</p>\n<p>多盼望心事你了解</p>\n<p>江南雪纷纷落入你眉眼</p>\n<p>万盏画卷难临摹你的脸</p>\n<p>相思再无药解从此万般风月</p>\n<p>都是我心结</p>\n<p>天怎放你在那一边</p>\n<p>多看了我这一眼</p>\n<p>只一眼我便沦陷</p>\n<p>沦陷在你的眉间</p>\n<p>你只隔岸一瞥就窥见</p>\n<p>我一夜逢春惊醒的冬眠 wow~</p>\n<p>天怎赏我一次眷恋</p>\n<p>这眷恋一生无解</p>\n<p>无解的是这思念</p>\n<p>思念温暖这季节</p>\n<p>你望见的月圆多皎洁</p>\n<p>是我在这冬月祈下的愿</p>\n<p>江南雪纷纷落入你眉眼</p>\n<p>万盏画卷难临摹你的脸</p>\n<p>相思再无药解从此万般风月</p>\n<p>都是我心结</p>\n<p>天怎放你在那一边</p>\n<p>多看了我这一眼</p>\n<p>只一眼我便沦陷</p>\n<p>沦陷在你的眉间</p>\n<p>你只隔岸一瞥就窥见</p>\n<p>我一夜逢春惊醒的冬眠 wow~</p>\n<p>天怎赏我一次眷恋</p>\n<p>这眷恋一生无解</p>\n<p>无解的是这思念</p>\n<p>思念温暖这季节</p>\n<p>你望见的月圆多皎洁</p>\n<p>是我在这冬月祈下的愿</p>\n<p>天怎放你在那一边</p>\n<p>多看了我这一眼</p>\n<p>只一眼我便沦陷</p>\n<p>沦陷在你的眉间</p>\n<p>你只隔岸一瞥就窥见</p>\n<p>我一夜逢春惊醒的冬眠 wow~</p>\n<p>天怎赏我一次眷恋</p>\n<p>这眷恋一生无解</p>\n<p>无解的是这思念</p>\n<p>思念温暖这季节</p>\n<p>你望见的月圆多皎洁</p>\n<p>是我在这冬月祈下的愿</p>\n<p></p>\n<p>谱｜Have Ukulele Have FUN!</p>\n<p>白熊音乐｜ POLAR BEAR Ukulele</p>\n<p>/</p>\n<p>○ 点开图片保存高清大图</p>\n<p>▼ 弹奏难度 (中等)</p>\n<p>1 尤克里里弹唱 谱</p>\n<p></p>\n<p>2 吉他弹唱 谱</p>\n<p></p>\n<p></p>\n<p>更多Taylor Swift歌单｜戳图直达</p>\n<p><img alt=\"IMG_4233.JPG\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649340786_1_011.jpg\"/></p>\n<p></p>\n<p>微信小店：「白熊音乐」</p>\n<p>购琴点击直达：</p>\n<p></p>\n<p>往期热门内容</p>\n<p></p>\n<p>· 点击图片直达 ·</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340542&amp;idx=1&amp;sn=c5ce04ff2e1ff7a1243e5d11300b5f00&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340282&amp;idx=1&amp;sn=318907a5a44f52d3ae30224f9ac118b1&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649339584&amp;idx=1&amp;sn=18339fb52c4be7e52b01f035f6eb42be&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340702&amp;idx=1&amp;sn=ad653ccd22d1ae3208abe5d7c4065ac2&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340229&amp;idx=1&amp;sn=9d27d4f58d6d6c4c719abd1113699797&amp;scene=21#wechat_redirect\"></a></p>\n<p>-弹琴给你喜欢的人听-</p>\n<p>LIVE BETTER WITH UKULELE</p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "https://mp.weixin.qq.com/s/ThLd5l3n864bZ2lZ2bbzVQ",
     "published_at": "2026-01-04 20:42",
     "instrument": "guitar",
@@ -868,7 +807,7 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649340786_1_008.jpg"
+      "/images/wb_3273006200-2649340786_1_011.jpg"
     ]
   },
   {
@@ -882,7 +821,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "🎆                                             Ukulele弹唱教学｜草帽                        /                                   ●                      曲谱在文末~                                                   ...",
-    "content": "<html><body></body></html>",
+    "content": "<html><body><p></p>\n<p>🎆</p>\n<p>Ukulele弹唱教学｜草帽</p>\n<p>/</p>\n<p>● 曲谱在文末~</p>\n<p></p>\n<p>同款琴： TODO LOVE系列</p>\n<p>复制到淘宝打开：</p>\n<p>https://e.tb.cn/h.SxFpKp3yC0YOXBl?tk=MKrvfnAIrdi HU293</p>\n<p>\"跨年的烟火绽放天空</p>\n<p>我想起我们最快乐时的笑容\"</p>\n<p>每到年末必会被这首歌刷屏，</p>\n<p>跟跨年夜真的很搭，</p>\n<p>今天就把教学分享给大家～</p>\n<p></p>\n<p>寂寞烟火</p>\n<p></p>\n<p>朱婧汐</p>\n<p></p>\n<p>○ 〈寂寞烟火 〉由朱婧汐作词作曲并演唱，收录于朱婧汐2014年9月10日发行的专辑《以梦为马》中。</p>\n<p>○ 〈寂寞烟火〉是朱婧汐《以梦为马》专辑中自己最喜欢的作品之一。虽然是一首失恋歌曲，但《寂寞烟火》唱出的感情并不全是悲伤，反而是一首充满期待的纪念作品。朱婧汐在歌曲中平静地表现了她曾经的倔强和想念，也充盈了温暖和豁达，唱给所有在熙攘世界里的孤单人群。</p>\n<p></p>\n<p></p>\n<p>细味歌词 lrc</p>\n<p>滑动查看</p>\n<p>我已经又习惯一个人生活</p>\n<p>一开始不就是一个人生活</p>\n<p>我的房间你最爱的角落</p>\n<p>那本你没读完的书</p>\n<p>还在原地放着</p>\n<p>我已经学会如何享受寂寞</p>\n<p>朋友快乐时我也跟着快乐</p>\n<p>跨年的烟火绽放天空</p>\n<p>我想起我们最快乐时的笑容</p>\n<p>我曾经走过多遥远的路</p>\n<p>跨越过多少海洋去看你</p>\n<p>孤单的黑夜途中</p>\n<p>只要想着你</p>\n<p>我就不会惶恐</p>\n<p>时光的岸上人来了又走</p>\n<p>离开时你不用说我都懂</p>\n<p>感谢你曾让我</p>\n<p>留在你眼中</p>\n<p>我已经学会如何享受寂寞</p>\n<p>朋友快乐时我也跟着快乐</p>\n<p>跨年的烟火绽放天空</p>\n<p>我想起我们最快乐时的笑容</p>\n<p>我曾经走过多遥远的路</p>\n<p>跨越过多少海洋去看你</p>\n<p>孤单的黑夜途中</p>\n<p>只要想着你</p>\n<p>我就不会惶恐</p>\n<p>时光的岸上人来了又走</p>\n<p>离开时你不用说我都懂</p>\n<p>感谢你曾让我</p>\n<p>留在你眼中</p>\n<p>我曾经走过最遥远的路</p>\n<p>想要去拥抱未成真的梦</p>\n<p>迷失的黑夜途中</p>\n<p>只要想起你</p>\n<p>就点亮了星空</p>\n<p>流浪的纸船忘不掉港口</p>\n<p>渐灭的花火割不断彩虹</p>\n<p>你就是我心中</p>\n<p>永恒的天空</p>\n<p></p>\n<p>谱｜Have Ukulele Have FUN!</p>\n<p>白熊音乐｜ POLAR BEAR Ukulele</p>\n<p>/</p>\n<p>○ 点开图片保存高清大图</p>\n<p>▼ 弹奏难度 (中等)</p>\n<p>1 尤克里里弹唱 谱</p>\n<p></p>\n<p>2 吉他弹唱 谱</p>\n<p></p>\n<p></p>\n<p>更多Taylor Swift歌单｜戳图直达</p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649340694_1_013.jpg\"/></p>\n<p>微信小店：「白熊音乐」</p>\n<p>购琴点击直达：</p>\n<p></p>\n<p>往期热门内容</p>\n<p></p>\n<p>· 点击图片直达 ·</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340542&amp;idx=1&amp;sn=c5ce04ff2e1ff7a1243e5d11300b5f00&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340282&amp;idx=1&amp;sn=318907a5a44f52d3ae30224f9ac118b1&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649339584&amp;idx=1&amp;sn=18339fb52c4be7e52b01f035f6eb42be&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340001&amp;idx=1&amp;sn=3b208bf7963dac5fbb5e084e553ed9e6&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340229&amp;idx=1&amp;sn=9d27d4f58d6d6c4c719abd1113699797&amp;scene=21#wechat_redirect\"></a></p>\n<p>-弹琴给你喜欢的人听-</p>\n<p>LIVE BETTER WITH UKULELE</p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "https://mp.weixin.qq.com/s/YNgqdO5fAr7DiT28moOqpQ",
     "published_at": "2025-12-31 20:33",
     "instrument": "guitar",
@@ -890,7 +829,7 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649340694_1_007.jpg"
+      "/images/wb_3273006200-2649340694_1_013.jpg"
     ]
   },
   {
@@ -931,10 +870,7 @@
     "style": [
       "pop"
     ],
-    "sheet_images": [
-      "/images/wb_3273006200-2649342186_1_005.jpg",
-      "/images/wb_3273006200-2649342186_1_006.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649342161_1",
@@ -947,7 +883,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "太会写了吧？直接听到头皮发麻！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342161_1_007.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342161_1_008.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342161_1_009.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342161_1_010.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342161_1_007.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342161_1_008.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342161_1_009.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342161_1_010.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342161_1_011.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -955,7 +891,11 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649342161_1_005.jpg"
+      "/images/wb_3273006200-2649342161_1_007.jpg",
+      "/images/wb_3273006200-2649342161_1_008.jpg",
+      "/images/wb_3273006200-2649342161_1_009.jpg",
+      "/images/wb_3273006200-2649342161_1_010.jpg",
+      "/images/wb_3273006200-2649342161_1_011.jpg"
     ]
   },
   {
@@ -969,7 +909,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "挖到宝了！她也该火了吧！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342141_1_007.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342141_1_008.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342141_1_007.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342141_1_008.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342141_1_009.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -977,7 +917,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649342141_1_005.jpg"
+      "/images/wb_3273006200-2649342141_1_007.jpg",
+      "/images/wb_3273006200-2649342141_1_008.jpg",
+      "/images/wb_3273006200-2649342141_1_009.jpg"
     ]
   },
   {
@@ -991,7 +933,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "时隔七年再合作，这神仙友谊太好哭了！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342130_1_007.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342130_1_008.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342130_1_007.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342130_1_008.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649342130_1_009.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -999,7 +941,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649342130_1_005.jpg"
+      "/images/wb_3273006200-2649342130_1_007.jpg",
+      "/images/wb_3273006200-2649342130_1_008.jpg",
+      "/images/wb_3273006200-2649342130_1_009.jpg"
     ]
   },
   {
@@ -1021,7 +965,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649342061_1_007.jpg"
+      "/images/wb_3273006200-2649342061_1_008.jpg",
+      "/images/wb_3273006200-2649342061_1_009.jpg",
+      "/images/wb_3273006200-2649342061_1_010.jpg"
     ]
   },
   {
@@ -1035,7 +981,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "太幸福了！官宣歌单又添一首！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341973_1_007.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341973_1_008.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341973_1_007.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341973_1_008.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341973_1_009.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1043,7 +989,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341973_1_005.jpg"
+      "/images/wb_3273006200-2649341973_1_007.jpg",
+      "/images/wb_3273006200-2649341973_1_008.jpg",
+      "/images/wb_3273006200-2649341973_1_009.jpg"
     ]
   },
   {
@@ -1057,7 +1005,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "不敢想象毕业季播这首得哭成什么样！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341962_1_007.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341962_1_008.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341962_1_007.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341962_1_008.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341962_1_009.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1065,7 +1013,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341962_1_005.jpg"
+      "/images/wb_3273006200-2649341962_1_007.jpg",
+      "/images/wb_3273006200-2649341962_1_008.jpg",
+      "/images/wb_3273006200-2649341962_1_009.jpg"
     ]
   },
   {
@@ -1079,7 +1029,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "是什么歌让周杰伦都直呼好听到吃手手啊？",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341944_1_010.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341944_1_011.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341944_1_012.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341944_1_013.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341944_1_010.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341944_1_011.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341944_1_012.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341944_1_013.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341944_1_014.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1087,10 +1037,11 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341944_1_002.jpg",
-      "/images/wb_3273006200-2649341944_1_003.jpg",
-      "/images/wb_3273006200-2649341944_1_006.jpg",
-      "/images/wb_3273006200-2649341944_1_008.jpg"
+      "/images/wb_3273006200-2649341944_1_010.jpg",
+      "/images/wb_3273006200-2649341944_1_011.jpg",
+      "/images/wb_3273006200-2649341944_1_012.jpg",
+      "/images/wb_3273006200-2649341944_1_013.jpg",
+      "/images/wb_3273006200-2649341944_1_014.jpg"
     ]
   },
   {
@@ -1104,7 +1055,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "发行四个版本后爆火，连原唱都懵了！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341909_1_007.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341909_1_008.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341909_1_007.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341909_1_008.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341909_1_009.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1112,7 +1063,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341909_1_005.jpg"
+      "/images/wb_3273006200-2649341909_1_007.jpg",
+      "/images/wb_3273006200-2649341909_1_008.jpg",
+      "/images/wb_3273006200-2649341909_1_009.jpg"
     ]
   },
   {
@@ -1126,7 +1079,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "凭一句歌词刷屏全网，治愈无数人！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341900_1_007.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341900_1_008.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341900_1_007.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341900_1_008.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341900_1_009.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1134,7 +1087,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341900_1_005.jpg"
+      "/images/wb_3273006200-2649341900_1_007.jpg",
+      "/images/wb_3273006200-2649341900_1_008.jpg",
+      "/images/wb_3273006200-2649341900_1_009.jpg"
     ]
   },
   {
@@ -1156,8 +1111,7 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341874_1_008.jpg",
-      "/images/wb_3273006200-2649341874_1_013.jpg"
+      "/images/wb_3273006200-2649341874_1_020.jpg"
     ]
   },
   {
@@ -1171,7 +1125,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "因二创而刷屏！这歌怎么越听越上瘾！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341856_1_007.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341856_1_008.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341856_1_007.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341856_1_008.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341856_1_009.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1179,7 +1133,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341856_1_005.jpg"
+      "/images/wb_3273006200-2649341856_1_007.jpg",
+      "/images/wb_3273006200-2649341856_1_008.jpg",
+      "/images/wb_3273006200-2649341856_1_009.jpg"
     ]
   },
   {
@@ -1193,7 +1149,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "明明长着一张酷脸，声音竟然这么甜！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341806_1_011.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341806_1_009.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341806_1_010.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341806_1_011.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1201,7 +1157,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341806_1_005.jpg"
+      "/images/wb_3273006200-2649341806_1_009.jpg",
+      "/images/wb_3273006200-2649341806_1_010.jpg",
+      "/images/wb_3273006200-2649341806_1_011.jpg"
     ]
   },
   {
@@ -1215,7 +1173,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "十年了！怎么还把它翻出来刀我们？！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341775_1_010.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341775_1_011.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341775_1_010.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341775_1_011.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341775_1_012.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1223,7 +1181,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341775_1_008.jpg"
+      "/images/wb_3273006200-2649341775_1_010.jpg",
+      "/images/wb_3273006200-2649341775_1_011.jpg",
+      "/images/wb_3273006200-2649341775_1_012.jpg"
     ]
   },
   {
@@ -1237,7 +1197,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "无预警空降！\"冷门歌手\"又发新歌了！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341750_1_007.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341750_1_008.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341750_1_007.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341750_1_008.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341750_1_009.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1245,7 +1205,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341750_1_005.jpg"
+      "/images/wb_3273006200-2649341750_1_007.jpg",
+      "/images/wb_3273006200-2649341750_1_008.jpg",
+      "/images/wb_3273006200-2649341750_1_009.jpg"
     ]
   },
   {
@@ -1266,9 +1228,7 @@
     "style": [
       "pop"
     ],
-    "sheet_images": [
-      "/images/wb_3273006200-2649341690_1_003.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649341675_1",
@@ -1288,9 +1248,7 @@
     "style": [
       "pop"
     ],
-    "sheet_images": [
-      "/images/wb_3273006200-2649341675_1_009.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649341671_1",
@@ -1303,7 +1261,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "16句歌词修改25次，他让全网听到破防！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341671_1_007.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341671_1_008.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341671_1_007.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341671_1_008.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341671_1_009.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1311,8 +1269,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341671_1_003.jpg",
-      "/images/wb_3273006200-2649341671_1_005.jpg"
+      "/images/wb_3273006200-2649341671_1_007.jpg",
+      "/images/wb_3273006200-2649341671_1_008.jpg",
+      "/images/wb_3273006200-2649341671_1_009.jpg"
     ]
   },
   {
@@ -1326,7 +1285,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "双故事嗓的天花板合作！直接听哭...",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341578_1_006.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341578_1_007.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341578_1_006.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341578_1_007.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341578_1_008.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1334,8 +1293,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341578_1_002.jpg",
-      "/images/wb_3273006200-2649341578_1_004.jpg"
+      "/images/wb_3273006200-2649341578_1_006.jpg",
+      "/images/wb_3273006200-2649341578_1_007.jpg",
+      "/images/wb_3273006200-2649341578_1_008.jpg"
     ]
   },
   {
@@ -1357,8 +1317,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341571_1_005.jpg",
-      "/images/wb_3273006200-2649341571_1_008.jpg"
+      "/images/wb_3273006200-2649341571_1_007.jpg",
+      "/images/wb_3273006200-2649341571_1_008.jpg",
+      "/images/wb_3273006200-2649341571_1_009.jpg"
     ]
   },
   {
@@ -1379,10 +1340,7 @@
     "style": [
       "pop"
     ],
-    "sheet_images": [
-      "/images/wb_3273006200-2649341562_1_006.jpg",
-      "/images/wb_3273006200-2649341562_1_009.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649341549_1",
@@ -1403,8 +1361,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341549_1_008.jpg",
-      "/images/wb_3273006200-2649341549_1_011.jpg"
+      "/images/wb_3273006200-2649341549_1_010.jpg",
+      "/images/wb_3273006200-2649341549_1_011.jpg",
+      "/images/wb_3273006200-2649341549_1_012.jpg"
     ]
   },
   {
@@ -1425,10 +1384,7 @@
     "style": [
       "pop"
     ],
-    "sheet_images": [
-      "/images/wb_3273006200-2649341518_1_007.jpg",
-      "/images/wb_3273006200-2649341518_1_010.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649341503_1",
@@ -1449,9 +1405,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341503_1_005.jpg",
-      "/images/wb_3273006200-2649341503_1_007.jpg",
-      "/images/wb_3273006200-2649341503_1_010.jpg"
+      "/images/wb_3273006200-2649341503_1_009.jpg",
+      "/images/wb_3273006200-2649341503_1_010.jpg",
+      "/images/wb_3273006200-2649341503_1_011.jpg"
     ]
   },
   {
@@ -1473,8 +1429,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341489_1_005.jpg",
-      "/images/wb_3273006200-2649341489_1_008.jpg"
+      "/images/wb_3273006200-2649341489_1_007.jpg",
+      "/images/wb_3273006200-2649341489_1_008.jpg",
+      "/images/wb_3273006200-2649341489_1_009.jpg"
     ]
   },
   {
@@ -1496,8 +1453,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341479_1_010.jpg",
-      "/images/wb_3273006200-2649341479_1_013.jpg"
+      "/images/wb_3273006200-2649341479_1_012.jpg",
+      "/images/wb_3273006200-2649341479_1_013.jpg",
+      "/images/wb_3273006200-2649341479_1_014.jpg"
     ]
   },
   {
@@ -1519,7 +1477,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341417_1_006.jpg"
+      "/images/wb_3273006200-2649341417_1_008.jpg",
+      "/images/wb_3273006200-2649341417_1_009.jpg",
+      "/images/wb_3273006200-2649341417_1_010.jpg"
     ]
   },
   {
@@ -1553,7 +1513,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "起猛了！他终于要开演唱会了？！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341338_1_007.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341338_1_008.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341338_1_007.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341338_1_008.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341338_1_009.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1561,7 +1521,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341338_1_005.jpg"
+      "/images/wb_3273006200-2649341338_1_007.jpg",
+      "/images/wb_3273006200-2649341338_1_008.jpg",
+      "/images/wb_3273006200-2649341338_1_009.jpg"
     ]
   },
   {
@@ -1575,7 +1537,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "虐恋绝杀曲！人怎么能唱出这么刀的歌！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341328_1_006.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341328_1_007.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341328_1_006.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341328_1_007.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341328_1_008.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1583,7 +1545,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341328_1_004.jpg"
+      "/images/wb_3273006200-2649341328_1_006.jpg",
+      "/images/wb_3273006200-2649341328_1_007.jpg",
+      "/images/wb_3273006200-2649341328_1_008.jpg"
     ]
   },
   {
@@ -1597,7 +1561,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "后劲大到破防！怎么全网都在唱这首歌？！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341317_1_007.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341317_1_008.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341317_1_007.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341317_1_008.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341317_1_009.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1605,7 +1569,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341317_1_005.jpg"
+      "/images/wb_3273006200-2649341317_1_007.jpg",
+      "/images/wb_3273006200-2649341317_1_008.jpg",
+      "/images/wb_3273006200-2649341317_1_009.jpg"
     ]
   },
   {
@@ -1619,7 +1585,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "救命！这版合唱直接把BE美学焊在舞台！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341280_1_007.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341280_1_008.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341280_1_007.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341280_1_008.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341280_1_009.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1627,7 +1593,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341280_1_005.jpg"
+      "/images/wb_3273006200-2649341280_1_007.jpg",
+      "/images/wb_3273006200-2649341280_1_008.jpg",
+      "/images/wb_3273006200-2649341280_1_009.jpg"
     ]
   },
   {
@@ -1648,9 +1616,7 @@
     "style": [
       "pop"
     ],
-    "sheet_images": [
-      "/images/wb_3273006200-2649341251_1_003.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649341209_1",
@@ -1663,7 +1629,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "别瞎搞了！这首歌还得她唱才好听！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341209_1_007.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341209_1_008.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341209_1_007.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341209_1_008.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341209_1_009.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1671,7 +1637,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341209_1_005.jpg"
+      "/images/wb_3273006200-2649341209_1_007.jpg",
+      "/images/wb_3273006200-2649341209_1_008.jpg",
+      "/images/wb_3273006200-2649341209_1_009.jpg"
     ]
   },
   {
@@ -1692,9 +1660,7 @@
     "style": [
       "pop"
     ],
-    "sheet_images": [
-      "/images/wb_3273006200-2649341173_1_006.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649341161_1",
@@ -1707,7 +1673,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "解散多年，她们仍是无数人心中的意难平！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341161_1_008.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341161_1_008.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341161_1_009.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341161_1_010.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1715,8 +1681,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341161_1_002.jpg",
-      "/images/wb_3273006200-2649341161_1_005.jpg"
+      "/images/wb_3273006200-2649341161_1_008.jpg",
+      "/images/wb_3273006200-2649341161_1_009.jpg",
+      "/images/wb_3273006200-2649341161_1_010.jpg"
     ]
   },
   {
@@ -1730,7 +1697,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "藏了十几年的歌，终于被全网发现了！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341080_1_007.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341080_1_008.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341080_1_007.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341080_1_008.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341080_1_009.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1738,8 +1705,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341080_1_003.jpg",
-      "/images/wb_3273006200-2649341080_1_005.jpg"
+      "/images/wb_3273006200-2649341080_1_007.jpg",
+      "/images/wb_3273006200-2649341080_1_008.jpg",
+      "/images/wb_3273006200-2649341080_1_009.jpg"
     ]
   },
   {
@@ -1753,7 +1721,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "以前怎么没发现？原来苦情歌才是她的统治区！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341071_1_008.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341071_1_009.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341071_1_008.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341071_1_009.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341071_1_010.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1761,8 +1729,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341071_1_004.jpg",
-      "/images/wb_3273006200-2649341071_1_006.jpg"
+      "/images/wb_3273006200-2649341071_1_008.jpg",
+      "/images/wb_3273006200-2649341071_1_009.jpg",
+      "/images/wb_3273006200-2649341071_1_010.jpg"
     ]
   },
   {
@@ -1776,7 +1745,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "根本唱不了！现在的歌门槛都这么高了吗？",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341059_1_009.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341059_1_010.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341059_1_009.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341059_1_010.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341059_1_011.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1784,8 +1753,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341059_1_002.jpg",
-      "/images/wb_3273006200-2649341059_1_007.jpg"
+      "/images/wb_3273006200-2649341059_1_009.jpg",
+      "/images/wb_3273006200-2649341059_1_010.jpg",
+      "/images/wb_3273006200-2649341059_1_011.jpg"
     ]
   },
   {
@@ -1799,7 +1769,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "被刷屏了！这火爆程度太离谱了！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341006_1_007.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341006_1_008.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341006_1_009.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341006_1_010.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341006_1_007.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341006_1_008.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341006_1_009.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341006_1_010.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649341006_1_011.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1807,8 +1777,11 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341006_1_003.jpg",
-      "/images/wb_3273006200-2649341006_1_005.jpg"
+      "/images/wb_3273006200-2649341006_1_007.jpg",
+      "/images/wb_3273006200-2649341006_1_008.jpg",
+      "/images/wb_3273006200-2649341006_1_009.jpg",
+      "/images/wb_3273006200-2649341006_1_010.jpg",
+      "/images/wb_3273006200-2649341006_1_011.jpg"
     ]
   },
   {
@@ -1829,9 +1802,7 @@
     "style": [
       "pop"
     ],
-    "sheet_images": [
-      "/images/wb_3273006200-2649340951_1_006.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649340915_1",
@@ -1851,9 +1822,7 @@
     "style": [
       "pop"
     ],
-    "sheet_images": [
-      "/images/wb_3273006200-2649340915_1_003.jpg"
-    ]
+    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649340888_1",
@@ -1866,7 +1835,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "今夕是何年？这歌怎么突然爆了！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649340888_1_007.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649340888_1_008.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649340888_1_007.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649340888_1_008.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649340888_1_009.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1874,8 +1843,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649340888_1_003.jpg",
-      "/images/wb_3273006200-2649340888_1_005.jpg"
+      "/images/wb_3273006200-2649340888_1_007.jpg",
+      "/images/wb_3273006200-2649340888_1_008.jpg",
+      "/images/wb_3273006200-2649340888_1_009.jpg"
     ]
   },
   {
@@ -1889,7 +1859,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "言而有信！你俩这么浪漫真的对吗？！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649340843_1_009.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649340843_1_010.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649340843_1_009.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649340843_1_010.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649340843_1_011.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1897,7 +1867,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649340843_1_007.jpg"
+      "/images/wb_3273006200-2649340843_1_009.jpg",
+      "/images/wb_3273006200-2649340843_1_010.jpg",
+      "/images/wb_3273006200-2649340843_1_011.jpg"
     ]
   },
   {
@@ -1911,7 +1883,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "青回！盼了好多年，终于盼到你俩合作了！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649340771_1_008.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649340771_1_009.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649340771_1_008.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649340771_1_009.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649340771_1_010.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1919,7 +1891,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649340771_1_006.jpg"
+      "/images/wb_3273006200-2649340771_1_008.jpg",
+      "/images/wb_3273006200-2649340771_1_009.jpg",
+      "/images/wb_3273006200-2649340771_1_010.jpg"
     ]
   },
   {
@@ -1933,7 +1907,7 @@
     "mp_id": "MP_WXS_3273006200",
     "mp_name": "白熊音乐",
     "summary": "别藏了，其实你也在单曲循环这首歌吧！",
-    "content": "<html><body><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649340657_1_008.jpg\"/></p><p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649340657_1_009.jpg\"/></p></body></html>",
+    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649340657_1_008.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649340657_1_009.jpg\"/></p>\n<p><img alt=\"图片\" class=\"img-responsive img-fluid\" loading=\"lazy\" src=\"/images/wb_3273006200-2649340657_1_010.jpg\"/></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
     "external_url": "",
     "published_at": "",
     "instrument": "ukulele",
@@ -1941,7 +1915,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649340657_1_006.jpg"
+      "/images/wb_3273006200-2649340657_1_008.jpg",
+      "/images/wb_3273006200-2649340657_1_009.jpg",
+      "/images/wb_3273006200-2649340657_1_010.jpg"
     ]
   },
   {
@@ -1962,8 +1938,6 @@
     "style": [
       "pop"
     ],
-    "sheet_images": [
-      "/images/wb_3273006200-2649340645_1_013.jpg"
-    ]
+    "sheet_images": []
   }
 ]

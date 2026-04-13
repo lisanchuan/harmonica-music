@@ -4,6 +4,10 @@ import { Song, HarmonicaType, Style } from '@/types/song';
 
 interface SongCardProps {
   song: Song;
+  isFavorite?: boolean;
+  onToggleFavorite?: (resourceId: string) => void;
+  showFavoriteButton?: boolean;
+  basePath?: string;
 }
 
 const harmonicaTypeLabels: Record<HarmonicaType, string> = {
@@ -50,11 +54,12 @@ const instrumentColors: Record<string, string> = {
   ukulele: 'bg-emerald-100 text-emerald-800',
 };
 
-export default function SongCard({ song }: SongCardProps) {
+export default function SongCard({ song, isFavorite, onToggleFavorite, showFavoriteButton, basePath }: SongCardProps) {
   const imageSrc = song.img_url || '/test_sheet.jpg';
+  const href = basePath ? `${basePath}/${song.resource_id}` : `/songs/${song.resource_id}`;
 
   return (
-    <Link href={`/songs/${song.resource_id}`}>
+    <Link href={href}>
       <div className="rounded-xl bg-white shadow-md transition-all hover:shadow-xl hover:-translate-y-1 dark:bg-zinc-800 overflow-hidden">
         <div className="relative aspect-[3/4] w-full">
           <Image
@@ -87,6 +92,31 @@ export default function SongCard({ song }: SongCardProps) {
                 {song.mp_name}
               </span>
             </div>
+          )}
+          {/* 含曲谱徽章：sheet_images 非空 或 content 含乐谱相关词 */}
+          {((song.sheet_images && song.sheet_images.length > 0) ||
+            (song.content && /弹唱谱|指弹谱|简谱|曲谱|乐谱|吉他弹唱|尤克里里/i.test(song.content))) && (
+            <div className="absolute bottom-2 left-2">
+              <span className="inline-block px-2 py-0.5 text-xs font-medium bg-amber-100 text-amber-800 rounded">
+                🎼 含曲谱
+              </span>
+            </div>
+          )}
+          {/* 收藏按钮 */}
+          {showFavoriteButton && onToggleFavorite && (
+            <button
+              onClick={(e) => {
+                e.preventDefault();
+                e.stopPropagation();
+                onToggleFavorite(song.resource_id);
+              }}
+              className="absolute bottom-2 right-2 p-1.5 rounded-full bg-black/50 hover:bg-black/70 transition-colors"
+              aria-label={isFavorite ? '取消收藏' : '收藏'}
+            >
+              <span className="text-lg leading-none">
+                {isFavorite ? '⭐' : '☆'}
+              </span>
+            </button>
           )}
         </div>
         <div className="p-3">
