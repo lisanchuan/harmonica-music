@@ -271,16 +271,16 @@ def match_score(song_name: str, bili_title: str) -> float:
     return max(jaccard, word_bonus * 0.8)
 
 
-def match_bilibili_video(article_title: str, bili_videos: list[dict], threshold: float = 0.35) -> tuple[Optional[str], Optional[str]]:
+def match_bilibili_video(query: str, bili_videos: list[dict], threshold: float = 0.50) -> tuple[Optional[str], Optional[str]]:
     """
-    用公众号文章标题匹配 B站视频标题。
+    用 query（文章标题或歌名）匹配 B站视频标题。
     返回 (bvid, matched_title) 或 (None, None)
     """
-    if not article_title or not bili_videos:
+    if not query or not bili_videos:
         return None, None
     best_bvid, best_title, best_score = None, None, threshold
     for v in bili_videos:
-        score = match_score(article_title, v["title"])
+        score = match_score(query, v["title"])
         if score > best_score:
             best_score = score
             best_bvid = v["bvid"]

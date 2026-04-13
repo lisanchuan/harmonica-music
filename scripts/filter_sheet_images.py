@@ -214,11 +214,34 @@ def parse_sheet_images_from_simplified_html(content: str, biz_mid: str) -> Set[s
 # 主脚本
 # ---------------------------------------------------------------
 
-def _load_bilibili_map() -> Dict[str, str]:
+def _normalize_for_match(s: str) -> str:
+    """标准化字符串用于模糊匹配"""
+    s = s.lower()
+    s = s.replace('（', '(').replace('）', ')').replace('【', '[').replace('】', ']')
+    s = re.sub(r'[^\w\u4e00-\u9fff()（）【\]\[\]]+', ' ', s)
+    s = re.sub(r'[（(][^）)]*[)）]', ' ', s)
+    return s.strip()
+
+
+def _extract_song_names(content: str) -> list[str]:
+    """从文章 content 中提取所有歌名（去重）"""
+    brackets = re.findall(r'[《〈]([^》〉]{2,20})[》〉]', content)
+    seen = set()
+    result = []
+    for b in brackets:
+        b = b.strip()
+        if b and len(b) > 1 and b not in seen:
+            seen.add(b)
+            result.append(b)
+    return result
+
+
+def _load_bilibili_data() -> tuple[list[dict], dict]:
+    """加载 bilibili 视频列表和标题映射"""
     base_dir = Path(__file__).parent.parent
     bv_path = base_dir / "data" / "bilibili_videos.json"
     if not bv_path.exists():
-        return {}
+        return [], {}
     with open(bv_path, "r", encoding="utf-8") as f:
         videos = json.load(f)
 
@@ -228,25 +251,67 @@ def _load_bilibili_map() -> Dict[str, str]:
             return m.group(1).strip()
         return title[:30].strip()
 
-    title_map: Dict[str, str] = {}
+    title_map: Dict[str, str] = {}  # song_name -> bvid
     for v in videos:
         sn = extract_song_name(v.get("title", ""))
         if sn and v.get("bvid"):
             title_map[sn] = v["bvid"]
-    return title_map
+    return videos, title_map
 
 
-def _match_bvid(song_title: str, bilibili_map: Dict[str, str]) -> Optional[str]:
-    m = re.search(r'[〈《]([^〉》]+)[〉》]', song_title)
-    if m:
-        sn = m.group(1).strip()
-        if sn in bilibili_map:
-            return bilibili_map[sn]
-    for part in reversed(re.split(r'[！？。,，]', song_title)):
-        part = part.strip()
-        if len(part) >= 4 and part in bilibili_map:
-            return bilibili_map[part]
-    return None
+def _match_score(song_name: str, bili_title: str) -> float:
+    """计算歌曲名与B站标题的匹配得分 (0-1)"""
+    song_n = _normalize_for_match(song_name)
+    bili_n = _normalize_for_match(bili_title)
+    if not song_n or not bili_n:
+        return 0.0
+    if song_n in bili_n or bili_n in song_n:
+        return 1.0
+    song_words = set(song_n.split())
+    bili_words = set(bili_n.split())
+    if not song_words:
+        return 0.0
+    intersection = song_words & bili_words
+    union = song_words | bili_words
+    jaccard = len(intersection) / len(union) if union else 0
+    word_bonus = sum(1 for w in song_words if w in bili_n) / len(song_words)
+    return max(jaccard, word_bonus * 0.8)
+
+
+def _match_bvid(article_title: str, content: str, bili_videos: list[dict], threshold: float = 0.35) -> tuple[Optional[str], Optional[str]]:
+    """
+    用公众号文章标题 + content 中的歌名 匹配 B站视频。
+    优先从 content 提取《》歌名，再用 article_title 兜底。
+    返回 (bvid, matched_title) 或 (None, None)
+    """
+    if not bili_videos:
+        return None, None
+
+    best_bvid, best_title, best_score = None, None, threshold
+
+    # 优先从 content 提取真实歌名
+    song_names = _extract_song_names(content)
+    if song_names:
+        for sn in song_names:
+            for v in bili_videos:
+                score = _match_score(sn, v["title"])
+                if score > best_score:
+                    best_score = score
+                    best_bvid = v["bvid"]
+                    best_title = v["title"]
+            if best_bvid:
+                break
+
+    # 兜底：用 article_title
+    if not best_bvid:
+        for v in bili_videos:
+            score = _match_score(article_title, v["title"])
+            if score > best_score:
+                best_score = score
+                best_bvid = v["bvid"]
+                best_title = v["title"]
+
+    return best_bvid, best_title
 
 
 def main():
@@ -257,7 +322,7 @@ def main():
     with open(input_path, "r", encoding="utf-8") as f:
         songs = json.load(f)
 
-    bilibili_map = _load_bilibili_map()
+    bili_videos, bilibili_map = _load_bilibili_data()
     print(f"Loaded {len(songs)} songs | {len(bilibili_map)} bilibili entries")
     print()
 
@@ -345,13 +410,14 @@ def main():
                 cleaned_content = content
             fetch_fail += 1
 
-        bilibili_bvid = _match_bvid(entry.get("title", ""), bilibili_map)
+        bilibili_bvid, matched_title = _match_bvid(entry.get("title", ""), content, bili_videos)
 
         new_entry = dict(entry)
         new_entry["content"] = cleaned_content
         new_entry["sheet_images"] = sheet_images
         if bilibili_bvid:
             new_entry["bilibili_bvid"] = bilibili_bvid
+            new_entry["_bilibili_matched_title"] = matched_title
         new_songs.append(new_entry)
 
         total_before += total
