@@ -5,6 +5,7 @@ import type { Song } from '@/types/song';
 import ContentViewer from '@/components/ContentViewer';
 import AudioPlayer from '@/components/AudioPlayer';
 import BackButton from '@/components/BackButton';
+import { TrackVisit } from '@/components/TrackVisit';
 
 async function getSong(id: string): Promise<Song | null> {
   const base = process.cwd();
@@ -31,6 +32,7 @@ export default async function UkuleleDetail({ params }: { params: Promise<{ id: 
 
   return (
     <div className="min-h-screen bg-zinc-900 text-white">
+      <TrackVisit song={song} />
       {/* 顶部导航 */}
       <div className="fixed top-0 left-0 right-0 z-[100] bg-zinc-800/95 backdrop-blur border-b border-zinc-700 shadow-lg">
         <div className="max-w-6xl mx-auto py-2 px-4 flex items-center justify-between">
