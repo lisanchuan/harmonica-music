@@ -2,7 +2,7 @@
   {
     "resource_id": "wb_3273006200-2649342222_1",
     "title": "扎堆翻唱！这首歌到底有什么魔力？！",
-    "img_url": "/images/wb_3273006200-2649342222_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649342222_1_004.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -18,15 +18,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649342222_1_006.jpg",
-      "/images/wb_3273006200-2649342222_1_007.jpg",
-      "/images/wb_3273006200-2649342222_1_008.jpg"
+      "/images/wb_3273006200-2649342222_1_004.jpg",
+      "/images/wb_3273006200-2649342222_1_005.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649342214_1",
     "title": "被刷屏了！谁懂他俩合作的含金量？",
-    "img_url": "/images/wb_3273006200-2649342214_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649342214_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -41,12 +40,17 @@
     "style": [
       "pop"
     ],
-    "sheet_images": []
+    "sheet_images": [
+      "/images/wb_3273006200-2649342214_1_005.jpg",
+      "/images/wb_3273006200-2649342214_1_006.jpg",
+      "/images/wb_3273006200-2649342214_1_007.jpg",
+      "/images/wb_3273006200-2649342214_1_008.jpg"
+    ]
   },
   {
     "resource_id": "wb_3273006200-2649342205_1",
     "title": "离谱！他的歌声怎么永远自带少年感？！",
-    "img_url": "/images/wb_3273006200-2649342205_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649342205_1_004.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -61,12 +65,17 @@
     "style": [
       "pop"
     ],
-    "sheet_images": []
+    "sheet_images": [
+      "/images/wb_3273006200-2649342205_1_004.jpg",
+      "/images/wb_3273006200-2649342205_1_005.jpg",
+      "/images/wb_3273006200-2649342205_1_006.jpg",
+      "/images/wb_3273006200-2649342205_1_007.jpg"
+    ]
   },
   {
     "resource_id": "wb_3273006200-2649342197_1",
     "title": "没想到，周杰伦新专辑最大的黑马居然是这首！",
-    "img_url": "/images/wb_3273006200-2649342197_1.jpg",
+    "img_url": "/images/wb_3273006200-2649342197_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -82,35 +91,19 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649342197_1_012.jpg"
+      "/images/wb_3273006200-2649342197_1_005.jpg",
+      "/images/wb_3273006200-2649342197_1_006.jpg",
+      "/images/wb_3273006200-2649342197_1_007.jpg",
+      "/images/wb_3273006200-2649342197_1_008.jpg",
+      "/images/wb_3273006200-2649342197_1_009.jpg"
     ],
     "bilibili_bvid": "BV1bt411q7fV",
     "_bilibili_matched_title": "〈晴天〉/周杰伦 尤克里里ukulele弹唱教学by白熊音乐"
   },
   {
-    "resource_id": "wb_3273006200-2649342189_1",
-    "title": "太顶了！谁还没薅到送千元琴的羊毛？",
-    "img_url": "/images/wb_3273006200-2649342189_1_001.jpg",
-    "view_count": "0",
-    "price": 0,
-    "line_price": 0,
-    "source": "wechat_mp",
-    "mp_id": "MP_WXS_3273006200",
-    "mp_name": "白熊音乐",
-    "summary": "太顶了！谁还没薅到送千元琴的羊毛？",
-    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
-    "external_url": "https://mp.weixin.qq.com/s/o_ClL_-V1VG-bwzYjog7jA",
-    "published_at": "2026-04-03 20:48",
-    "instrument": "ukulele",
-    "style": [
-      "pop"
-    ],
-    "sheet_images": []
-  },
-  {
     "resource_id": "wb_3273006200-2649342090_1",
     "title": "破防了！周杰伦新歌〈那天下雨了〉居然是这首歌的续篇？！",
-    "img_url": "/images/wb_3273006200-2649342090_1.jpg",
+    "img_url": "/images/wb_3273006200-2649342090_1_006.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -127,14 +120,19 @@
     ],
     "_bilibili_bvid": "BV1WbXUBGEc3",
     "_bilibili_matched_song": "那天下雨了",
-    "sheet_images": [],
+    "sheet_images": [
+      "/images/wb_3273006200-2649342090_1_006.jpg",
+      "/images/wb_3273006200-2649342090_1_007.jpg",
+      "/images/wb_3273006200-2649342090_1_008.jpg",
+      "/images/wb_3273006200-2649342090_1_009.jpg"
+    ],
     "bilibili_bvid": "BV1bt411q7fV",
     "_bilibili_matched_title": "〈晴天〉/周杰伦 尤克里里ukulele弹唱教学by白熊音乐"
   },
   {
     "resource_id": "wb_3273006200-2649342044_1",
     "title": "杰迷又过年了！你要找的新歌曲谱全在这里！",
-    "img_url": "/images/wb_3273006200-2649342044_1.jpg",
+    "img_url": "/images/wb_3273006200-2649342044_1_004.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -149,14 +147,41 @@
     "style": [
       "pop"
     ],
-    "sheet_images": [],
+    "sheet_images": [
+      "/images/wb_3273006200-2649342044_1_004.jpg",
+      "/images/wb_3273006200-2649342044_1_005.jpg",
+      "/images/wb_3273006200-2649342044_1_007.jpg",
+      "/images/wb_3273006200-2649342044_1_008.jpg",
+      "/images/wb_3273006200-2649342044_1_010.jpg",
+      "/images/wb_3273006200-2649342044_1_011.jpg",
+      "/images/wb_3273006200-2649342044_1_013.jpg",
+      "/images/wb_3273006200-2649342044_1_014.jpg",
+      "/images/wb_3273006200-2649342044_1_016.jpg",
+      "/images/wb_3273006200-2649342044_1_017.jpg",
+      "/images/wb_3273006200-2649342044_1_019.jpg",
+      "/images/wb_3273006200-2649342044_1_020.jpg",
+      "/images/wb_3273006200-2649342044_1_022.jpg",
+      "/images/wb_3273006200-2649342044_1_023.jpg",
+      "/images/wb_3273006200-2649342044_1_025.jpg",
+      "/images/wb_3273006200-2649342044_1_026.jpg",
+      "/images/wb_3273006200-2649342044_1_028.jpg",
+      "/images/wb_3273006200-2649342044_1_029.jpg",
+      "/images/wb_3273006200-2649342044_1_031.jpg",
+      "/images/wb_3273006200-2649342044_1_032.jpg",
+      "/images/wb_3273006200-2649342044_1_034.jpg",
+      "/images/wb_3273006200-2649342044_1_035.jpg",
+      "/images/wb_3273006200-2649342044_1_037.jpg",
+      "/images/wb_3273006200-2649342044_1_038.jpg",
+      "/images/wb_3273006200-2649342044_1_041.jpg",
+      "/images/wb_3273006200-2649342044_1_042.jpg"
+    ],
     "bilibili_bvid": "BV1cXXfBqE9n",
     "_bilibili_matched_title": "四个和弦就能弹！周杰伦新歌〈爱琴海〉 尤克里里弹唱教学"
   },
   {
     "resource_id": "wb_3273006200-2649342014_1",
     "title": "杀疯了！周杰伦一出手就炸翻全网！",
-    "img_url": "/images/wb_3273006200-2649342014_1.jpg",
+    "img_url": "/images/wb_3273006200-2649342014_1_013.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -172,15 +197,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649342014_1_015.jpg",
-      "/images/wb_3273006200-2649342014_1_016.jpg",
-      "/images/wb_3273006200-2649342014_1_017.jpg"
+      "/images/wb_3273006200-2649342014_1_013.jpg",
+      "/images/wb_3273006200-2649342014_1_014.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341954_1",
     "title": "时隔一年，这首歌又杀回来了！",
-    "img_url": "/images/wb_3273006200-2649341954_1.jpg",
+    "img_url": "/images/wb_3273006200-2649341954_1_009.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -198,35 +222,14 @@
     "bilibili_bvid": "BV16GApzWE79",
     "_bilibili_matched_title": "时隔一年又火了！〈My Love〉颜人中 尤克里里弹唱教学",
     "sheet_images": [
-      "/images/wb_3273006200-2649341954_1_012.jpg"
+      "/images/wb_3273006200-2649341954_1_009.jpg",
+      "/images/wb_3273006200-2649341954_1_010.jpg"
     ]
-  },
-  {
-    "resource_id": "wb_3273006200-2649341931_1",
-    "title": "无痛入门！这把吉他居然一秒上手？！",
-    "img_url": "/images/wb_3273006200-2649341931_1.jpg",
-    "view_count": "0",
-    "price": 0,
-    "line_price": 0,
-    "source": "wechat_mp",
-    "mp_id": "MP_WXS_3273006200",
-    "mp_name": "白熊音乐",
-    "summary": "彩虹人Niño 520吉他测评试听～",
-    "content": "<html><body><p></p>\n<p>小琴也有大本事！</p>\n<p>「彩虹人小尼龙Niño 520」闪亮登场✨</p>\n<p>33寸迷你桶型，重量轻，随行无负担；</p>\n<p>尼龙弦+短弦长，按弦舒适，对新手友好；</p>\n<p>一把琴两种玩法，</p>\n<p>吉他或尤克里里随心情换～</p>\n<p>无论是居家练习还是旅途随玩，</p>\n<p>都能轻松解锁音乐乐趣！</p>\n<p>彩虹人Niño 520吉他测评试听</p>\n<p>@崔骏ukulele</p>\n<p></p>\n<p>同款琴： 彩虹人Niño 520</p>\n<p>复制到淘宝打开：</p>\n<p>https://e.tb.cn/h.7M0S0BE8PNdtMSH?tk=0OPQUfEjKme HU108</p>\n<p>彩虹人Niño 520</p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p>微信小店：「白熊音乐」</p>\n<p>购琴点击直达：</p>\n<p></p>\n<p>往期热门内容</p>\n<p></p>\n<p>· 点击图片直达 ·</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341874&amp;idx=1&amp;sn=8cd34f9cda03531d633cd4b88d2cb801&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341886&amp;idx=1&amp;sn=b3950e836bf541678a3c276d123484db&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341786&amp;idx=1&amp;sn=783dcae7fc9b701761b225bf91d32eef&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341683&amp;idx=1&amp;sn=8c6c297206754f6e8e53677edbecb43b&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341690&amp;idx=1&amp;sn=3927be2842576a51e9b108a3e969a536&amp;scene=21#wechat_redirect\"></a></p>\n<p>-弹琴给你喜欢的人听-</p>\n<p>LIVE BETTER WITH UKULELE</p>\n<p></p>\n<p></p>\n<p></p></body></html>",
-    "external_url": "https://mp.weixin.qq.com/s/K2-4dGVRa94Tl2qlf6gOeg",
-    "published_at": "2026-03-18 21:09",
-    "instrument": "guitar",
-    "style": [
-      "pop"
-    ],
-    "bilibili_bvid": "BV1x7wizeEFP",
-    "_bilibili_matched_title": "无痛入门！这把吉他居然一秒上手？彩虹人Niño520吉他测评试听",
-    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649341919_1",
     "title": "全员BE！被这部剧虐了十年...",
-    "img_url": "/images/wb_3273006200-2649341919_1.jpg",
+    "img_url": "/images/wb_3273006200-2649341919_1_009.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -243,12 +246,15 @@
     ],
     "_bilibili_bvid": "BV1pXwXzyE7G",
     "_bilibili_matched_song": "锦绣未央",
-    "sheet_images": []
+    "sheet_images": [
+      "/images/wb_3273006200-2649341919_1_009.jpg",
+      "/images/wb_3273006200-2649341919_1_010.jpg"
+    ]
   },
   {
     "resource_id": "wb_3273006200-2649341886_1",
     "title": "被低估了19年，这位甜妹早该红了！",
-    "img_url": "/images/wb_3273006200-2649341886_1.jpg",
+    "img_url": "/images/wb_3273006200-2649341886_1_006.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -264,15 +270,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341886_1_008.jpg",
-      "/images/wb_3273006200-2649341886_1_009.jpg",
-      "/images/wb_3273006200-2649341886_1_010.jpg"
+      "/images/wb_3273006200-2649341886_1_006.jpg",
+      "/images/wb_3273006200-2649341886_1_007.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341874_2",
     "title": "纯干货！尤克里里9种必学泛音，你都会了吗？",
-    "img_url": "/images/wb_3273006200-2649341874_2.jpg",
+    "img_url": "/images/wb_3273006200-2649341874_1_008.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -287,52 +292,23 @@
     "style": [
       "pop"
     ],
-    "sheet_images": []
-  },
-  {
-    "resource_id": "wb_3273006200-2649341817_1",
-    "title": "尤克里里十种实用技巧，建议反复观看！",
-    "img_url": "/images/wb_3273006200-2649341817_1.jpg",
-    "view_count": "0",
-    "price": 0,
-    "line_price": 0,
-    "source": "wechat_mp",
-    "mp_id": "MP_WXS_3273006200",
-    "mp_name": "白熊音乐",
-    "summary": "之前更新了一期整活版尤克里里十种技巧，                                                  琴友们直呼抽象🤣                                                  今天不闹了，上点干货～                                                  正经实用的十种技巧，  ...",
-    "content": "<html><body><p></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341375&amp;idx=1&amp;sn=3c2869a6316a787b6f43f012679fad2d&amp;scene=21#wechat_redirect\"></a></p>\n<p>之前更新了一期整活版尤克里里十种技巧，</p>\n<p>琴友们直呼抽象🤣</p>\n<p>今天不闹了，上点干货～</p>\n<p>正经实用的十种技巧，</p>\n<p>快来看看你都会了吗？</p>\n<p>10种尤克里里技巧</p>\n<p>@崔骏ukulele</p>\n<p></p>\n<p>同款琴： Ko’olau 100系列</p>\n<p>复制到淘宝打开：</p>\n<p>https://e.tb.cn/h.idrNaHfhpYWBAgK?tk=uXbyUFrJ1Np CZ057</p>\n<p>·</p>\n<p>更多干货大合辑</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649297274&amp;idx=1&amp;sn=f6786028731a59b1c113a2ebb6e56a79&amp;scene=21#wechat_redirect\">1.购琴必看指南</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649297274&amp;idx=1&amp;sn=f6786028731a59b1c113a2ebb6e56a79&amp;scene=21#wechat_redirect\">2.关于尤克里里</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649297274&amp;idx=1&amp;sn=f6786028731a59b1c113a2ebb6e56a79&amp;scene=21#wechat_redirect\">3.零基础系列教程</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649297274&amp;idx=1&amp;sn=f6786028731a59b1c113a2ebb6e56a79&amp;scene=21#wechat_redirect\">4.节奏型合集</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649297274&amp;idx=1&amp;sn=f6786028731a59b1c113a2ebb6e56a79&amp;scene=21#wechat_redirect\">5.技巧小课堂系列</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649297274&amp;idx=1&amp;sn=f6786028731a59b1c113a2ebb6e56a79&amp;scene=21#wechat_redirect\">6.尤克里里考级系列</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649339787&amp;idx=1&amp;sn=8302ef722863f256daabf1bc06b4b6ee&amp;scene=21#wechat_redirect\">7.尤克里里基本功训练营</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341129&amp;idx=2&amp;sn=abae0a5440090f4e1f53bc4f99ea14ee&amp;scene=21#wechat_redirect\">8.吉他基本功</a></p>\n<p></p>\n<p>微信小店：「白熊音乐」</p>\n<p>购琴点击直达：</p>\n<p></p>\n<p>往期热门内容</p>\n<p></p>\n<p>· 点击图片直达 ·</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341593&amp;idx=1&amp;sn=59fc9c6783238420fe0bd26545e6fb4f&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341759&amp;idx=1&amp;sn=77a3df6b2c19a2aa972e40ed3763b84d&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341786&amp;idx=1&amp;sn=783dcae7fc9b701761b225bf91d32eef&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341683&amp;idx=1&amp;sn=8c6c297206754f6e8e53677edbecb43b&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341690&amp;idx=1&amp;sn=3927be2842576a51e9b108a3e969a536&amp;scene=21#wechat_redirect\"></a></p>\n<p>-弹琴给你喜欢的人听-</p>\n<p>LIVE BETTER WITH UKULELE</p>\n<p></p>\n<p></p>\n<p></p></body></html>",
-    "external_url": "https://mp.weixin.qq.com/s/xw1JLMRdad4Q-UEOrd16Zg",
-    "published_at": "2026-03-11 20:36",
-    "instrument": "ukulele",
-    "style": [
-      "pop"
-    ],
-    "sheet_images": []
-  },
-  {
-    "resource_id": "wb_3273006200-2649341809_1",
-    "title": "起猛了！油管破亿播放指弹大神来中国巡演了！",
-    "img_url": "/images/wb_3273006200-2649341809_1.jpg",
-    "view_count": "0",
-    "price": 0,
-    "line_price": 0,
-    "source": "wechat_mp",
-    "mp_id": "MP_WXS_3273006200",
-    "mp_name": "白熊音乐",
-    "summary": "当指尖落在琴弦上，旋律便开始流动；            当音乐踏上旅途，吉他故事也随之展开。            2026 年春天，KEPMA吉他合作艺术家，两位备受全球乐迷喜爱的欧洲指弹吉他演奏家              Casper Esmann（丹麦）              与              Eddie van der Meer（荷兰）              ，将携...",
-    "content": "<html><body><p>当指尖落在琴弦上，旋律便开始流动；</p>\n<p>当音乐踏上旅途，吉他故事也随之展开。</p>\n<p>2026 年春天，KEPMA吉他合作艺术家，两位备受全球乐迷喜爱的欧洲指弹吉他演奏家 Casper Esmann（丹麦） 与 Eddie van der Meer（荷兰） ，将携手开启中国巡演——</p>\n<p>在路上 · ON THE ROAD 2026 卡普马吉他全国巡演</p>\n<p>这不仅是一场巡演，更是一段关于音乐、旅行与自由的共同奔赴旅程。</p>\n<p></p>\n<p>巡演城市及日期</p>\n<h2 id=\"312\">3/12（周四） 北京</h2>\n<p>黄昏黎明 DDC</p>\n<h2 id=\"313\">3/13（周五） 上海</h2>\n<p>7HERTZ LIVE</p>\n<h2 id=\"314\">3/14（周六） 南京</h2>\n<p>1701 OPEN SPACE</p>\n<h2 id=\"315\">3/15（周日） 无锡</h2>\n<p>活塞LIVEHOUSE（惠山古镇店）</p>\n<h2 id=\"317\">3/17（周二） 苏州</h2>\n<p>山丘 LIVEHOUSE 红唐店</p>\n<h2 id=\"318\">3/18（周三） 杭州</h2>\n<p>MAO LIVEHOUSE</p>\n<h2 id=\"320\">3/20（周五） 成都</h2>\n<p>LITTLES LIVE（小酒馆万象城店）</p>\n<h2 id=\"321\">3/21（周六） 贵阳</h2>\n<p>KAI LIVEHOUSE</p>\n<h2 id=\"322\">3/22（周日） 广州</h2>\n<p>光芒 ENLIGHTENING</p>\n<h2 id=\"324\">3/24（周二） 深圳</h2>\n<p>HOU LIVE 下沙店</p>\n<p>购票方式</p>\n<p>VIP区：¥280 普通区：¥180</p>\n<p>添加微信购票⬇️</p>\n<p></p>\n<p></p>\n<p>巡演歌单剧透⬇️</p>\n<p></p>\n<h3 id=\"casper-esmann\">Casper Esmann</h3>\n<h3 id=\"_1\">｜丹麦指弹吉他手</h3>\n<h3 id=\"_2\"></h3>\n<p></p>\n<p>来自丹麦的新生代指弹吉他演奏家，Casper Esmann 以旋律感极强的原创作品、细腻的触弦控制与富有画面感的音乐叙事而广受欢迎。他的音乐融合了 Acoustic Folk、Pop、Ambient 等元素，旋律温暖、层次丰富，兼具技术与情感。</p>\n<p>Casper 曾与 Tommy Emmanuel、Andy McKee、Mike Dawes 等国际顶级指弹吉他大师同台演出，在欧洲与亚洲多国展开巡演。他的作品在 Spotify 播放量累计超过 600 万次，YouTube 视频播放量 突破 3000 万，在年轻指弹听众中拥有极高人气。</p>\n<p>他的音乐不像炫技，更像一段段旅途的记录 ——</p>\n<p>关于时间、城市、人与风景。</p>\n<h3 id=\"_3\"></h3>\n<h3 id=\"eddie-v-an-der-meer\">Eddie V an Der Meer</h3>\n<h3 id=\"_4\">｜荷兰指弹吉他手</h3>\n<h3 id=\"_5\"></h3>\n<p></p>\n<h3 id=\"eddie-van-der-meer\">Eddie van der Meer 是当今世界最具影响力的指弹吉他演奏家之一，以极具辨识度的改编能力与极致干净的演奏风格闻名全球。</h3>\n<h3 id=\"youtube-45-250-eddie\">他的YouTube频道播放量累计超过 4.5 亿次，订阅数超过 250 万，是无数指弹吉他爱好者的入门与启蒙者。Eddie 的作品横跨 流行音乐改编、原创作品与电影配乐风格，音色克制、结构清晰，音乐极具“空间感”。</h3>\n<h3 id=\"tommy-emmanuel\">他曾多次与 Tommy Emmanuel 同台合作演出，被誉为“让指弹走向大众的代表人物之一”。</h3>\n<h3 id=\"on-the-road-2026-live-better-with-ukulele-imagepng\">✦ 关于《在路上》 “ON THE ROAD” 不只是巡演的名字。 它代表音乐人在不同城市之间的流动，也象征每一位听众在人生旅途中的片刻停靠。如果你热爱原声吉他， 如果你喜欢安静却有力量的音乐， 如果你愿意在一个夜晚，把世界交给六根弦—— 那我们，2026马上 见！ -弹琴给你喜欢的人听- LIVE BETTER WITH UKULELE 图片 image.png图片</h3></body></html>",
-    "external_url": "https://mp.weixin.qq.com/s/CJSWwB2yps7hosl3tKrkcw",
-    "published_at": "2026-03-10 20:36",
-    "instrument": "guitar",
-    "style": [
-      "pop"
-    ],
-    "sheet_images": []
+    "sheet_images": [
+      "/images/wb_3273006200-2649341874_1_008.jpg",
+      "/images/wb_3273006200-2649341874_1_009.jpg",
+      "/images/wb_3273006200-2649341874_1_010.jpg",
+      "/images/wb_3273006200-2649341874_1_011.jpg",
+      "/images/wb_3273006200-2649341874_1_012.jpg",
+      "/images/wb_3273006200-2649341874_1_013.jpg",
+      "/images/wb_3273006200-2649341874_1_014.jpg",
+      "/images/wb_3273006200-2649341874_1_015.jpg",
+      "/images/wb_3273006200-2649341874_1_016.jpg",
+      "/images/wb_3273006200-2649341874_1_017.jpg"
+    ]
   },
   {
     "resource_id": "wb_3273006200-2649341786_1",
     "title": "入坑曲！这首歌小时候抱过我！",
-    "img_url": "/images/wb_3273006200-2649341786_1.jpg",
+    "img_url": "/images/wb_3273006200-2649341786_1_008.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -349,12 +325,14 @@
     ],
     "bilibili_bvid": "BV1GfNMzCE9L",
     "_bilibili_matched_title": "绝了！这首歌小时候抱过我！〈深海少女〉初音未来 尤克里里指弹独奏",
-    "sheet_images": []
+    "sheet_images": [
+      "/images/wb_3273006200-2649341786_1_008.jpg"
+    ]
   },
   {
     "resource_id": "wb_3273006200-2649341759_1",
     "title": "剧一集没追，歌却听到停不下来！",
-    "img_url": "/images/wb_3273006200-2649341759_1.jpg",
+    "img_url": "/images/wb_3273006200-2649341759_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -370,9 +348,7 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341759_1_007.jpg",
-      "/images/wb_3273006200-2649341759_1_008.jpg",
-      "/images/wb_3273006200-2649341759_1_009.jpg"
+      "/images/wb_3273006200-2649341759_1_005.jpg"
     ],
     "bilibili_bvid": "BV1sqP4z2E1H",
     "_bilibili_matched_title": "一听就开心！〈探春令〉 尤克里里弹唱教学 陈添祥/刘念/张翅/至春禾"
@@ -380,7 +356,7 @@
   {
     "resource_id": "wb_3273006200-2649341593_1",
     "title": "领跑春节档！听说这部电影夯爆了？！",
-    "img_url": "/images/wb_3273006200-2649341593_1.jpg",
+    "img_url": "/images/wb_3273006200-2649341593_1_010.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -396,35 +372,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341593_1_014.jpg"
+      "/images/wb_3273006200-2649341593_1_010.jpg",
+      "/images/wb_3273006200-2649341593_1_011.jpg"
     ]
-  },
-  {
-    "resource_id": "wb_3273006200-2649341546_1",
-    "title": "大惊喜！入门全单赛道又添卷王！",
-    "img_url": "/images/wb_3273006200-2649341546_1.jpg",
-    "view_count": "0",
-    "price": 0,
-    "line_price": 0,
-    "source": "wechat_mp",
-    "mp_id": "MP_WXS_3273006200",
-    "mp_name": "白熊音乐",
-    "summary": "KOA-1相思树尤克里里测评试听～",
-    "content": "<html><body><p></p>\n<p>叮！测评时间到！</p>\n<p>今天崔老师带我们试听一把来自艳阳的新琴——</p>\n<p>KOA-1相思树尤克里里</p>\n<p>✨</p>\n<p>超薄琴体、可拆卸琴颈，</p>\n<p>音色竟让人直呼惊喜！</p>\n<p>一起来看看这把琴有什么独特之处吧～</p>\n<p>KOA-1尤克里里测评试听</p>\n<p>@崔骏ukulele</p>\n<p></p>\n<p>同款琴： 艳阳Koa相思树</p>\n<p>复制到淘宝打开：</p>\n<p>https://e.tb.cn/h.7FT6ln1wu7Ra5vT?tk=5QoBUPxx10q CZ321</p>\n<p>艳阳KOA-1尤克里里</p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p>新</p>\n<p>年</p>\n<p>礼</p>\n<p>物</p>\n<p>岁岁年年，感恩有你。</p>\n<p>贺岁好礼已备好，快 把好运带回家吧！</p>\n<p></p>\n<p>春节不打烊火热进行中～</p>\n<p>官方立减10%，买一送N！</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341366&amp;idx=2&amp;sn=136ab730aa77f67ba2f0527cf2d8faf9&amp;scene=21#wechat_redirect\"></a></p>\n<p>春节歌曲合辑 | 点击直达</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341386&amp;idx=1&amp;sn=e4b443776b7c7e091835bdf57f4508c2&amp;scene=21#wechat_redirect\"></a></p>\n<p></p>\n<p>微信小店：「白熊音乐」</p>\n<p>购琴点击直达：</p>\n<p></p>\n<p>购琴必看指南</p>\n<p>之前我们出了很多视频从各方面教大家如何选适合自己的琴，点击文字直达哦~</p>\n<p>👉🔗  <a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649338490&amp;idx=1&amp;sn=2317b41a0bc843732a138ac65f6720d1&amp;scene=21#wechat_redirect\">2025年300-400元入门尤克里里测评</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649338490&amp;idx=1&amp;sn=2317b41a0bc843732a138ac65f6720d1&amp;scene=21#wechat_redirect\"></a></p>\n<p>👉🔗  <a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649336942&amp;idx=1&amp;sn=448ab34399438d4a1839ca325a4799c0&amp;scene=21#wechat_redirect\">2025年千元价位吉他选购推荐</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649336942&amp;idx=1&amp;sn=448ab34399438d4a1839ca325a4799c0&amp;scene=21#wechat_redirect\"></a></p>\n<p>👉🔗  <a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649331844&amp;idx=1&amp;sn=acb601482d6eac35e51a36cdae981388&amp;scene=21#wechat_redirect\">2024年300-2W价位尤克里里试听</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649331844&amp;idx=1&amp;sn=acb601482d6eac35e51a36cdae981388&amp;scene=21#wechat_redirect\"></a></p>\n<p>👉🔗  <a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649324594&amp;idx=1&amp;sn=8db218455c19f0c9a66b4b9bf1550999&amp;scene=21#wechat_redirect\">2024年300-500元入门尤克里里测评</a></p>\n<p>👉\n🔗\n<a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649331066&amp;idx=1&amp;sn=9ff1f3f0b958a9093b00c8fdd99cadf9&amp;scene=21#wechat_redirect\">2024年1000-3000元进阶尤克里里测评</a></p>\n<p>👉🔗  <a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649332090&amp;idx=1&amp;sn=fdd2e88944532ca783ce8d3ff436ff62&amp;scene=21#wechat_redirect\">2024年500-800价位入门吉他选购推荐</a></p>\n<p>👉🔗  <a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649336942&amp;idx=1&amp;sn=448ab34399438d4a1839ca325a4799c0&amp;scene=21#wechat_redirect\">2025年千元价位吉他选购推荐</a></p>\n<p>👉🔗\n<a href=\"http://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649314443&amp;idx=1&amp;sn=65eeae745f6933c39e4e47fc2ca196cf&amp;chksm=f3341f9cc443968a3f565b7c054f50c6a5cc74172680b8bd6f0f1d0e72c7c545d09f2161ba54&amp;scene=21#wechat_redirect\">2023年300-1000元值得入手的尤克里里选购推荐</a></p>\n<p>👉🔗\n<a href=\"http://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649315397&amp;idx=1&amp;sn=f957f3cbcbc519c01ff179d39df0d7cb&amp;chksm=f3341352c4439a44d77384db21aa3f4f8014d020fb14850f056cde2d13ae19677dbfdb2d7309&amp;scene=21#wechat_redirect\">2023年1500-3W值得入手的进阶全单尤克里里选购推荐</a></p>\n<p>👉🔗  <a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649308687&amp;idx=1&amp;sn=4d80617ca50a8dce7b06be39e703989b&amp;scene=21#wechat_redirect\">保姆级选购攻略！精选36把琴300-2W尤克里里全方位测评推荐</a></p>\n<p>👉🔗  <a href=\"http://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649299577&amp;idx=1&amp;sn=dc3c218de792b2c42034510f6a42acb9&amp;chksm=f334516ec443d8780a28ce6dacbc6629274f0abf3f542edc12b391ef48568dd29c5777e31cb9&amp;scene=21#wechat_redirect\">2022年1500-5000元进阶尤克里里大测评</a></p>\n<p>👉 🔗  <a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649286078&amp;idx=1&amp;sn=543cc6205c391ca797af522ef4032ced&amp;scene=21#wechat_redirect\">同价位12组尤克里里对比推荐</a></p>\n<p>👉 🔗  <a href=\"http://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649255391&amp;idx=1&amp;sn=89934b26199589eab069b27496b32d2e&amp;chksm=f33526c8c442afded5b6403974c5941ed57f9a9aa1cb33f31f8a08f8e7e957492dfb078a37a0&amp;scene=21#wechat_redirect\">如何选琴视频讲解大总结</a></p>\n<p>👉🔗  <a href=\"http://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649253199&amp;idx=1&amp;sn=ce121df3a8dfacfe9837888d38bfe242&amp;chksm=f3352e58c442a74ecd1040c5f600bc9f58da7c61ffee6aa474cec4672da7f7e1e03c3e1c7e03&amp;scene=21#wechat_redirect\">常见木材的音色区别及100倍价格对比试听</a></p>\n<p>👉🔗  <a href=\"http://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649252608&amp;idx=1&amp;sn=faa5cec60317c2c8b540f22a932b9f6a&amp;chksm=f3352817c442a101050c983516f8842393f393cc402abdea412558b1139abf034d668555c6df&amp;scene=21#wechat_redirect\">不同尺寸材质各式各样的尤克里里全试听</a></p>\n<p>👉🔗  <a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649255750&amp;idx=2&amp;sn=302b31c986ab278436f94b18094e340f&amp;chksm=f3352451c442ad4743b894efff7bad35a2e30b0fa9926490072d7c8cc4f33ee33215f44be2de&amp;scene=21&amp;token=1990610701&amp;lang=zh_CN#wechat_redirect\">相差20倍的价格20把尤克里里音色全试听</a></p>\n<p></p>\n<p>-弹琴给你喜欢的人听-</p>\n<p>LIVE BETTER WITH UKULELE</p>\n<p></p></body></html>",
-    "external_url": "https://mp.weixin.qq.com/s/QZDAY5fiA1bsMAP0JLB_zA",
-    "published_at": "2026-02-20 20:26",
-    "instrument": "ukulele",
-    "style": [
-      "pop"
-    ],
-    "bilibili_bvid": "BV1c9fuB5E5K",
-    "_bilibili_matched_title": "大惊喜！入门全单赛道又添卷王！KOA-1相思树尤克里里测评试听～",
-    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649341411_1",
     "title": "别只当儿歌！长大后再听直接破防...",
-    "img_url": "/images/wb_3273006200-2649341411_1.jpg",
+    "img_url": "/images/wb_3273006200-2649341411_1_012.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -440,35 +395,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341411_1_017.jpg"
+      "/images/wb_3273006200-2649341411_1_012.jpg",
+      "/images/wb_3273006200-2649341411_1_013.jpg"
     ]
-  },
-  {
-    "resource_id": "wb_3273006200-2649341366_1",
-    "title": "收官干货！全琴玩法一次讲透！",
-    "img_url": "/images/wb_3273006200-2649341366_1.jpg",
-    "view_count": "0",
-    "price": 0,
-    "line_price": 0,
-    "source": "wechat_mp",
-    "mp_id": "MP_WXS_3273006200",
-    "mp_name": "白熊音乐",
-    "summary": "Cyber-G赛博吉他零基础弹唱教程：第10课",
-    "content": "<html><body><p></p>\n<p>上手即玩， 随时随地轻松掌控全场，</p>\n<p>一人就是精彩纷呈的赛博乐队。</p>\n<p>白熊音乐恩雅Cyber-G 赛博吉他 教程开启～</p>\n<p>一起跟着崔老师玩转起来吧！</p>\n<p>上期回顾</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649335364&amp;idx=1&amp;sn=b67dc0ec27186865ba70d7965e365171&amp;scene=21#wechat_redirect\">第一课：功能介绍+歌曲练习</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649335580&amp;idx=1&amp;sn=c182819468b9d1fff6fa50dc299474bc&amp;scene=21#wechat_redirect\">第二课：切换律动</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649335982&amp;idx=1&amp;sn=7658679e91923a6b9dce74dbcca8dcb8&amp;scene=21#wechat_redirect\">第三课：鼓机教学</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649336169&amp;idx=1&amp;sn=0bb428e65b5b6b579880b0b46c93ec5a&amp;scene=21#wechat_redirect\">第四课：solo模式+歌曲〈简单爱〉前奏教学</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649338368&amp;idx=1&amp;sn=ae95f7728f00489437359b77be1e86f6&amp;scene=21#wechat_redirect\">第五课：了解和弦级数</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341056&amp;idx=1&amp;sn=a550cec7a6e51c57fc6f605d7978a297&amp;scene=21#wechat_redirect\">第六课：连接APP弹奏歌曲</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341132&amp;idx=1&amp;sn=2ed472bfb7933a2105d31a80ecd533d6&amp;scene=21#wechat_redirect\">第七课：加入鼓点+歌曲</a> <a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341132&amp;idx=1&amp;sn=2ed472bfb7933a2105d31a80ecd533d6&amp;scene=21#wechat_redirect\">〈晴天〉练习</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341144&amp;idx=1&amp;sn=b08fd0b3ff49c926953b82a1c486ffee&amp;scene=21#wechat_redirect\">第八课：切换伴奏+歌曲</a> <a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341144&amp;idx=1&amp;sn=b08fd0b3ff49c926953b82a1c486ffee&amp;scene=21#wechat_redirect\">〈青花瓷〉练习</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341210&amp;idx=1&amp;sn=be1c6a68565d1cc3497fd19c49f19c0c&amp;scene=21#wechat_redirect\">第九课：将海量曲谱导入赛博吉他</a></p>\n<p>Cyber-G\n赛博吉他\n教程最后一课\n上线！</p>\n<p>这节课我们来做一个全面总结：</p>\n<p>带大家搞懂赛博吉他到底是一款什么样的乐器，</p>\n<p>解锁它更多实用的拓展功能，</p>\n<p>梳理不同的演奏场景，</p>\n<p>最后讲解琴身上各类接口的用法，</p>\n<p>一次吃透整琴核心！</p>\n<p>10</p>\n<p>赛博吉他的多种形态</p>\n<p>@崔骏ukulele</p>\n<p>Cyber-G颠覆了传统乐器需要复杂学习的限制，</p>\n<p>不用任何音乐基础，</p>\n<p>就能轻松实现吉他、钢琴弹唱体验。</p>\n<p>恩雅赛博吉他Cyber-G</p>\n<p></p>\n<p></p>\n<p></p>\n<p>往期热门内容</p>\n<p></p>\n<p>· 点击图片直达 ·</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340907&amp;idx=1&amp;sn=7c5df49c26306bd91065ecdc2c032092&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341236&amp;idx=1&amp;sn=307fde4f0f8dfd94515919d2fb61a061&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340972&amp;idx=1&amp;sn=e648d4c899ad92a10396084806ddc1f4&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341245&amp;idx=1&amp;sn=62d09c63adf71e30455c58289c66d680&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341251&amp;idx=1&amp;sn=873ff8e5f7dcb7de7c429b85f9849f2d&amp;scene=21#wechat_redirect\"></a></p>\n<p>-弹琴给你喜欢的人听-</p>\n<p>LIVE BETTER WITH UKULELE</p>\n<p></p>\n<p></p>\n<p></p></body></html>",
-    "external_url": "https://mp.weixin.qq.com/s/Yhn-Tqvuo4k8X8kl74EGoA",
-    "published_at": "2026-02-10 20:39",
-    "instrument": "guitar",
-    "style": [
-      "pop"
-    ],
-    "sheet_images": [],
-    "bilibili_bvid": "BV1bt411q7fV",
-    "_bilibili_matched_title": "〈晴天〉/周杰伦 尤克里里ukulele弹唱教学by白熊音乐"
   },
   {
     "resource_id": "wb_3273006200-2649341308_1",
     "title": "又痛了！这次心理委员来也没用了...",
-    "img_url": "/images/wb_3273006200-2649341308_1.jpg",
+    "img_url": "/images/wb_3273006200-2649341308_1_006.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -484,35 +418,22 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341308_1_016.jpg"
+      "/images/wb_3273006200-2649341308_1_006.jpg",
+      "/images/wb_3273006200-2649341308_1_007.jpg",
+      "/images/wb_3273006200-2649341308_1_008.jpg",
+      "/images/wb_3273006200-2649341308_1_009.jpg",
+      "/images/wb_3273006200-2649341308_1_010.jpg",
+      "/images/wb_3273006200-2649341308_1_011.jpg",
+      "/images/wb_3273006200-2649341308_1_012.jpg",
+      "/images/wb_3273006200-2649341308_1_013.jpg"
     ],
     "bilibili_bvid": "BV1XiFkzZEZ7",
     "_bilibili_matched_title": "爆火旋律说唱！〈一半一半〉TopBarry 尤克里里弹唱教学"
   },
   {
-    "resource_id": "wb_3273006200-2649341269_1",
-    "title": "硬核整理！学会这9种泛音，弹琴自带空灵buff！",
-    "img_url": "/images/wb_3273006200-2649341269_1.jpg",
-    "view_count": "0",
-    "price": 0,
-    "line_price": 0,
-    "source": "wechat_mp",
-    "mp_id": "MP_WXS_3273006200",
-    "mp_name": "白熊音乐",
-    "summary": "收藏这篇！9种尤克里里泛音技巧全解锁！",
-    "content": "<html><body><p></p>\n<p>你是否羡慕过别人弹尤克里里时，</p>\n<p>总能冒出一两处惊艳的\"神仙音效\"？</p>\n<p>其实那不是天赋加持，</p>\n<p>而是泛音技巧的巧妙运用！</p>\n<p>✨</p>\n<p>今天崔老师将教给大家 九种泛音技巧</p>\n<p>无论你是想给弹唱增添亮点，</p>\n<p>还是想攻克独奏中的泛音段落，</p>\n<p>这篇干货满满的泛音技巧教学，</p>\n<p>都能帮你精准突破，</p>\n<p>带你解锁小U隐藏的空灵质感，</p>\n<p>让每一段旋律都自带氛围感滤镜～</p>\n<p>.</p>\n<p>九种泛音技巧\n”</p>\n<p><em>@崔骏Ukulele</em></p>\n<p></p>\n<p>同款琴： 彩虹人AKK3</p>\n<p>复制到淘宝打开：</p>\n<p>https://e.tb.cn/h.7sIHblohbHwiuCZ?tk=MGy1UjSUBvQ HU287</p>\n<p>更多零基础入门教学、选琴测评、</p>\n<p>乐理、考级、节奏型、技巧教学...</p>\n<p>统统在这里！👇</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649323926&amp;idx=2&amp;sn=ca02ec4ccc23514e618988ebfffbbf6f&amp;scene=21#wechat_redirect\"></a></p>\n<p></p>\n<p>往期热门内容</p>\n<p></p>\n<p>· 点击图片直达 ·</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340907&amp;idx=1&amp;sn=7c5df49c26306bd91065ecdc2c032092&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341236&amp;idx=1&amp;sn=307fde4f0f8dfd94515919d2fb61a061&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340972&amp;idx=1&amp;sn=e648d4c899ad92a10396084806ddc1f4&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341245&amp;idx=1&amp;sn=62d09c63adf71e30455c58289c66d680&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341251&amp;idx=1&amp;sn=873ff8e5f7dcb7de7c429b85f9849f2d&amp;scene=21#wechat_redirect\"></a></p>\n<p>-弹琴给你喜欢的人听-</p>\n<p>LIVE BETTER WITH UKULELE</p>\n<p></p>\n<p></p></body></html>",
-    "external_url": "https://mp.weixin.qq.com/s/4Z2nKu1koU2PM27gmlUxfQ",
-    "published_at": "2026-02-04 20:38",
-    "instrument": "ukulele",
-    "style": [
-      "pop"
-    ],
-    "sheet_images": []
-  },
-  {
     "resource_id": "wb_3273006200-2649341264_1",
     "title": "持续霸榜！我就知道这首歌迟早会火！",
-    "img_url": "/images/wb_3273006200-2649341264_1.jpg",
+    "img_url": "/images/wb_3273006200-2649341264_1_006.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -528,35 +449,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341264_1_010.jpg"
+      "/images/wb_3273006200-2649341264_1_006.jpg",
+      "/images/wb_3273006200-2649341264_1_007.jpg"
     ]
-  },
-  {
-    "resource_id": "wb_3273006200-2649341210_1",
-    "title": "手残党福音！一招教你丝滑弹唱N首歌！",
-    "img_url": "/images/wb_3273006200-2649341210_1.jpg",
-    "view_count": "0",
-    "price": 0,
-    "line_price": 0,
-    "source": "wechat_mp",
-    "mp_id": "MP_WXS_3273006200",
-    "mp_name": "白熊音乐",
-    "summary": "Cyber-G赛博吉他零基础弹唱教程：第9课",
-    "content": "<html><body><p></p>\n<p>上手即玩， 随时随地轻松掌控全场，</p>\n<p>一人就是精彩纷呈的赛博乐队。</p>\n<p>白熊音乐恩雅Cyber-G 赛博吉他 教程开启～</p>\n<p>一起跟着崔老师玩转起来吧！</p>\n<p>上期回顾</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649335364&amp;idx=1&amp;sn=b67dc0ec27186865ba70d7965e365171&amp;scene=21#wechat_redirect\">第一课：功能介绍+歌曲练习</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649335580&amp;idx=1&amp;sn=c182819468b9d1fff6fa50dc299474bc&amp;scene=21#wechat_redirect\">第二课：切换律动</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649335982&amp;idx=1&amp;sn=7658679e91923a6b9dce74dbcca8dcb8&amp;scene=21#wechat_redirect\">第三课：鼓机教学</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649336169&amp;idx=1&amp;sn=0bb428e65b5b6b579880b0b46c93ec5a&amp;scene=21#wechat_redirect\">第四课：solo模式+歌曲〈简单爱〉前奏教学</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649338368&amp;idx=1&amp;sn=ae95f7728f00489437359b77be1e86f6&amp;scene=21#wechat_redirect\">第五课：了解和弦级数</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341056&amp;idx=1&amp;sn=a550cec7a6e51c57fc6f605d7978a297&amp;scene=21#wechat_redirect\">第六课：连接APP弹奏歌曲</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341132&amp;idx=1&amp;sn=2ed472bfb7933a2105d31a80ecd533d6&amp;scene=21#wechat_redirect\">第七课：加入鼓点+歌曲</a> <a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341132&amp;idx=1&amp;sn=2ed472bfb7933a2105d31a80ecd533d6&amp;scene=21#wechat_redirect\">〈晴天〉练习</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341144&amp;idx=1&amp;sn=b08fd0b3ff49c926953b82a1c486ffee&amp;scene=21#wechat_redirect\">第八课：切换伴奏+歌曲</a> <a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341144&amp;idx=1&amp;sn=b08fd0b3ff49c926953b82a1c486ffee&amp;scene=21#wechat_redirect\">〈青花瓷〉练习</a></p>\n<p>Cyber-G\n赛博吉他\n教程\n第九课上线！</p>\n<p>今天崔老师将教大家如何</p>\n<p>把网络上的吉他谱和弦设置到赛博吉他上，</p>\n<p>解锁海量曲目的弹唱～</p>\n<p>超实用技巧一起get起来吧！</p>\n<p>09</p>\n<p>将海量曲谱导入赛博吉他</p>\n<p>@崔骏ukulele</p>\n<p>Cyber-G颠覆了传统乐器需要复杂学习的限制，</p>\n<p>不用任何音乐基础，</p>\n<p>就能轻松实现吉他、钢琴弹唱体验。</p>\n<p>恩雅赛博吉他Cyber-G</p>\n<p></p>\n<p></p>\n<p>封面cr@伊吹鸡腿子</p>\n<p></p>\n<p>往期热门内容</p>\n<p></p>\n<p>· 点击图片直达 ·</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340907&amp;idx=1&amp;sn=7c5df49c26306bd91065ecdc2c032092&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341155&amp;idx=1&amp;sn=47c46ad61020d43eb14404d5ad33cd2a&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340972&amp;idx=1&amp;sn=e648d4c899ad92a10396084806ddc1f4&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340843&amp;idx=2&amp;sn=e12c3dbb22bf67aa0f6681b6ff55df2d&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340915&amp;idx=1&amp;sn=bd7aed0c1a9b26b6adf2b65e25e53d05&amp;scene=21#wechat_redirect\"></a></p>\n<p>-弹琴给你喜欢的人听-</p>\n<p>LIVE BETTER WITH UKULELE</p>\n<p></p>\n<p></p>\n<p></p></body></html>",
-    "external_url": "https://mp.weixin.qq.com/s/lqf0NlmCLdFc8OMKE1OcqQ",
-    "published_at": "2026-01-30 20:30",
-    "instrument": "guitar",
-    "style": [
-      "pop"
-    ],
-    "sheet_images": [],
-    "bilibili_bvid": "BV1bt411q7fV",
-    "_bilibili_matched_title": "〈晴天〉/周杰伦 尤克里里ukulele弹唱教学by白熊音乐"
   },
   {
     "resource_id": "wb_3273006200-2649341155_1",
     "title": "不是吧，这已经是16年前的剧了？！",
-    "img_url": "/images/wb_3273006200-2649341155_1.jpg",
+    "img_url": "/images/wb_3273006200-2649341155_1_007.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -572,97 +472,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341155_1_011.jpg"
+      "/images/wb_3273006200-2649341155_1_007.jpg",
+      "/images/wb_3273006200-2649341155_1_008.jpg"
     ]
-  },
-  {
-    "resource_id": "wb_3273006200-2649341144_1",
-    "title": "中国风如果有天花板，大概就是这样吧！",
-    "img_url": "/images/wb_3273006200-2649341144_1.jpg",
-    "view_count": "0",
-    "price": 0,
-    "line_price": 0,
-    "source": "wechat_mp",
-    "mp_id": "MP_WXS_3273006200",
-    "mp_name": "白熊音乐",
-    "summary": "Cyber-G赛博吉他零基础弹唱教程：第8课",
-    "content": "<html><body><p></p>\n<p>上手即玩， 随时随地轻松掌控全场，</p>\n<p>一人就是精彩纷呈的赛博乐队。</p>\n<p>白熊音乐恩雅Cyber-G 赛博吉他 教程开启～</p>\n<p>一起跟着崔老师玩转起来吧！</p>\n<p>上期回顾</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649335364&amp;idx=1&amp;sn=b67dc0ec27186865ba70d7965e365171&amp;scene=21#wechat_redirect\">第一课：功能介绍+歌曲练习</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649335580&amp;idx=1&amp;sn=c182819468b9d1fff6fa50dc299474bc&amp;scene=21#wechat_redirect\">第二课：切换律动</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649335982&amp;idx=1&amp;sn=7658679e91923a6b9dce74dbcca8dcb8&amp;scene=21#wechat_redirect\">第三课：鼓机教学</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649336169&amp;idx=1&amp;sn=0bb428e65b5b6b579880b0b46c93ec5a&amp;scene=21#wechat_redirect\">第四课：solo模式+歌曲〈简单爱〉前奏教学</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649338368&amp;idx=1&amp;sn=ae95f7728f00489437359b77be1e86f6&amp;scene=21#wechat_redirect\">第五课：了解和弦级数</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341056&amp;idx=1&amp;sn=a550cec7a6e51c57fc6f605d7978a297&amp;scene=21#wechat_redirect\">第六课：连接APP弹奏歌曲</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341132&amp;idx=1&amp;sn=2ed472bfb7933a2105d31a80ecd533d6&amp;scene=21#wechat_redirect\">第七课：加入鼓点+歌曲</a> <a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341132&amp;idx=1&amp;sn=2ed472bfb7933a2105d31a80ecd533d6&amp;scene=21#wechat_redirect\">〈晴天〉练习</a></p>\n<p>Cyber-G\n赛博吉他\n教程\n第八课上线！</p>\n<p>这节课我们将以\n〈青花瓷〉为例，</p>\n<p>教大家如何在弹奏中切换伴奏，</p>\n<p>进行一整首歌曲的学习～</p>\n<p>08</p>\n<p>切换伴奏</p>\n<p>@崔骏ukulele</p>\n<p>Cyber-G颠覆了传统乐器需要复杂学习的限制，</p>\n<p>不用任何音乐基础，</p>\n<p>就能轻松实现吉他、钢琴弹唱体验。</p>\n<p>恩雅赛博吉他Cyber-G</p>\n<p></p>\n<p></p>\n<p>封面cr@伊吹鸡腿子</p>\n<p></p>\n<p>往期热门内容</p>\n<p></p>\n<p>· 点击图片直达 ·</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340907&amp;idx=1&amp;sn=7c5df49c26306bd91065ecdc2c032092&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341029&amp;idx=1&amp;sn=fa0f8fc8745b7a624a2f6c35bb23ea75&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340972&amp;idx=1&amp;sn=e648d4c899ad92a10396084806ddc1f4&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340843&amp;idx=2&amp;sn=e12c3dbb22bf67aa0f6681b6ff55df2d&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340915&amp;idx=1&amp;sn=bd7aed0c1a9b26b6adf2b65e25e53d05&amp;scene=21#wechat_redirect\"></a></p>\n<p>-弹琴给你喜欢的人听-</p>\n<p>LIVE BETTER WITH UKULELE</p>\n<p></p>\n<p></p>\n<p></p></body></html>",
-    "external_url": "https://mp.weixin.qq.com/s/Dkj3kI9Nb4bOyL7LcTdTRw",
-    "published_at": "2026-01-24 21:03",
-    "instrument": "guitar",
-    "style": [
-      "pop"
-    ],
-    "sheet_images": [],
-    "bilibili_bvid": "BV1bt411q7fV",
-    "_bilibili_matched_title": "〈晴天〉/周杰伦 尤克里里ukulele弹唱教学by白熊音乐"
-  },
-  {
-    "resource_id": "wb_3273006200-2649341132_1",
-    "title": "2026年了，不会还有人不会弹这首吧？！",
-    "img_url": "/images/wb_3273006200-2649341132_1.jpg",
-    "view_count": "0",
-    "price": 0,
-    "line_price": 0,
-    "source": "wechat_mp",
-    "mp_id": "MP_WXS_3273006200",
-    "mp_name": "白熊音乐",
-    "summary": "Cyber-G赛博吉他零基础弹唱教程：第7课",
-    "content": "<html><body><p></p>\n<p>上手即玩， 随时随地轻松掌控全场，</p>\n<p>一人就是精彩纷呈的赛博乐队。</p>\n<p>白熊音乐恩雅Cyber-G 赛博吉他 教程开启～</p>\n<p>一起跟着崔老师玩转起来吧！</p>\n<p>上期回顾</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649335364&amp;idx=1&amp;sn=b67dc0ec27186865ba70d7965e365171&amp;scene=21#wechat_redirect\">第一课：功能介绍+歌曲练习</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649335580&amp;idx=1&amp;sn=c182819468b9d1fff6fa50dc299474bc&amp;scene=21#wechat_redirect\">第二课：切换律动</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649335982&amp;idx=1&amp;sn=7658679e91923a6b9dce74dbcca8dcb8&amp;scene=21#wechat_redirect\">第三课：鼓机教学</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649336169&amp;idx=1&amp;sn=0bb428e65b5b6b579880b0b46c93ec5a&amp;scene=21#wechat_redirect\">第四课：solo模式+歌曲〈简单爱〉前奏教学</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649338368&amp;idx=1&amp;sn=ae95f7728f00489437359b77be1e86f6&amp;scene=21#wechat_redirect\">第五课：了解和弦级数</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341056&amp;idx=1&amp;sn=a550cec7a6e51c57fc6f605d7978a297&amp;scene=21#wechat_redirect\">第六课：连接APP弹奏歌曲</a></p>\n<p>Cyber-G\n赛博吉他\n教程\n第七课上线！</p>\n<p>上节课我们学习了如何跟着APP进行歌曲练习、</p>\n<p>对准节奏演奏和弦。</p>\n<p>这节课崔老师将以周杰伦\n的\n〈晴天〉为例，</p>\n<p>教大家在弹奏时加入鼓点，</p>\n<p>让曲子更丰富～</p>\n<p>07</p>\n<p>弹奏中加入鼓点</p>\n<p>@崔骏ukulele</p>\n<p>Cyber-G颠覆了传统乐器需要复杂学习的限制，</p>\n<p>不用任何音乐基础，</p>\n<p>就能轻松实现吉他、钢琴弹唱体验。</p>\n<p>恩雅赛博吉他Cyber-G</p>\n<p></p>\n<p></p>\n<p></p>\n<p>往期热门内容</p>\n<p></p>\n<p>· 点击图片直达 ·</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340907&amp;idx=1&amp;sn=7c5df49c26306bd91065ecdc2c032092&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341029&amp;idx=1&amp;sn=fa0f8fc8745b7a624a2f6c35bb23ea75&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340972&amp;idx=1&amp;sn=e648d4c899ad92a10396084806ddc1f4&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340843&amp;idx=2&amp;sn=e12c3dbb22bf67aa0f6681b6ff55df2d&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340915&amp;idx=1&amp;sn=bd7aed0c1a9b26b6adf2b65e25e53d05&amp;scene=21#wechat_redirect\"></a></p>\n<p>-弹琴给你喜欢的人听-</p>\n<p>LIVE BETTER WITH UKULELE</p>\n<p></p>\n<p></p>\n<p></p></body></html>",
-    "external_url": "https://mp.weixin.qq.com/s/Br8UqkzmMjBwK5-mo8RYKw",
-    "published_at": "2026-01-23 20:34",
-    "instrument": "guitar",
-    "style": [
-      "pop"
-    ],
-    "sheet_images": [],
-    "bilibili_bvid": "BV1bt411q7fV",
-    "_bilibili_matched_title": "〈晴天〉/周杰伦 尤克里里ukulele弹唱教学by白熊音乐"
-  },
-  {
-    "resource_id": "wb_3273006200-2649341129_2",
-    "title": "扫弦速成！新手学会直接开挂～",
-    "img_url": "/images/wb_3273006200-2649341129_2.jpg",
-    "view_count": "0",
-    "price": 0,
-    "line_price": 0,
-    "source": "wechat_mp",
-    "mp_id": "MP_WXS_3273006200",
-    "mp_name": "白熊音乐",
-    "summary": "吉他基本功第十三课：五种扫弦技巧",
-    "content": "<html><body><p></p>\n<p>新手必看！</p>\n<p>吉他基本功第十三课来啦~</p>\n<p>今天崔老师给大家分享的是:</p>\n<p>五种扫弦技巧</p>\n<p>上期回顾：</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649335442&amp;idx=2&amp;sn=2f0ac9c7ae5c18a76b815c5e9b771e9b&amp;scene=21#wechat_redirect\">第一课：右手拨弦</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649335598&amp;idx=2&amp;sn=4abdba056fb34639aa71b33ebaacfcf1&amp;scene=21#wechat_redirect\">第二课：左手按弦</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649335742&amp;idx=2&amp;sn=f069d710bffc0b9cc8af428817d85f5f&amp;scene=21#wechat_redirect\">第三课：和弦转换小妙招</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649335896&amp;idx=2&amp;sn=8309101f61a30ef87123c49e706a9b6a&amp;scene=21#wechat_redirect\">第四课：和弦进化小妙招</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649337439&amp;idx=2&amp;sn=2e468e0cf2567349237c3b180aa7a148&amp;scene=21#wechat_redirect\">第五课：入门指弹必备练习</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649337609&amp;idx=2&amp;sn=c5dde26a56de7386eb52b91dafc1295b&amp;scene=21#wechat_redirect\">第六课：指弹基本三要素</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649338824&amp;idx=2&amp;sn=ab88e9d393bcfd78414a0cbe932862d7&amp;scene=21#wechat_redirect\">第七课：五种难度击勾弦</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649338825&amp;idx=2&amp;sn=9cb3ce0c361a1afac271d8d76abcca01&amp;scene=21#wechat_redirect\">第八课：五种琶音技巧</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649339260&amp;idx=2&amp;sn=d921a1c17b768e05e48e93d12cfccb18&amp;scene=21#wechat_redirect\">第九课：交替低音</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649339415&amp;idx=2&amp;sn=72e0332b7fd10a65e90edaec4ce182b5&amp;scene=21#wechat_redirect\">第十课：五种滑音技巧</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340657&amp;idx=2&amp;sn=249160b4349d711a13f983b6925ea776&amp;scene=21#wechat_redirect\">第十一课：五种拍弦技巧</a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340907&amp;idx=2&amp;sn=e710974c07c262f55b745290ee8ff609&amp;scene=21#wechat_redirect\">第十二课：六种泛音技巧</a></p>\n<p>吉他基本功</p>\n<p>第十三课：五\n种扫弦技巧</p>\n<p>(高清视频在B站@白熊吉他)</p>\n<p>五种扫弦技巧：</p>\n<p>1.食指下扫；</p>\n<p>2.拇指上扫；</p>\n<p>3.多指下扫；</p>\n<p>4.拍弦下扫；</p>\n<p>5.轮扫。</p>\n<p></p>\n<p>微信小店：「白熊音乐」</p>\n<p>购琴点击直达：</p>\n<p></p>\n<p>往期热门内容</p>\n<p></p>\n<p>· 点击图片直达 ·</p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340907&amp;idx=1&amp;sn=7c5df49c26306bd91065ecdc2c032092&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649341029&amp;idx=1&amp;sn=fa0f8fc8745b7a624a2f6c35bb23ea75&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340972&amp;idx=1&amp;sn=e648d4c899ad92a10396084806ddc1f4&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340843&amp;idx=2&amp;sn=e12c3dbb22bf67aa0f6681b6ff55df2d&amp;scene=21#wechat_redirect\"></a></p>\n<p><a href=\"https://mp.weixin.qq.com/s?__biz=MzI3MzAwNjIwMA==&amp;mid=2649340915&amp;idx=1&amp;sn=bd7aed0c1a9b26b6adf2b65e25e53d05&amp;scene=21#wechat_redirect\"></a></p>\n<p>-弹琴给你喜欢的人听-</p>\n<p>LIVE BETTER WITH UKULELE</p>\n<p></p>\n<p></p>\n<p></p></body></html>",
-    "external_url": "https://mp.weixin.qq.com/s/4DWhhoPEqJaaR7g1uZtzLw",
-    "published_at": "2026-01-22 20:35",
-    "instrument": "guitar",
-    "style": [
-      "pop"
-    ],
-    "sheet_images": []
-  },
-  {
-    "resource_id": "wb_3273006200-2649341056_1",
-    "title": "告别手忙脚乱！原来弹唱竟如此简单？！",
-    "img_url": "/images/wb_3273006200-2649341056_1.jpg",
-    "view_count": "0",
-    "price": 0,
-    "line_price": 0,
-    "source": "wechat_mp",
-    "mp_id": "MP_WXS_3273006200",
-    "mp_name": "白熊音乐",
-    "summary": "Cyber-G赛博吉他零基础弹唱教程：第6课",
-    "content": "<p>：\n，\n。\n视频\n小程序\n赞\n，轻点两下取消赞\n在看\n，轻点两下取消在看</p>",
-    "external_url": "https://mp.weixin.qq.com/s/GgEf5nb7-Ogd9070ljUj0w",
-    "published_at": "2026-01-16 21:09",
-    "instrument": "guitar",
-    "style": [
-      "pop"
-    ],
-    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649341029_1",
     "title": "白月光合体！是谁的青春杀回来了？",
-    "img_url": "/images/wb_3273006200-2649341029_1.jpg",
+    "img_url": "/images/wb_3273006200-2649341029_1_007.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -678,13 +495,16 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341029_1_013.jpg"
+      "/images/wb_3273006200-2649341029_1_007.jpg",
+      "/images/wb_3273006200-2649341029_1_008.jpg",
+      "/images/wb_3273006200-2649341029_1_009.jpg",
+      "/images/wb_3273006200-2649341029_1_010.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649340972_1",
     "title": "年轻时写歌没轻没重的，老了可怎么办啊？！",
-    "img_url": "/images/wb_3273006200-2649340972_1.jpg",
+    "img_url": "/images/wb_3273006200-2649340972_1_010.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -699,12 +519,16 @@
     "style": [
       "pop"
     ],
-    "sheet_images": []
+    "sheet_images": [
+      "/images/wb_3273006200-2649340972_1_010.jpg",
+      "/images/wb_3273006200-2649340972_1_011.jpg",
+      "/images/wb_3273006200-2649340972_1_012.jpg"
+    ]
   },
   {
     "resource_id": "wb_3273006200-2649340940_1",
     "title": "两秒十连转音！好想借她的嗓子用一下...",
-    "img_url": "/images/wb_3273006200-2649340940_1.jpg",
+    "img_url": "/images/wb_3273006200-2649340940_1_008.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -720,13 +544,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649340940_1_012.jpg"
+      "/images/wb_3273006200-2649340940_1_008.jpg",
+      "/images/wb_3273006200-2649340940_1_009.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649340907_1",
     "title": "什么？这首风靡全球的曲子竟出自一位17岁少年之手！",
-    "img_url": "/images/wb_3273006200-2649340907_1.jpg",
+    "img_url": "/images/wb_3273006200-2649340907_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -742,7 +567,9 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649340907_1_010.jpg"
+      "/images/wb_3273006200-2649340907_1_005.jpg",
+      "/images/wb_3273006200-2649340907_1_006.jpg",
+      "/images/wb_3273006200-2649340907_1_007.jpg"
     ],
     "bilibili_bvid": "BV1AG4y1L77D",
     "_bilibili_matched_title": "别再只弹下下下上，来学这个简单又炫酷的节奏型弹唱《baby》贾斯汀比伯 Gorilla歌芮拉尤克里里弹唱"
@@ -750,7 +577,7 @@
   {
     "resource_id": "wb_3273006200-2649340907_2",
     "title": "别找了！六种必练泛音一次教给你！",
-    "img_url": "/images/wb_3273006200-2649340907_2.jpg",
+    "img_url": "/images/wb_3273006200-2649340907_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -765,12 +592,16 @@
     "style": [
       "pop"
     ],
-    "sheet_images": []
+    "sheet_images": [
+      "/images/wb_3273006200-2649340907_1_005.jpg",
+      "/images/wb_3273006200-2649340907_1_006.jpg",
+      "/images/wb_3273006200-2649340907_1_007.jpg"
+    ]
   },
   {
     "resource_id": "wb_3273006200-2649340862_1",
     "title": "内地第一人！他真的太争气了！",
-    "img_url": "/images/wb_3273006200-2649340862_1.jpg",
+    "img_url": "/images/wb_3273006200-2649340862_1_006.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -786,13 +617,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649340862_1_011.jpg"
+      "/images/wb_3273006200-2649340862_1_006.jpg",
+      "/images/wb_3273006200-2649340862_1_007.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649340786_1",
     "title": "意难平！这扑面而来的BE感真的太痛了！",
-    "img_url": "/images/wb_3273006200-2649340786_1.jpg",
+    "img_url": "/images/wb_3273006200-2649340786_1_008.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -808,13 +640,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649340786_1_011.jpg"
+      "/images/wb_3273006200-2649340786_1_008.jpg",
+      "/images/wb_3273006200-2649340786_1_009.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649340694_1",
     "title": "冷门歌手？她的歌都火了好几轮了！",
-    "img_url": "/images/wb_3273006200-2649340694_1.jpg",
+    "img_url": "/images/wb_3273006200-2649340694_1_007.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -830,13 +663,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649340694_1_013.jpg"
+      "/images/wb_3273006200-2649340694_1_007.jpg",
+      "/images/wb_3273006200-2649340694_1_008.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649340657_2",
     "title": "必练吉他拍弦技巧！新手也能掌握的节奏加分秘籍～",
-    "img_url": "/images/wb_3273006200-2649340657_2.jpg",
+    "img_url": "/images/wb_3273006200-2649340657_1_006.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -851,12 +685,15 @@
     "style": [
       "pop"
     ],
-    "sheet_images": []
+    "sheet_images": [
+      "/images/wb_3273006200-2649340657_1_006.jpg",
+      "/images/wb_3273006200-2649340657_1_007.jpg"
+    ]
   },
   {
     "resource_id": "wb_3273006200-2649342186_1",
     "title": "真香！之前没get到，现在循环到疯！",
-    "img_url": "/images/wb_3273006200-2649342186_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649342186_1_006.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -871,12 +708,17 @@
     "style": [
       "pop"
     ],
-    "sheet_images": []
+    "sheet_images": [
+      "/images/wb_3273006200-2649342186_1_006.jpg",
+      "/images/wb_3273006200-2649342186_1_007.jpg",
+      "/images/wb_3273006200-2649342186_1_008.jpg",
+      "/images/wb_3273006200-2649342186_1_009.jpg"
+    ]
   },
   {
     "resource_id": "wb_3273006200-2649342161_1",
     "title": "太会写了吧？直接听到头皮发麻！",
-    "img_url": "/images/wb_3273006200-2649342161_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649342161_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -892,17 +734,16 @@
       "pop"
     ],
     "sheet_images": [
+      "/images/wb_3273006200-2649342161_1_005.jpg",
+      "/images/wb_3273006200-2649342161_1_006.jpg",
       "/images/wb_3273006200-2649342161_1_007.jpg",
-      "/images/wb_3273006200-2649342161_1_008.jpg",
-      "/images/wb_3273006200-2649342161_1_009.jpg",
-      "/images/wb_3273006200-2649342161_1_010.jpg",
-      "/images/wb_3273006200-2649342161_1_011.jpg"
+      "/images/wb_3273006200-2649342161_1_008.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649342141_1",
     "title": "挖到宝了！她也该火了吧！",
-    "img_url": "/images/wb_3273006200-2649342141_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649342141_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -918,15 +759,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649342141_1_007.jpg",
-      "/images/wb_3273006200-2649342141_1_008.jpg",
-      "/images/wb_3273006200-2649342141_1_009.jpg"
+      "/images/wb_3273006200-2649342141_1_005.jpg",
+      "/images/wb_3273006200-2649342141_1_006.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649342130_1",
     "title": "时隔七年再合作，这神仙友谊太好哭了！",
-    "img_url": "/images/wb_3273006200-2649342130_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649342130_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -942,15 +782,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649342130_1_007.jpg",
-      "/images/wb_3273006200-2649342130_1_008.jpg",
-      "/images/wb_3273006200-2649342130_1_009.jpg"
+      "/images/wb_3273006200-2649342130_1_005.jpg",
+      "/images/wb_3273006200-2649342130_1_006.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649342061_1",
     "title": "太痛了！他才是被低估的情歌王子！",
-    "img_url": "/images/wb_3273006200-2649342061_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649342061_1_007.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -966,15 +805,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649342061_1_008.jpg",
-      "/images/wb_3273006200-2649342061_1_009.jpg",
-      "/images/wb_3273006200-2649342061_1_010.jpg"
+      "/images/wb_3273006200-2649342061_1_007.jpg",
+      "/images/wb_3273006200-2649342061_1_008.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341973_1",
     "title": "太幸福了！官宣歌单又添一首！",
-    "img_url": "/images/wb_3273006200-2649341973_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341973_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -990,15 +828,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341973_1_007.jpg",
-      "/images/wb_3273006200-2649341973_1_008.jpg",
-      "/images/wb_3273006200-2649341973_1_009.jpg"
+      "/images/wb_3273006200-2649341973_1_005.jpg",
+      "/images/wb_3273006200-2649341973_1_006.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341962_1",
     "title": "不敢想象毕业季播这首得哭成什么样！",
-    "img_url": "/images/wb_3273006200-2649341962_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341962_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1014,15 +851,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341962_1_007.jpg",
-      "/images/wb_3273006200-2649341962_1_008.jpg",
-      "/images/wb_3273006200-2649341962_1_009.jpg"
+      "/images/wb_3273006200-2649341962_1_005.jpg",
+      "/images/wb_3273006200-2649341962_1_006.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341944_1",
     "title": "是什么歌让周杰伦都直呼好听到吃手手啊？",
-    "img_url": "/images/wb_3273006200-2649341944_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341944_1_008.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1038,17 +874,16 @@
       "pop"
     ],
     "sheet_images": [
+      "/images/wb_3273006200-2649341944_1_008.jpg",
+      "/images/wb_3273006200-2649341944_1_009.jpg",
       "/images/wb_3273006200-2649341944_1_010.jpg",
-      "/images/wb_3273006200-2649341944_1_011.jpg",
-      "/images/wb_3273006200-2649341944_1_012.jpg",
-      "/images/wb_3273006200-2649341944_1_013.jpg",
-      "/images/wb_3273006200-2649341944_1_014.jpg"
+      "/images/wb_3273006200-2649341944_1_011.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341909_1",
     "title": "发行四个版本后爆火，连原唱都懵了！",
-    "img_url": "/images/wb_3273006200-2649341909_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341909_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1064,15 +899,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341909_1_007.jpg",
-      "/images/wb_3273006200-2649341909_1_008.jpg",
-      "/images/wb_3273006200-2649341909_1_009.jpg"
+      "/images/wb_3273006200-2649341909_1_005.jpg",
+      "/images/wb_3273006200-2649341909_1_006.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341900_1",
     "title": "凭一句歌词刷屏全网，治愈无数人！",
-    "img_url": "/images/wb_3273006200-2649341900_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341900_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1088,15 +922,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341900_1_007.jpg",
-      "/images/wb_3273006200-2649341900_1_008.jpg",
-      "/images/wb_3273006200-2649341900_1_009.jpg"
+      "/images/wb_3273006200-2649341900_1_005.jpg",
+      "/images/wb_3273006200-2649341900_1_006.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341874_1",
     "title": "全程高燃！听他弹琴只有0次和无数次！",
-    "img_url": "/images/wb_3273006200-2649341874_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341874_1_008.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1112,13 +945,22 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341874_1_020.jpg"
+      "/images/wb_3273006200-2649341874_1_008.jpg",
+      "/images/wb_3273006200-2649341874_1_009.jpg",
+      "/images/wb_3273006200-2649341874_1_010.jpg",
+      "/images/wb_3273006200-2649341874_1_011.jpg",
+      "/images/wb_3273006200-2649341874_1_012.jpg",
+      "/images/wb_3273006200-2649341874_1_013.jpg",
+      "/images/wb_3273006200-2649341874_1_014.jpg",
+      "/images/wb_3273006200-2649341874_1_015.jpg",
+      "/images/wb_3273006200-2649341874_1_016.jpg",
+      "/images/wb_3273006200-2649341874_1_017.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341856_1",
     "title": "因二创而刷屏！这歌怎么越听越上瘾！",
-    "img_url": "/images/wb_3273006200-2649341856_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341856_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1134,15 +976,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341856_1_007.jpg",
-      "/images/wb_3273006200-2649341856_1_008.jpg",
-      "/images/wb_3273006200-2649341856_1_009.jpg"
+      "/images/wb_3273006200-2649341856_1_005.jpg",
+      "/images/wb_3273006200-2649341856_1_006.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341806_1",
     "title": "明明长着一张酷脸，声音竟然这么甜！",
-    "img_url": "/images/wb_3273006200-2649341806_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341806_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1158,15 +999,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341806_1_009.jpg",
-      "/images/wb_3273006200-2649341806_1_010.jpg",
-      "/images/wb_3273006200-2649341806_1_011.jpg"
+      "/images/wb_3273006200-2649341806_1_005.jpg",
+      "/images/wb_3273006200-2649341806_1_006.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341775_1",
     "title": "十年了！怎么还把它翻出来刀我们？！",
-    "img_url": "/images/wb_3273006200-2649341775_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341775_1_008.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1182,15 +1022,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341775_1_010.jpg",
-      "/images/wb_3273006200-2649341775_1_011.jpg",
-      "/images/wb_3273006200-2649341775_1_012.jpg"
+      "/images/wb_3273006200-2649341775_1_008.jpg",
+      "/images/wb_3273006200-2649341775_1_009.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341750_1",
     "title": "无预警空降！\"冷门歌手\"又发新歌了！",
-    "img_url": "/images/wb_3273006200-2649341750_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341750_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1206,35 +1045,13 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341750_1_007.jpg",
-      "/images/wb_3273006200-2649341750_1_008.jpg",
-      "/images/wb_3273006200-2649341750_1_009.jpg"
+      "/images/wb_3273006200-2649341750_1_005.jpg"
     ]
-  },
-  {
-    "resource_id": "wb_3273006200-2649341690_1",
-    "title": "又双叒送千元琴？这次别再错过了！",
-    "img_url": "/images/wb_3273006200-2649341690_1_001.jpg",
-    "view_count": "0",
-    "price": 0,
-    "line_price": 0,
-    "source": "wechat_mp",
-    "mp_id": "MP_WXS_3273006200",
-    "mp_name": "白熊音乐",
-    "summary": "又双叒送千元琴？这次别再错过了！",
-    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
-    "external_url": "",
-    "published_at": "",
-    "instrument": "ukulele",
-    "style": [
-      "pop"
-    ],
-    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649341675_1",
     "title": "发行26年，它怎么还能一次又一次地爆火？！",
-    "img_url": "/images/wb_3273006200-2649341675_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341675_1_009.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1249,12 +1066,15 @@
     "style": [
       "pop"
     ],
-    "sheet_images": []
+    "sheet_images": [
+      "/images/wb_3273006200-2649341675_1_009.jpg",
+      "/images/wb_3273006200-2649341675_1_010.jpg"
+    ]
   },
   {
     "resource_id": "wb_3273006200-2649341671_1",
     "title": "16句歌词修改25次，他让全网听到破防！",
-    "img_url": "/images/wb_3273006200-2649341671_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341671_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1270,15 +1090,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341671_1_007.jpg",
-      "/images/wb_3273006200-2649341671_1_008.jpg",
-      "/images/wb_3273006200-2649341671_1_009.jpg"
+      "/images/wb_3273006200-2649341671_1_005.jpg",
+      "/images/wb_3273006200-2649341671_1_006.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341578_1",
     "title": "双故事嗓的天花板合作！直接听哭...",
-    "img_url": "/images/wb_3273006200-2649341578_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341578_1_004.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1294,15 +1113,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341578_1_006.jpg",
-      "/images/wb_3273006200-2649341578_1_007.jpg",
-      "/images/wb_3273006200-2649341578_1_008.jpg"
+      "/images/wb_3273006200-2649341578_1_004.jpg",
+      "/images/wb_3273006200-2649341578_1_005.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341571_1",
     "title": "当年的冷门神曲！放到现在依旧能打！",
-    "img_url": "/images/wb_3273006200-2649341571_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341571_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1318,15 +1136,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341571_1_007.jpg",
-      "/images/wb_3273006200-2649341571_1_008.jpg",
-      "/images/wb_3273006200-2649341571_1_009.jpg"
+      "/images/wb_3273006200-2649341571_1_005.jpg",
+      "/images/wb_3273006200-2649341571_1_006.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341562_1",
     "title": "谁懂？她一年只上一次班也能全网霸屏！",
-    "img_url": "/images/wb_3273006200-2649341562_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341562_1_006.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1341,12 +1158,15 @@
     "style": [
       "pop"
     ],
-    "sheet_images": []
+    "sheet_images": [
+      "/images/wb_3273006200-2649341562_1_006.jpg",
+      "/images/wb_3273006200-2649341562_1_007.jpg"
+    ]
   },
   {
     "resource_id": "wb_3273006200-2649341549_1",
     "title": "没听错！这首歌是春晚收视冠军！",
-    "img_url": "/images/wb_3273006200-2649341549_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341549_1_008.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1362,15 +1182,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341549_1_010.jpg",
-      "/images/wb_3273006200-2649341549_1_011.jpg",
-      "/images/wb_3273006200-2649341549_1_012.jpg"
+      "/images/wb_3273006200-2649341549_1_008.jpg",
+      "/images/wb_3273006200-2649341549_1_009.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341518_1",
     "title": "demo听到包浆后，它终于正式发行了！",
-    "img_url": "/images/wb_3273006200-2649341518_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341518_1_007.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1385,12 +1204,15 @@
     "style": [
       "pop"
     ],
-    "sheet_images": []
+    "sheet_images": [
+      "/images/wb_3273006200-2649341518_1_007.jpg",
+      "/images/wb_3273006200-2649341518_1_008.jpg"
+    ]
   },
   {
     "resource_id": "wb_3273006200-2649341503_1",
     "title": "会写又会唱！每次都被他狠狠戳中！",
-    "img_url": "/images/wb_3273006200-2649341503_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341503_1_007.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1406,15 +1228,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341503_1_009.jpg",
-      "/images/wb_3273006200-2649341503_1_010.jpg",
-      "/images/wb_3273006200-2649341503_1_011.jpg"
+      "/images/wb_3273006200-2649341503_1_007.jpg",
+      "/images/wb_3273006200-2649341503_1_008.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341489_1",
     "title": "没想到吧，这首歌居然是他们唱的！",
-    "img_url": "/images/wb_3273006200-2649341489_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341489_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1430,15 +1251,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341489_1_007.jpg",
-      "/images/wb_3273006200-2649341489_1_008.jpg",
-      "/images/wb_3273006200-2649341489_1_009.jpg"
+      "/images/wb_3273006200-2649341489_1_005.jpg",
+      "/images/wb_3273006200-2649341489_1_006.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341479_1",
     "title": "过年标配！谁还不是听她的歌长大的？！",
-    "img_url": "/images/wb_3273006200-2649341479_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341479_1_010.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1454,15 +1274,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341479_1_012.jpg",
-      "/images/wb_3273006200-2649341479_1_013.jpg",
-      "/images/wb_3273006200-2649341479_1_014.jpg"
+      "/images/wb_3273006200-2649341479_1_010.jpg",
+      "/images/wb_3273006200-2649341479_1_011.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341417_1",
     "title": "爱了十八年，宝藏歌曲终于被大家发现了！",
-    "img_url": "/images/wb_3273006200-2649341417_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341417_1_006.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1478,35 +1297,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341417_1_008.jpg",
-      "/images/wb_3273006200-2649341417_1_009.jpg",
-      "/images/wb_3273006200-2649341417_1_010.jpg"
+      "/images/wb_3273006200-2649341417_1_006.jpg",
+      "/images/wb_3273006200-2649341417_1_007.jpg"
     ]
-  },
-  {
-    "resource_id": "wb_3273006200-2649341375_1",
-    "title": "绝了！尤克里里技巧还能这么玩？90%的人都没见过！",
-    "img_url": "/images/wb_3273006200-2649341375_1_001.jpg",
-    "view_count": "0",
-    "price": 0,
-    "line_price": 0,
-    "source": "wechat_mp",
-    "mp_id": "MP_WXS_3273006200",
-    "mp_name": "白熊音乐",
-    "summary": "绝了！尤克里里技巧还能这么玩？90%的人都没见过！",
-    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
-    "external_url": "",
-    "published_at": "",
-    "instrument": "ukulele",
-    "style": [
-      "pop"
-    ],
-    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649341338_1",
     "title": "起猛了！他终于要开演唱会了？！",
-    "img_url": "/images/wb_3273006200-2649341338_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341338_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1522,15 +1320,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341338_1_007.jpg",
-      "/images/wb_3273006200-2649341338_1_008.jpg",
-      "/images/wb_3273006200-2649341338_1_009.jpg"
+      "/images/wb_3273006200-2649341338_1_005.jpg",
+      "/images/wb_3273006200-2649341338_1_006.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341328_1",
     "title": "虐恋绝杀曲！人怎么能唱出这么刀的歌！",
-    "img_url": "/images/wb_3273006200-2649341328_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341328_1_004.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1546,15 +1343,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341328_1_006.jpg",
-      "/images/wb_3273006200-2649341328_1_007.jpg",
-      "/images/wb_3273006200-2649341328_1_008.jpg"
+      "/images/wb_3273006200-2649341328_1_004.jpg",
+      "/images/wb_3273006200-2649341328_1_005.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341317_1",
     "title": "后劲大到破防！怎么全网都在唱这首歌？！",
-    "img_url": "/images/wb_3273006200-2649341317_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341317_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1570,15 +1366,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341317_1_007.jpg",
-      "/images/wb_3273006200-2649341317_1_008.jpg",
-      "/images/wb_3273006200-2649341317_1_009.jpg"
+      "/images/wb_3273006200-2649341317_1_005.jpg",
+      "/images/wb_3273006200-2649341317_1_006.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341280_1",
     "title": "救命！这版合唱直接把BE美学焊在舞台！",
-    "img_url": "/images/wb_3273006200-2649341280_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341280_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1594,35 +1389,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341280_1_007.jpg",
-      "/images/wb_3273006200-2649341280_1_008.jpg",
-      "/images/wb_3273006200-2649341280_1_009.jpg"
+      "/images/wb_3273006200-2649341280_1_005.jpg",
+      "/images/wb_3273006200-2649341280_1_006.jpg"
     ]
-  },
-  {
-    "resource_id": "wb_3273006200-2649341251_1",
-    "title": "练琴人集合！今日份抽琴机会已刷新！",
-    "img_url": "/images/wb_3273006200-2649341251_1_001.jpg",
-    "view_count": "0",
-    "price": 0,
-    "line_price": 0,
-    "source": "wechat_mp",
-    "mp_id": "MP_WXS_3273006200",
-    "mp_name": "白熊音乐",
-    "summary": "练琴人集合！今日份抽琴机会已刷新！",
-    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
-    "external_url": "",
-    "published_at": "",
-    "instrument": "ukulele",
-    "style": [
-      "pop"
-    ],
-    "sheet_images": []
   },
   {
     "resource_id": "wb_3273006200-2649341209_1",
     "title": "别瞎搞了！这首歌还得她唱才好听！",
-    "img_url": "/images/wb_3273006200-2649341209_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341209_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1638,15 +1412,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341209_1_007.jpg",
-      "/images/wb_3273006200-2649341209_1_008.jpg",
-      "/images/wb_3273006200-2649341209_1_009.jpg"
+      "/images/wb_3273006200-2649341209_1_005.jpg",
+      "/images/wb_3273006200-2649341209_1_006.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341173_1",
     "title": "20年过去了，他怎么一点都没老啊？！",
-    "img_url": "/images/wb_3273006200-2649341173_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341173_1_006.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1661,12 +1434,15 @@
     "style": [
       "pop"
     ],
-    "sheet_images": []
+    "sheet_images": [
+      "/images/wb_3273006200-2649341173_1_006.jpg",
+      "/images/wb_3273006200-2649341173_1_007.jpg"
+    ]
   },
   {
     "resource_id": "wb_3273006200-2649341161_1",
     "title": "解散多年，她们仍是无数人心中的意难平！",
-    "img_url": "/images/wb_3273006200-2649341161_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341161_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1682,15 +1458,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341161_1_008.jpg",
-      "/images/wb_3273006200-2649341161_1_009.jpg",
-      "/images/wb_3273006200-2649341161_1_010.jpg"
+      "/images/wb_3273006200-2649341161_1_005.jpg",
+      "/images/wb_3273006200-2649341161_1_006.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341080_1",
     "title": "藏了十几年的歌，终于被全网发现了！",
-    "img_url": "/images/wb_3273006200-2649341080_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341080_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1706,15 +1481,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341080_1_007.jpg",
-      "/images/wb_3273006200-2649341080_1_008.jpg",
-      "/images/wb_3273006200-2649341080_1_009.jpg"
+      "/images/wb_3273006200-2649341080_1_005.jpg",
+      "/images/wb_3273006200-2649341080_1_006.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341071_1",
     "title": "以前怎么没发现？原来苦情歌才是她的统治区！",
-    "img_url": "/images/wb_3273006200-2649341071_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341071_1_006.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1730,15 +1504,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341071_1_008.jpg",
-      "/images/wb_3273006200-2649341071_1_009.jpg",
-      "/images/wb_3273006200-2649341071_1_010.jpg"
+      "/images/wb_3273006200-2649341071_1_006.jpg",
+      "/images/wb_3273006200-2649341071_1_007.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341059_1",
     "title": "根本唱不了！现在的歌门槛都这么高了吗？",
-    "img_url": "/images/wb_3273006200-2649341059_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341059_1_007.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1754,15 +1527,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649341059_1_009.jpg",
-      "/images/wb_3273006200-2649341059_1_010.jpg",
-      "/images/wb_3273006200-2649341059_1_011.jpg"
+      "/images/wb_3273006200-2649341059_1_007.jpg",
+      "/images/wb_3273006200-2649341059_1_008.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649341006_1",
     "title": "被刷屏了！这火爆程度太离谱了！",
-    "img_url": "/images/wb_3273006200-2649341006_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649341006_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1778,17 +1550,16 @@
       "pop"
     ],
     "sheet_images": [
+      "/images/wb_3273006200-2649341006_1_005.jpg",
+      "/images/wb_3273006200-2649341006_1_006.jpg",
       "/images/wb_3273006200-2649341006_1_007.jpg",
-      "/images/wb_3273006200-2649341006_1_008.jpg",
-      "/images/wb_3273006200-2649341006_1_009.jpg",
-      "/images/wb_3273006200-2649341006_1_010.jpg",
-      "/images/wb_3273006200-2649341006_1_011.jpg"
+      "/images/wb_3273006200-2649341006_1_008.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649340951_1",
     "title": "榜单第一！循环多年的歌终于火了！",
-    "img_url": "/images/wb_3273006200-2649340951_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649340951_1_006.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1803,32 +1574,15 @@
     "style": [
       "pop"
     ],
-    "sheet_images": []
-  },
-  {
-    "resource_id": "wb_3273006200-2649340915_1",
-    "title": "一分钟白嫖千元琴！谁还没冲？！",
-    "img_url": "/images/wb_3273006200-2649340915_1_001.jpg",
-    "view_count": "0",
-    "price": 0,
-    "line_price": 0,
-    "source": "wechat_mp",
-    "mp_id": "MP_WXS_3273006200",
-    "mp_name": "白熊音乐",
-    "summary": "一分钟白嫖千元琴！谁还没冲？！",
-    "content": "<html><body><p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p>\n<p></p></body></html>",
-    "external_url": "",
-    "published_at": "",
-    "instrument": "ukulele",
-    "style": [
-      "pop"
-    ],
-    "sheet_images": []
+    "sheet_images": [
+      "/images/wb_3273006200-2649340951_1_006.jpg",
+      "/images/wb_3273006200-2649340951_1_007.jpg"
+    ]
   },
   {
     "resource_id": "wb_3273006200-2649340888_1",
     "title": "今夕是何年？这歌怎么突然爆了！",
-    "img_url": "/images/wb_3273006200-2649340888_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649340888_1_005.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1844,15 +1598,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649340888_1_007.jpg",
-      "/images/wb_3273006200-2649340888_1_008.jpg",
-      "/images/wb_3273006200-2649340888_1_009.jpg"
+      "/images/wb_3273006200-2649340888_1_005.jpg",
+      "/images/wb_3273006200-2649340888_1_006.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649340843_1",
     "title": "言而有信！你俩这么浪漫真的对吗？！",
-    "img_url": "/images/wb_3273006200-2649340843_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649340843_1_007.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1868,15 +1621,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649340843_1_009.jpg",
-      "/images/wb_3273006200-2649340843_1_010.jpg",
-      "/images/wb_3273006200-2649340843_1_011.jpg"
+      "/images/wb_3273006200-2649340843_1_007.jpg",
+      "/images/wb_3273006200-2649340843_1_008.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649340771_1",
     "title": "青回！盼了好多年，终于盼到你俩合作了！",
-    "img_url": "/images/wb_3273006200-2649340771_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649340771_1_006.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1892,15 +1644,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649340771_1_008.jpg",
-      "/images/wb_3273006200-2649340771_1_009.jpg",
-      "/images/wb_3273006200-2649340771_1_010.jpg"
+      "/images/wb_3273006200-2649340771_1_006.jpg",
+      "/images/wb_3273006200-2649340771_1_007.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649340657_1",
     "title": "别藏了，其实你也在单曲循环这首歌吧！",
-    "img_url": "/images/wb_3273006200-2649340657_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649340657_1_006.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1916,15 +1667,14 @@
       "pop"
     ],
     "sheet_images": [
-      "/images/wb_3273006200-2649340657_1_008.jpg",
-      "/images/wb_3273006200-2649340657_1_009.jpg",
-      "/images/wb_3273006200-2649340657_1_010.jpg"
+      "/images/wb_3273006200-2649340657_1_006.jpg",
+      "/images/wb_3273006200-2649340657_1_007.jpg"
     ]
   },
   {
     "resource_id": "wb_3273006200-2649340645_1",
     "title": "睁眼就是嗑！谁还没冲这部剧？",
-    "img_url": "/images/wb_3273006200-2649340645_1_001.jpg",
+    "img_url": "/images/wb_3273006200-2649340645_1_013.jpg",
     "view_count": "0",
     "price": 0,
     "line_price": 0,
@@ -1939,6 +1689,9 @@
     "style": [
       "pop"
     ],
-    "sheet_images": []
+    "sheet_images": [
+      "/images/wb_3273006200-2649340645_1_013.jpg",
+      "/images/wb_3273006200-2649340645_1_014.jpg"
+    ]
   }
 ]

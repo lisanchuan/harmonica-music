@@ -7,6 +7,7 @@ services:
       - ./data:/app/data
       - ./public/audio:/app/public/audio
       - ./public/images:/app/public/images
+      - ./.next:/app/.next
     restart: unless-stopped
     healthcheck:
       test: ["CMD", "wget", "-q", "--spider", "http://localhost:3000"]

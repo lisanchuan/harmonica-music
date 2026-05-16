@@ -27,7 +27,6 @@ export default async function UkuleleDetail({ params }: { params: Promise<{ id: 
     );
   }
 
-  const sheetMusicSrc = song.localImage || song.img_url;
   const hasAudio = song.localAudio || song.localAccompaniment;
 
   return (
@@ -54,8 +53,19 @@ export default async function UkuleleDetail({ params }: { params: Promise<{ id: 
       </div>
 
       <main className="pt-24 bg-zinc-900 min-h-screen">
-        {sheetMusicSrc ? (
-          <ContentViewer imageSrc={sheetMusicSrc} alt={song.title} />
+        {song.sheet_images && song.sheet_images.length > 0 ? (
+          <div className="flex flex-col items-center gap-6 p-4 pb-12">
+            {song.sheet_images.map((src, i) => (
+              <img
+                key={i}
+                src={src}
+                alt={`${song.title} 第${i + 1}页`}
+                className="w-full max-w-3xl rounded-lg shadow-lg"
+              />
+            ))}
+          </div>
+        ) : song.img_url ? (
+          <ContentViewer imageSrc={song.img_url} alt={song.title} />
         ) : (
           <div className="flex items-center justify-center h-full text-zinc-500">
             暂无曲谱内容
