@@ -15,6 +15,7 @@
 
 # next.js
 /.next/
+/.next
 /out/
 
 # production
@@ -39,3 +40,13 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Local media
+public/audio/
+public/images/
+
+# migration and generated local artifacts
+/_migration_backups/
+/public/tuner_old_backup/
+/scripts/__pycache__/
+/node_modules.incomplete-*/

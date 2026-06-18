@@ -1,51 +1,64 @@
-import SongList from '@/components/SongList';
-import type { Song } from '@/types/song';
-import fs from 'fs';
-import path from 'path';
+import Link from 'next/link';
+import { ArrowRight, FileText, FolderTree, LibraryBig, Search } from 'lucide-react';
+import ScoreRow from '@/components/ScoreRow';
+import SiteHeader from '@/components/SiteHeader';
+import { getScoreHome, scoreConfigurationError } from '@/lib/scores';
 
-async function getSongs(): Promise<Song[]> {
-  const base = process.cwd();
+export const dynamic = 'force-dynamic';
 
-  // 读取口琴数据
-  const songsFile = path.join(base, 'data', 'songs.json');
-  const songsData = JSON.parse(fs.readFileSync(songsFile, 'utf-8'));
-
-  // 读取微信公众号数据
-  const wechatFile = path.join(base, 'data', 'wechat_songs.json');
-  let wechatSongs: Song[] = [];
-  try {
-    wechatSongs = JSON.parse(fs.readFileSync(wechatFile, 'utf-8'));
-  } catch {
-    // 文件不存在或为空，忽略
-  }
-
-  // 合并：口琴数据 + 微信公众号数据
-  return [...(songsData as Song[]), ...wechatSongs];
-}
-
-export default async function Home() {
-  const songs = await getSongs();
-
+export default function Home() {
+  const issue = scoreConfigurationError();
+  if (issue) return <ConfigurationIssue message={issue} />;
+  const { stats, categories, recent, complete } = getScoreHome();
+  const groups = Map.groupBy(categories, (category) => category.group);
   return (
-    <main className="min-h-screen bg-gradient-to-b from-gray-50 to-gray-100 dark:from-gray-900 dark:to-gray-800">
-      <header className="bg-white dark:bg-zinc-900 shadow-sm">
-        <div className="mx-auto max-w-6xl px-4 py-8">
-          <h1 className="text-3xl font-bold text-gray-900 dark:text-white">
-            🎵 音乐曲谱馆
-          </h1>
-          <p className="mt-2 text-gray-600 dark:text-gray-400">
-            精选口琴、尤克里里曲谱与示范演奏
-          </p>
+    <main className="archive-page">
+      <SiteHeader compact />
+      <section className="archive-intro">
+        <div>
+          <p className="archive-kicker">中文乐谱资料馆</p>
+          <h1>找一首谱，安静地读。</h1>
         </div>
-      </header>
+        <form action="/scores" className="archive-search">
+          <Search aria-hidden="true" />
+          <input name="q" placeholder="输入曲名、作者、作曲者或分类" aria-label="搜索全部乐谱" autoFocus />
+          <button type="submit">搜索</button>
+        </form>
+        <dl className="archive-stats">
+          <div><dt>{stats.scores.toLocaleString()}</dt><dd>可读乐谱</dd></div>
+          <div><dt>{stats.assets.toLocaleString()}</dt><dd>真实文件</dd></div>
+          <div><dt>{stats.categories}</dt><dd>分类</dd></div>
+          <div><dt>{stats.pdfs.toLocaleString()}</dt><dd>PDF</dd></div>
+        </dl>
+      </section>
 
-      <SongList songs={songs} />
+      <section className="archive-section category-section">
+        <div className="section-heading"><div><FolderTree /><h2>按分类浏览</h2></div><Link href="/scores">全部乐谱<ArrowRight /></Link></div>
+        <div className="category-groups">
+          {[...groups].map(([group, items]) => (
+            <div className="category-group" key={group}>
+              <h3>{group}</h3>
+              <ul>{items.sort((a, b) => b.count - a.count).map((item) => <li key={item.name}><Link href={`/scores?category=${encodeURIComponent(item.name)}`}><span>{item.name}</span><b>{item.count}</b></Link></li>)}</ul>
+            </div>
+          ))}
+        </div>
+      </section>
 
-      <footer className="mt-auto border-t border-gray-200 bg-white py-6 dark:border-zinc-700 dark:bg-zinc-900">
-        <p className="text-center text-sm text-gray-500 dark:text-gray-400">
-          © 2026 音乐曲谱馆
-        </p>
-      </footer>
+      <section className="archive-section archive-two-column">
+        <div>
+          <div className="section-heading"><div><LibraryBig /><h2>最近更新</h2></div><Link href="/scores">更多<ArrowRight /></Link></div>
+          <div className="score-list">{recent.map((score) => <ScoreRow key={score.id} score={score} />)}</div>
+        </div>
+        <div>
+          <div className="section-heading"><div><FileText /><h2>内容较完整</h2></div><Link href="/scores?sort=assets">更多<ArrowRight /></Link></div>
+          <div className="score-list">{complete.map((score) => <ScoreRow key={score.id} score={score} />)}</div>
+        </div>
+      </section>
+      <footer className="archive-footer">音乐曲谱馆 · 本机资料库</footer>
     </main>
   );
+}
+
+function ConfigurationIssue({ message }: { message: string }) {
+  return <main className="archive-page"><SiteHeader compact /><section className="configuration-issue"><LibraryBig /><h1>资料馆暂未开放</h1><p>{message}</p></section></main>;
 }

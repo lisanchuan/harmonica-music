@@ -51,4 +51,6 @@ export interface Song {
   external_url?: string;     // 原文链接
   published_at?: string;     // 发布时间
   instrument?: Instrument;   // 乐器类型
+  sheet_images?: string[];   // 过滤后的乐谱图列表
+  bilibili_bvid?: string;   // 关联的 B站视频 BVID
 }

@@ -12,6 +12,12 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    ".agents/**",
+    ".claude/**",
+    "public/tuner/**",
+    "public/tuner_old_backup/**",
+    "scripts/__pycache__/**",
+    "openspec/**",
   ]),
 ]);
 

@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" href="/tuner/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="keyword" content="口琴调音器" />
+    <title>口琴学习机 - 本地调音器</title>
+    <script>
+      debugger
+    // ★ 最早期：阻止页面离开（beforeunload 比任何跳转都早触发）
+    window.addEventListener('beforeunload', function(e) {
+      debugger
+      console.log('[EARLY] beforeunload fired - blocking');
+      e.preventDefault();
+      e.returnValue = '';
+      return '';
+    });
+    // ★ 记录初始化顺序
+    console.log('[EARLY] script start, current url:', location.href);
+    </script>
+    <script>
+    // 拦截器 - 阻止跳转到 ikouqinke.com，重定向 API 请求到本地
+    (function() {
+      console.log('[interceptor] setting up hooks...');
+      var BLOCKED = ['ikouqinke.com', 'kouqinke.com'];
+      var REDIRECTS = {
+        'api.ikouqinke.com': location.origin + '/tuner/api-mock',
+        'www.ikouqinke.com': location.origin + '/tuner',
+        'api.kouqinke.com': location.origin + '/tuner/api-mock',
+        'www.kouqinke.com': location.origin + '/tuner'
+      };
+
+      function isBlocked(url) {
+        if (typeof url !== 'string') return false;
+        for (var i = 0; i < BLOCKED.length; i++) {
+          if (url.indexOf(BLOCKED[i]) !== -1) return true;
+        }
+        return false;
+      }
+
+      function rewriteUrl(url) {
+        if (typeof url !== 'string') return url;
+        var keys = Object.keys(REDIRECTS);
+        for (var i = 0; i < keys.length; i++) {
+          if (url.indexOf(keys[i]) !== -1) {
+            return url.replace('https://' + keys[i], REDIRECTS[keys[i]])
+                      .replace('http://' + keys[i], REDIRECTS[keys[i]]);
+          }
+        }
+        return url;
+      }
+
+      // 拦截 fetch
+      var _fetch = window.fetch;
+      window.fetch = function(url, opts) {
+        return _fetch.call(this, rewriteUrl(url), opts);
+      };
+
+      // 拦截 XMLHttpRequest
+      var _open = XMLHttpRequest.prototype.open;
+      XMLHttpRequest.prototype.open = function(method, url, async, user, password) {
+        return _open.call(this, method, rewriteUrl(url), async, user, password);
+      };
+
+      // ★ 拦截 location.href 赋值 —— 记录 ALL 赋值，不管目标是什么
+      var _hrefDesc = Object.getOwnPropertyDescriptor(Location.prototype, 'href');
+      Object.defineProperty(Location.prototype, 'href', {
+        get: function() { return _hrefDesc.get.call(this); },
+        set: function(val) {
+          console.log('[INTERCEPT] location.href =', val, '(current:', location.href, ')');
+          debugger; // ★ 任何 location.href 赋值都会触发断点
+          if (isBlocked(String(val))) {
+            console.error('[INTERCEPT] BLOCKED external redirect');
+            return;
+          }
+          _hrefDesc.set.call(this, val);
+        },
+        configurable: true
+      });
+
+      // 拦截 location.replace
+      var _replace = Location.prototype.replace;
+      Location.prototype.replace = function(url) {
+        console.log('[INTERCEPT] location.replace:', url);
+        debugger;
+        if (isBlocked(String(url))) { console.error('[INTERCEPT] BLOCKED'); return; }
+        return _replace.call(this, url);
+      };
+
+      // 拦截 location.assign
+      var _assign = Location.prototype.assign;
+      Location.prototype.assign = function(url) {
+        console.log('[INTERCEPT] location.assign:', url);
+        debugger;
+        if (isBlocked(String(url))) { console.error('[INTERCEPT] BLOCKED'); return; }
+        return _assign.call(this, url);
+      };
+
+      // 拦截 window.open
+      var _open = window.open;
+      window.open = function(url, target, features) {
+        console.log('[INTERCEPT] window.open:', url, 'target:', target);
+        if (target === '_self' || target === '_parent' || target === '_top' || !target) {
+          debugger;
+          if (isBlocked(String(url))) { console.error('[INTERCEPT] BLOCKED'); return null; }
+        }
+        return _open.call(window, rewriteUrl(url), target, features);
+      };
+
+      // 定时检查 URL 是否被意外修改
+      var currentUrl = location.href;
+      setInterval(function() {
+        if (location.href !== currentUrl) {
+          if (isBlocked(location.href)) {
+            console.log('[interceptor] detected navigation to:', location.href, '- attempting back');
+            history.back();
+          }
+          currentUrl = location.href;
+        }
+      }, 100);
+
+      console.log('[interceptor] initialized (strong mode)');
+    })();
+    </script>
+    <script src="//res.wx.qq.com/open/js/jweixin-1.6.0.js"></script>
+    <script src="/tuner/js/aubio.min.js"></script>
+    <script type="module" crossorigin src="/tuner/static/js/vendor-base.BHbH-Msk.js"></script>
+    <script type="module" crossorigin src="/tuner/static/js/vendor-vue.N7D_YnGn.js"></script>
+    <script type="module" crossorigin src="/tuner/static/js/vendor-date.4ca_1A1R.js"></script>
+    <script type="module" crossorigin src="/tuner/static/js/vendor-lodash.DsjvB1hq.js"></script>
+    <script type="module" crossorigin src="/tuner/static/js/vendor-ui.D2Wt4YZO.js"></script>
+    <script type="module" crossorigin src="/tuner/static/js/vendor-icons.BNvIhm_H.js"></script>
+    <script type="module" crossorigin src="/tuner/static/js/vendor-math.BHX-UooA.js"></script>
+    <script type="module" crossorigin src="/tuner/static/js/vendor-utils.Cdo178f5.js"></script>
+    <script type="module" crossorigin src="/tuner/static/js/app-pub.1XU7eS8V.js"></script>
+    <script type="module" crossorigin src="/tuner/static/js/vendor-gsap.qLCvvbdH.js"></script>
+    <script type="module" crossorigin src="/tuner/static/js/vendor-tone.3yxx-8p_.js"></script>
+    <script type="module" crossorigin src="/tuner/static/js/app-harmonica.BUsp6HFP.js"></script>
+    <script type="module" crossorigin src="/tuner/static/js/app-main.Cmcp98vh.js"></script>
+    <link rel="stylesheet" crossorigin href="/tuner/static/css/app-harmonica.BwjOS4Ra.css">
+    <link rel="stylesheet" crossorigin href="/tuner/static/css/app-main.DJL0nj5t.css">
+  </head>
+  <body>
+    <div id="iching" class="iching-ui"></div>
+</body>
+</html>
